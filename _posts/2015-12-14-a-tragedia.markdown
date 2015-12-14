@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "A Tragédia"
+date:   2015-12-14 11:05:40 -0200
+---
+O rompimento de duas barragens no distrito de Bento Rodrigues, em Mariana, na região central de Minas Gerais, deixou dezenas de pessoas feridas e desabrigadas, desde o dia 5 de novembro.
+
+As barragens de Fundão e Santarém eram de responsabilidade da empresa Samarco, que tem 50% de suas ações nas mãos da Vale, uma das maiores mineradoras do mundo. A outra metade pertence à australiana BHP Billiton.
