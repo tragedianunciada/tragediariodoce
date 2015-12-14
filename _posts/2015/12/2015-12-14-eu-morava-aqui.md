@@ -1,6 +1,7 @@
 ---
 date: "2015-12-14T18:10:18-02:00"
-tags: []
+tags:
+  - tag: atingidos
 tipo: noticia
 editoria: atingido
 title: Eu morava aqui
