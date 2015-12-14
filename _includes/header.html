@@ -12,7 +12,7 @@
   <nav role="navigation" class='menu'>
     <ul>
       {% for my_page in site.pages %}
-        {% if my_page.title %}
+        {% if my_page.title and my_page.hide_on_menu != true %}
         <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
         {% endif %}
       {% endfor %}
