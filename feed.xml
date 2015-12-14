@@ -5,8 +5,8 @@
     <description></description>
     <link>http://guilhermeweimann1.github.io/tragediariodoce/</link>
     <atom:link href="http://guilhermeweimann1.github.io/tragediariodoce/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Dec 2015 20:52:54 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Dec 2015 20:52:54 +0000</lastBuildDate>
+    <pubDate>Mon, 14 Dec 2015 21:14:14 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Dec 2015 21:14:14 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -24,6 +24,8 @@
         <pubDate>Mon, 14 Dec 2015 20:10:18 +0000</pubDate>
         <link>http://guilhermeweimann1.github.io/tragediariodoce/2015/12/14/eu-morava-aqui/</link>
         <guid isPermaLink="true">http://guilhermeweimann1.github.io/tragediariodoce/2015/12/14/eu-morava-aqui/</guid>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;atingidos&quot;}</category>
         
         
       </item>
