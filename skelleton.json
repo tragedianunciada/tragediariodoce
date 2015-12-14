@@ -47,7 +47,7 @@
   }
 },
 {
-  "name": "linha-fina",
+  "name": "support_line",
   "title": "Linha fina",
   "required": true,
   "placeholder": "Informe a linha fina",
