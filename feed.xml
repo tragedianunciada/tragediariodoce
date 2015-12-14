@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tragédia do Rio Doce</title>
+    <title>Rio Doce</title>
     <description></description>
-    <link>http://guilhermeweimann1.github.io/tragediariodoce//</link>
-    <atom:link href="http://guilhermeweimann1.github.io/tragediariodoce//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Dec 2015 13:47:42 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Dec 2015 13:47:42 +0000</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Dec 2015 20:46:24 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Dec 2015 20:46:24 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Eu morava aqui</title>
+        <description>&lt;p&gt;&lt;img alt=&quot;mariana01.jpg&quot; src=&quot;//farm6.staticflickr.com/5691/23383955399_8d3490421a_b.jpg&quot; /&gt;Com uma popula&amp;ccedil;&amp;atilde;o de cerca de 600 pessoas, no pequeno distrito rural de Bento Rodrigues (MG), pouco menos de 20% das casas ficaram de p&amp;eacute; ap&amp;oacute;s a trag&amp;eacute;dia causada pelo rompimento das barragens da Samarco (Vale / BHP Billiton).&lt;/p&gt;
+
+&lt;p&gt;No final da tarde do dia 5 de novembro quase todas as cerca de 180 resid&amp;ecirc;ncias foram para debaixo da lama de rejeito que atingiu quase 15 metros de altura.&lt;/p&gt;
+
+&lt;p&gt;Estabelecimentos comerciais, a Igreja de S&amp;atilde;o Bento &amp;ndash; constru&amp;iacute;da no s&amp;eacute;culo XVIII &amp;ndash; a escola municipal, entre outros im&amp;oacute;veis, tamb&amp;eacute;m n&amp;atilde;o foram poupados.&lt;/p&gt;
+
+&lt;p&gt;Um m&amp;ecirc;s ap&amp;oacute;s a trag&amp;eacute;dia a maioria dos ex-moradores de Bento est&amp;atilde;o alojados em hot&amp;eacute;is no centro de Mariana. Uma parcela menor foi direcionada para casas alugadas.&lt;/p&gt;
+
+&lt;p&gt;Segundo a Samarco, 153 resid&amp;ecirc;ncias tempor&amp;aacute;rias foram entregues. As casas atendem 564 pessoas de Bento Rodrigues, Paracatu e outros distritos de Mariana, al&amp;eacute;m de moradores do munic&amp;iacute;pio de Barra Longa.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Dec 2015 20:10:18 +0000</pubDate>
+        <link>/2015/12/14/eu-morava-aqui/</link>
+        <guid isPermaLink="true">/2015/12/14/eu-morava-aqui/</guid>
+        
+        
+      </item>
     
       <item>
         <title>A Tragédia</title>
@@ -16,8 +35,8 @@
 &lt;p&gt;As barragens de Fundão e Santarém eram de responsabilidade da empresa Samarco, que tem 50% de suas ações nas mãos da Vale, uma das maiores mineradoras do mundo. A outra metade pertence à australiana BHP Billiton.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Dec 2015 13:05:40 +0000</pubDate>
-        <link>http://guilhermeweimann1.github.io/tragediariodoce//2015/12/14/a-tragedia/</link>
-        <guid isPermaLink="true">http://guilhermeweimann1.github.io/tragediariodoce//2015/12/14/a-tragedia/</guid>
+        <link>/2015/12/14/a-tragedia/</link>
+        <guid isPermaLink="true">/2015/12/14/a-tragedia/</guid>
         
         
       </item>
