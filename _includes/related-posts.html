@@ -1,0 +1,19 @@
+{% assign posts = include.post | get_posts_releated: site.posts, 5 %}
+{% if posts.size > 0 %}
+  <aside>
+    <h1>Relacionadas</h1>
+    <ul>
+      {% for releated in posts %}
+        <li>
+          <a href="{{ site.baseurl }}{{ releated.url }}">
+            <p>{{ releated.title }}</p>
+            <time datetime="{{ releated.date }}">
+            {{ releated.date | pretty_date }}
+            </time>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  </aside>
+{% endif %}
+
