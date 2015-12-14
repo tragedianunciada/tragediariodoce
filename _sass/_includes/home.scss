@@ -52,6 +52,7 @@ body > main.home {
 }
 
 body > main.home > section.row {
+  @include outer-container;
   max-width: 100%;
 
   section {
