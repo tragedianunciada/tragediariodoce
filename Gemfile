@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+ruby '2.2.0'
+gem 'jekyll', '~> 3.0'
+gem 'jekyll-sitemap', '~> 0.9'
+gem 'jekyll-gh-pages', '~> 0.1.0'
+gem 'redcarpet', '~> 3.3'
