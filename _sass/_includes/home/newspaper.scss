@@ -1,0 +1,31 @@
+section.newspaper {
+  min-width: 0;
+
+  figure {
+    border: 1px solid $mst-light-gray;
+    padding: 14px;
+    min-height: 400px;
+    text-align: center;
+    box-shadow: none;
+    width: 100%;
+
+    img {
+      width: 72%;
+      border: 1px solid #666;
+      border-radius: 3px;
+    }
+
+    figcaption {
+      color: $mst-green;
+      font-size: 19px;
+      font-family: $font-family-base;
+      font-weight: 700;
+      text-decoration: underline;
+      padding-top: 20px;
+    }
+
+    &:after {
+      background: none;
+    }
+  }
+}

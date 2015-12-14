@@ -1,0 +1,18 @@
+section.featured-news {
+  @media (min-width: $screen-sm) {
+    p, h1 {
+      max-width: 370px;
+    }
+
+    p {
+      margin-top: 5px;
+    }
+
+    figure {
+      float: none;
+      height: 190px;
+      max-width: 370px;
+      margin: 0;
+    }
+  }
+}

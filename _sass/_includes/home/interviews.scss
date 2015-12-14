@@ -1,0 +1,20 @@
+section.interviews {
+  .headline-text-over-image figure{
+    width: 100%;
+  }
+
+  & > ul {
+    margin-top: 10px;
+    li{
+      margin-bottom: 20px;
+
+      a {
+        color: $mst-dark-gray;
+        font-family: $font-family-base;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 120%;
+      }
+    }
+  }
+}

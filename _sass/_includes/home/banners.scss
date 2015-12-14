@@ -1,0 +1,29 @@
+section.banners {
+  display: none;
+
+  @media (min-width: $screen-sm) {
+    display: block;
+    min-width: 0;
+
+    a + a {
+      figure {
+        margin-top: 20px;
+      }
+    }
+
+    figure {
+      display: inline-block;
+      box-shadow: none;
+      width: 260px;
+      height: 260px;
+
+      img {
+        width: 200px;
+      }
+
+      &:after {
+        background: none;
+      }
+    }
+  }
+}

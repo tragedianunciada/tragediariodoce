@@ -1,0 +1,159 @@
+main.topic {
+  @include default-figure-images();
+
+  header, section {
+    margin: 0;
+    text-align: justify;
+
+    h1, h2 {
+      margin: 0;  
+      margin-bottom: 10px;
+    }
+    
+    & > h1 {
+      width: 100%;
+      text-align: center;
+      letter-spacing: -2px;
+      font-weight: bold;
+    }
+
+    h2 {
+      margin-bottom: 0.5em;
+      border-bottom: dashed 1px $gray-light;
+      padding-bottom: 0.3em;
+    }
+  }
+
+  header {
+    overflow: auto;
+    margin-bottom: 30px;
+
+    figure {
+      margin: 0 auto 10px auto;
+
+      img {
+        width: 100%;  
+      }
+    }
+
+    p {
+      max-width: 100%;
+      text-align: justify;
+      margin: 0;
+    }
+
+    details {
+      &[open], &.open {
+        summary {
+          display: none;
+        }
+      }
+
+      summary {
+        cursor: pointer;
+        color: $mst-green;
+        font-weight: bold;
+        float: right;
+        padding-top: 1.2em;
+        text-decoration: underline;
+
+        &:focus {
+          outline: none;
+        }
+
+        &:hover {
+          text-decoration: underline;
+          color: $link-hover-color;
+        }
+      }
+    }
+  }
+
+  section {
+    margin-bottom: 10px;
+
+    ul {
+      list-style: none;
+      padding: 0;
+
+      li + li {
+        margin-top: 20px;
+      }
+    }
+
+    p {
+      text-align: left;
+    }
+
+    p.more {
+      margin: 0;
+      display: block;
+      text-align: right;
+      font-weight: bold;
+      clear: both;
+
+      a {
+        color: $mst-green;
+        text-decoration: underline;
+      }
+
+      a:hover {
+        color: $link-hover-color;
+      }
+    }
+  }
+}
+
+@media(min-width: $screen-md) {
+  main.topic {
+    header {
+      figure {
+        float: left;
+        margin-right: 20px;
+      }
+
+      h1 {
+        text-align: left;
+       }
+    }
+
+    section {
+      ul {
+        margin: 0;
+
+        li {
+          width: 32.6%;
+          display: block;
+          float: left;
+          vertical-align: top;
+          margin-right: 1%;
+
+          h1 {
+            margin-top: 10px;
+          }
+
+          & + li {
+            margin-top: 0;
+          }
+        }
+
+        li:last-child {
+          margin-right: 0;
+        }
+      }
+    }
+
+    section.videos {
+      ul {
+        li {
+          width: 32%;
+          display: inline-block;
+          float: none;
+          margin: 0;
+          width: 33%;
+        }
+      }  
+    }
+  }
+}
+

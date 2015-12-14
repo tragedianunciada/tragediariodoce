@@ -1,0 +1,41 @@
+section.recent {
+  padding-bottom: 10px;
+
+  & > p {
+    margin: 0;
+    padding-top: 0.2em;
+    display: block;
+    text-align: right;
+    font-weight: bold;
+    clear: both;
+
+    a {
+      color: #006400;
+      font-weight: bold;
+      text-decoration: underline;
+    }
+
+    a:hover {
+      color: $link-hover-color;
+    }
+  }
+
+  article.headline {
+    & > h1 {
+      font-family: $font-family-base;
+      line-height: 120%;
+      border-top: 1px solid #dddddd;
+      padding-top: 10px;
+      font-size: 26px;
+      margin-bottom: 10px;
+    }
+
+    & > p {
+      font-size: 16px;
+    }
+  }
+
+  @media (min-width: $screen-md) {
+    padding-left: 470px;
+  }
+}

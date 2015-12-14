@@ -1,0 +1,128 @@
+main.post {
+  article {
+    overflow: hidden;
+
+    header {
+      h1 {
+        margin-bottom: 8px;
+      }
+
+      time {
+        display: block;
+        font-size: 14px;
+        color: $mst-medium-gray;
+        margin-bottom: 15px;
+      }
+
+      p {
+        color: #929292;
+        font-size: 1.1em;
+        margin-top: 7px;
+        margin-bottom: 10px;
+        line-height: 115%;
+      }
+    }
+
+    p {
+      font-size: 1.1em;
+    }
+
+    h1 {
+      margin-top: 0.4em;
+      word-wrap: break-word;
+      clear: both;
+      font-size: 23px;
+      line-height: 96%;
+    }
+
+    .tags {
+      margin-bottom: 10px;
+      overflow: hidden;
+      .tag {
+        float: left;
+        margin-bottom: 5px;
+        margin-right: 5px;
+      }
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    img[style*="float:left"]{
+      margin: 30px 30px 30px 0;
+    }
+
+    img[style*="float:right"]{
+      margin: 30px 0px 30px 30px;
+    }
+
+    figure img{
+      margin: 0;
+      display: block;
+    }
+    figure[style*="float:right"] {
+      margin: 30px 0px 30px 30px;
+    }
+
+    figure[style*="float:left"]{
+      margin: 30px 30px 30px 0;
+    }
+
+    figcaption {
+      background-color: #DDD;
+      padding: 5px 10px;
+      font-size: 13px;
+    }
+    object, iframe {
+      max-width: 100%;
+    }
+  }
+  .social {
+    margin-bottom: 10px;
+    img{
+      display: inline;
+      width: 28px;
+      height: auto;
+    }
+  }
+  footer{
+    a{
+      font-size: 17px;
+    }
+  }
+}
+
+@media(min-width: $screen-sm) {
+  main.post {
+    width: 80%;
+    margin-left: 128px;
+    article {
+      padding-right: 0;
+      .article-body{
+        width: 74%;
+        max-width: 753px;
+      }
+      header{
+        h1{
+          font-size: 41px;
+          margin-bottom: 16px;
+          margin-top: 0.2em;
+        }
+        p{
+          font-size: 1.3em;
+        }
+      }
+      img {
+        width: 100%;
+      }
+    }
+  }
+}
+
+figure.social-button {
+  vertical-align: top;
+  box-shadow: 0px 0px 0px;
+  margin-top: -2px;
+}

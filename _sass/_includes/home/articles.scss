@@ -1,0 +1,36 @@
+section.articles {
+  .headline-text-over-image figure{
+    width: 100%;
+  }
+
+  @media(min-width: $screen-sm) {
+	  border: none;
+    vertical-align:top;
+
+    ul {
+      li {
+        display: inline-block;
+      }
+      li + li {
+        margin-top: 10px;
+      }
+    }
+
+    article.headline {
+      & > a > figure {
+        height: 90px;
+        width: 150px;
+        float: left;
+        margin-right: 10px;
+      }
+
+      h1 {
+        margin-top: 0;
+      }
+
+      p {
+        margin-bottom: 0;
+      }
+    }
+  }
+}
