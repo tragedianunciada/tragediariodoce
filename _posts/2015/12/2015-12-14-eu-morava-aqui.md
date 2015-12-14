@@ -4,7 +4,7 @@ tags: []
 tipo: noticia
 editoria: atingido
 title: Eu morava aqui
-linha-fina: "Pouco menos de 20% das casas ficaram de pé após a tragédia causada pelo rompimento das barragens da Samarco (Vale / BHP Billiton)"
+support_line: "Pouco menos de 20% das casas ficaram de pé após a tragédia causada pelo rompimento das barragens da Samarco (Vale / BHP Billiton)"
 layout: post
 files:
   - link: //farm6.staticflickr.com/5691/23383955399_8d3490421a_b.jpg
