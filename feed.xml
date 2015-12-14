@@ -3,10 +3,10 @@
   <channel>
     <title>Rio Doce</title>
     <description></description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Dec 2015 20:46:24 +0000</pubDate>
-    <lastBuildDate>Mon, 14 Dec 2015 20:46:24 +0000</lastBuildDate>
+    <link>http://guilhermeweimann1.github.io/tragediariodoce/</link>
+    <atom:link href="http://guilhermeweimann1.github.io/tragediariodoce/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 14 Dec 2015 20:50:31 +0000</pubDate>
+    <lastBuildDate>Mon, 14 Dec 2015 20:50:31 +0000</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -22,8 +22,8 @@
 &lt;p&gt;Segundo a Samarco, 153 resid&amp;ecirc;ncias tempor&amp;aacute;rias foram entregues. As casas atendem 564 pessoas de Bento Rodrigues, Paracatu e outros distritos de Mariana, al&amp;eacute;m de moradores do munic&amp;iacute;pio de Barra Longa.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Dec 2015 20:10:18 +0000</pubDate>
-        <link>/2015/12/14/eu-morava-aqui/</link>
-        <guid isPermaLink="true">/2015/12/14/eu-morava-aqui/</guid>
+        <link>http://guilhermeweimann1.github.io/tragediariodoce/2015/12/14/eu-morava-aqui/</link>
+        <guid isPermaLink="true">http://guilhermeweimann1.github.io/tragediariodoce/2015/12/14/eu-morava-aqui/</guid>
         
         
       </item>
@@ -35,8 +35,8 @@
 &lt;p&gt;As barragens de Fundão e Santarém eram de responsabilidade da empresa Samarco, que tem 50% de suas ações nas mãos da Vale, uma das maiores mineradoras do mundo. A outra metade pertence à australiana BHP Billiton.&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 Dec 2015 13:05:40 +0000</pubDate>
-        <link>/2015/12/14/a-tragedia/</link>
-        <guid isPermaLink="true">/2015/12/14/a-tragedia/</guid>
+        <link>http://guilhermeweimann1.github.io/tragediariodoce/2015/12/14/a-tragedia/</link>
+        <guid isPermaLink="true">http://guilhermeweimann1.github.io/tragediariodoce/2015/12/14/a-tragedia/</guid>
         
         
       </item>
