@@ -62,7 +62,7 @@
   "icon": "fa-youtube",
   "title": "Video de capa",
   "placeholder": "Informe o link para o video",
-  "required": true,
+  "required": false,
   "type": {
     "view": "video"
   },
