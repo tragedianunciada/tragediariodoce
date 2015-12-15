@@ -38,7 +38,7 @@
   }
 },
 {
-  "name": "micro-região",
+  "name": "micro-regiao",
   "title": "Micro Região",
   "required": true,
   "type": {
@@ -51,7 +51,7 @@
   }
 },
 {
-  "name": "titulo",
+  "name": "title",
   "title": "Título da noticia",
   "required": true,
   "placeholder": "Informe o titulo",
@@ -60,7 +60,7 @@
   }
 },
 {
-  "name": "linha-fina",
+  "name": "support_line",
   "title": "Linha fina",
   "required": true,
   "placeholder": "Informe a linha fina",
