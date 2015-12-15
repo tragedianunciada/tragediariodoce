@@ -128,7 +128,8 @@ body > main.home > section.row {
     @include span-columns(12);
 
     article {
-      @include span-columns(4 of 12);
+      @include span-columns(4);
+      @include omega(4n);
     }
   }
   .featured-banner {
