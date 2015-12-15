@@ -1,7 +1,16 @@
 #galeria-nav {
   height: 30px;
   width: 100%;
-  a {
-    margin-right: 10px;
+  background-color: $color_menu;
+
+  section {
+    margin: 0 auto;
+    width: 35%;
+    height: 100%;
+    padding-top: 2px;
+    a {
+      margin: 10px 10px 10px 10px;
+      color: $background_color_menu;
+    }
   }
 }

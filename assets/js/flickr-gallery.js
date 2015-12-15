@@ -9,6 +9,7 @@ var nanoGalleryStyle = {
       descriptionMaxLength: 80,
       hideIcons: true,
     },
+    breadcrumbAutoHideTopLevel: true,
     colorScheme: 'light'
 }
 
@@ -47,6 +48,14 @@ jQuery(document).ready(function () {
 
   function takeHash() { return location.hash.slice(1); }
 
+  function urlIsHashed() {
+    return takeHash() && takeHash().indexOf("nanoGallery") == -1
+  }
+
+  function takeTheFirstGallery(argument) {
+    return $("#galeria div").first().attr("id");
+  }
+
   function galleryByHash(hash) {
     $("#galeria").append("<div id=" + hash + "></div>");
     $('#' + hash).nanoGallery(flickrGallery.buildGallery(hash, nanoGalleryStyle));
@@ -54,7 +63,7 @@ jQuery(document).ready(function () {
 
   flickrGallery.findPhotoSetsIds(function( photoset ) {
       var anchor = '#' + photoset.id;
-      $('#galeria-nav').append('<a href=' + anchor + '>' + photoset.title._content + '</a>')
+      $('#galeria-nav section').append('<a href=' + anchor + '>' + photoset.title._content + '</a>')
       $(document).on('click', "a[href='" + anchor + "']", function () {
         $("#galeria div").remove();
         galleryByHash(photoset.id);
@@ -62,8 +71,10 @@ jQuery(document).ready(function () {
 
   });
 
-  if (takeHash() && takeHash().indexOf("nanoGallery") == -1) {
+  if (urlIsHashed()) {
     galleryByHash(takeHash())
+  } else {
+    galleryByHash(takeTheFirstGallery())
   }
 
 });
