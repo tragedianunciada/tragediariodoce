@@ -9,7 +9,7 @@ module Jekyll
 
       cover = find('cover').first
 
-      featured_news = find('noticia', 'tipo').slice(0,4)
+      featured_news = find('noticia', 'tipo').slice(0,6)
 
       site.config['cover'] = cover
       site.config['featured_news'] = featured_news
