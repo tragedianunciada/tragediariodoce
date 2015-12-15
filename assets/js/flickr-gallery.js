@@ -3,8 +3,12 @@ var nanoGalleryStyle = {
     thumbnailGutterWidth : 0,
     thumbnailGutterHeight : 0,
     thumbnailWidth: 'auto',
-    thumbnailHeight: 250,
-
+    thumbnailHeight: 350,
+    thumbnailLabel: {
+      displayDescription: true,
+      descriptionMaxLength: 80,
+      hideIcons: true,
+    },
     colorScheme: 'light'
 }
 
