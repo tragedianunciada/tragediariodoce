@@ -1,5 +1,4 @@
 [
-
 {
   "name": "date",
     "pattern": "",
@@ -38,6 +37,28 @@
   }
 },
 {
+  "name": "micro-regiao",
+  "title": "Micro Região",
+  "required": true,
+  "type": {
+    "view": "select",
+    "options": [
+    {"name": "Mariana - MG", "id": "mariana"},
+    {"name": "Governador Valadares - MG", "id": "valadares"},
+    {"name": "Colatina - ES", "id": "colatina"}
+    ]
+  }
+},
+{
+  "name": "autoria-local",
+  "title": "Autoria e Local",
+  "required": true,
+  "placeholder": "Informe a autoria e o local",
+  "type": {
+    "view": "textarea"
+  }
+},
+{
   "name": "title",
   "title": "Título da noticia",
   "required": true,
@@ -62,7 +83,7 @@
   "icon": "fa-youtube",
   "title": "Video de capa",
   "placeholder": "Informe o link para o video",
-  "required": true,
+  "required": false,
   "type": {
     "view": "video"
   },
