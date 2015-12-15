@@ -1,5 +1,4 @@
 [
-
 {
   "name": "date",
     "pattern": "",
@@ -48,6 +47,15 @@
     {"name": "Governador Valadares - MG", "id": "valadares"},
     {"name": "Colatina - ES", "id": "colatina"}
     ]
+  }
+},
+{
+  "name": "autoria-local",
+  "title": "Autoria e Local",
+  "required": true,
+  "placeholder": "Informe a autoria e o local",
+  "type": {
+    "view": "textarea"
   }
 },
 {
