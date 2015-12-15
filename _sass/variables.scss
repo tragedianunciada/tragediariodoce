@@ -4,9 +4,9 @@ $gray: lighten(#222, 33.5%); // #555
 $gray-light: lighten(#222, 60%);   // #999
 $gray-lighter: lighten(#222, 93.5%); // #eee
 
-$brand-primary: #DA251C;
+$brand-primary: #1C769A;
 $mst-green: darkgreen;
-$mst-red: #961913;
+$mst-red: $brand-primary;
 $mst-light-gray: #e3e2e2;
 $mst-medium-gray: #A3A3AB;
 $mst-dark-gray: #555;
