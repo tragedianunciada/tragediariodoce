@@ -63,7 +63,7 @@ jQuery(document).ready(function () {
 
   flickrGallery.findPhotoSetsIds(function( photoset ) {
       var anchor = '#' + photoset.id;
-      $('#galeria-nav section').append('<a href=' + anchor + '>' + photoset.title._content + '</a>')
+      $('#sub-nav section').append('<a href=' + anchor + '>' + photoset.title._content + '</a>')
       $(document).on('click', "a[href='" + anchor + "']", function () {
         $("#galeria div").remove();
         galleryByHash(photoset.id);
