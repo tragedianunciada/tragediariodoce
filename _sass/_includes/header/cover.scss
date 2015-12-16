@@ -18,6 +18,11 @@
     }
   }
 
+  .title-container {
+    display: inline-block;
+    margin: 0;
+  }
+
   h1 {
     display: inline-block;
     text-shadow: 2px 2px 0px black;
@@ -58,6 +63,7 @@
     }
     .logo {
       height: 60px;
+      display: inline-block;
     }
     .open {
       display: none;
@@ -68,23 +74,27 @@
 
     height: $logo_height + $padding;
 
-    h1, h2 {
+    .title-container {
       margin: 0;
-      vertical-align: top;
       display: inline-block;
-      line-height: $logo_height;
-    }
 
-    h1 {
-      font-size: 3em;
-      font-weight: 600;
-      padding: 0 5px;
-    }
+      h1, h2 {
+        margin: 0;
+        vertical-align: top;
+        display: block;
+        line-height: $logo_height / 2;
+        padding: 0 5px;
+      }
 
-    h2 {
-      font-size: 1.3em;
-      font-weight: 400;
-      line-height: $logo_height + 5px;
+      h1 {
+        font-size: 3em;
+        font-weight: 600;
+      }
+
+      h2 {
+        font-size: 1.3em;
+        font-weight: 400;
+      }
     }
 
     .logo {
