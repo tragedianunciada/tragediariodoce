@@ -1,0 +1,27 @@
+{% assign noticias_posts = (paginator.posts | where: "tipo" , "noticia")  %}
+{% if noticias_posts.size > 2 %}
+  <section class="featured-news-large">
+{% else %}
+  <section class="featured-news">
+{% endif %}
+  <h2 class="hat">Noticias</h2>
+  {% for post in noticias_posts %}
+      {% include headline-with-image.html post=post support_line=true show_time=false %}
+  {% endfor %}
+</section>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
+  {% else %}
+    <span>&laquo;</span>
+  {% endif %}
+
+  <a href="#">{{ paginator.page }} / {{ paginator.total_pages }}</a>
+
+ {% if paginator.next_page %}
+   <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
+ {% else %}
+   <span>&raquo;</span>
+ {% endif %}
+</div>

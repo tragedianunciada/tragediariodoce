@@ -1,11 +1,13 @@
-#sub-nav {
+
+.site-sub-nav {
   height: 30px;
   width: 100%;
   background-color: $color_menu;
 
   section {
     margin: 0 auto;
-    width: 35%;
+    width: 100%;
+    text-align: center;
     height: 100%;
     padding-top: 2px;
     a {
