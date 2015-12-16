@@ -16,6 +16,8 @@ files:
 created_date: "2015-12-15T14:33:30-02:00"
 published: true
 releated_posts: []
+autoria-local: Redação/SP
+micro-regiao: mariana
 
 ---
 <p><img alt="Screen Shot 2015-12-15 at 14.35.09.png" src="//farm6.staticflickr.com/5681/23143857983_8bd0f34a49_b.jpg" /></p>
