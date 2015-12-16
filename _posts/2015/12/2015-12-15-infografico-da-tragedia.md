@@ -2,7 +2,7 @@
 date: "2015-12-15T14:26:17-02:00"
 tags: []
 tipo: noticia
-editoria: atingido
+editoria: meio-ambiente
 title: Infográfico da tragédia
 support_line: Os números da maior tragédia ambiental brasileira
 layout: post
@@ -40,6 +40,8 @@ files:
 created_date: "2015-12-15T14:31:04-02:00"
 published: true
 releated_posts: []
+micro-regiao: mariana
+autoria-local: Redação/MG
 
 ---
 <p><img alt="info_head.jpg" src="//farm6.staticflickr.com/5652/23402592549_cb46855bb2_b.jpg" /></p>

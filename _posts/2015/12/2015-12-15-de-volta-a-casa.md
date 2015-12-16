@@ -4,7 +4,7 @@ tags: []
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
-autoria-local: Redação/SP
+autoria-local: Redação/MG
 title: De volta à casa
 support_line: "Retornar e ver o que sobrou do pequeno distrito rural de Mariana (MG) foi tarefa difícil para Gleison Alexandria Souza, de 31 anos."
 layout: post

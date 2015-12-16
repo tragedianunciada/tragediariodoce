@@ -15,6 +15,9 @@
 body > main.home {
   @include default-figure-images();
   display: block;
+  width: 90%;
+  min-width: 360px;
+  max-width: 1080px;
 }
 
 
@@ -23,7 +26,6 @@ body > main.home {
   body > main.home {
     display: table;
     vertical-align: top;
-    min-width: 1088px;
     padding: 0;
 
   }
@@ -37,7 +39,6 @@ body > main.home {
 
 @media(max-width: $screen-md) {
   body > main.home {
-    width: 1080px;
     margin: 0 auto;
   }
 }
@@ -46,7 +47,6 @@ body > main.home {
   body {
     main.home, main.post {
       margin: 30px auto;
-      max-width: 1100px;
     }
   }
 }
@@ -71,7 +71,6 @@ body > main.home > section.row {
 
 @media(max-width: $screen-sm) {
   body > main.home {
-    width: 360px;
     margin: 0 auto;
   }
 }
