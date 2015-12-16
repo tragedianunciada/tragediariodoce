@@ -1,6 +1,7 @@
 ---
 date: "2015-12-15T14:32:31-02:00"
-tags: []
+tags:
+  - tag: atingidos
 tipo: noticia
 editoria: atingido
 title: A vida de Sandra
