@@ -1,4 +1,4 @@
-@mixin line-menu(){
+@mixin line-menu() {
   display: block;
 
   ul.dropdown-menu {
@@ -40,12 +40,22 @@
 }
 
 .menu {
-  & > ul li.dropdown > a:after {
-    font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
-    content: " \E114";
-    font-size: 0.7em;
-    display: inline-block;
-    margin-left: 0.5em;
+  ul {
+    li {
+      display: block;
+
+      &.dropdown > a:after {
+        font-family: 'Glyphicons Halflings Regular', Helvetica, Arial, sans-serif;
+        content: " \E114";
+        font-size: 0.7em;
+        display: inline-block;
+        margin-left: 0.5em;
+      }
+
+      a {
+        text-align: center;
+      }
+    }
   }
 }
 
@@ -53,89 +63,21 @@
   .menu {
     display: inline;
 
-    & > ul {
-      height: 0;
-      opacity: 0;
-      overflow: hidden;
+    ul {
+      height: auto;
+      opacity: 1;
+      overflow: visible;
       margin: 0 20px;
       padding: 0;
-      @include transition(opacity, 0.2s, ease-in);
-
-      &, ul {
-        line-height: 1;
-        list-style: none;
-        width: auto;
-        font-size: 17px;
-        text-align: left;
-
-        li {
-          @include line-menu();
-        }
-      }
-
-      li.dropdown > a.active::after {
-        content: " \E113";
-      }
-    }
-  }
-}
-
-
-@media(min-width: $screen-xs) {
-  .menu {
-    ul {
       text-align: center;
-      margin-bottom: 0;
+      @include transition(opacity, 0.2s, ease-in);
 
       li {
         display: inline-block;
 
         a, a:hover, a:visited {
           display: inline-block;
-          padding: 10px 5px;
-        }
-      }
-    }
-  }
-
-  .menu > ul {
-    height: auto;
-    opacity: 1;
-    overflow: visible;
-
-    li.dropdown {
-      position: relative;
-      z-index: 100;
-    }
-
-    ul.dropdown-menu {
-      background: $background_color_menu;
-      position: absolute;
-      left: -9999px;
-      top: 100%;
-      max-width: 250px;
-      margin: 0;
-      border-radius: 0 0 4px 4px;
-      white-space: nowrap;
-      text-align: left;
-
-      &.active {
-        left: 0;
-        z-index: 3;
-      }
-
-      li {
-        display: block;
-        margin: 0px 5px;
-
-        a {
-          display: block;
-          padding: 5px;
-          color: $color_menu;
-
-          &:hover {
-            color: lighten($color_menu, 20%);
-          }
+          padding: 10px;
         }
       }
     }

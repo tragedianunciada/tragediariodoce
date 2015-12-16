@@ -8,7 +8,7 @@
 
 
 
-@media(max-width: $screen-sm) {
+@media(max-width: $screen-md) {
   html, body {overflow-x: hidden;}
   main.post{
     min-height: 1290px; //tamanho do menu
@@ -22,7 +22,7 @@
     height: auto;
     padding-top: 10px;
     background: $mst-red;
-    box-shadow: inset -5px -10px 10px 0 rgba(0,0,0,.3);
+    box-shadow: inset -3px -3px 3px 0 rgba(0,0,0,.4);
 
     .dropdown-menu li a {
       padding-left: 40px;

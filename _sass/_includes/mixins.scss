@@ -1,6 +1,6 @@
 @mixin default-figure-images(){
   figure {
-    margin: 0;
+    margin: 0 auto;
     max-width: 370px;
     border-radius: 3px;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.125);
@@ -18,7 +18,7 @@
 }
 @mixin default-section-mobile(){
   clear: both;
-  display: inline-block; 
+  display: inline-block;
   border-top: 1px solid;
 
   ul {
@@ -35,7 +35,7 @@
         line-height: 1.3em;
         margin-bottom: 3px;
       }
-      
+
       p {
        font-weight: normal;
        line-height: 1.1em;
