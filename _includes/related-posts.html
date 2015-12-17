@@ -1,7 +1,7 @@
 {% assign posts = include.post | get_posts_releated: site.posts, 5 %}
 {% if posts.size > 0 %}
   <aside>
-    <h1>Relacionadas</h1>
+    <h1>Saiba mais</h1>
     <ul>
       {% for releated in posts %}
         <li>
