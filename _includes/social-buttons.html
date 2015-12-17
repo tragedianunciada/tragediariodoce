@@ -1,8 +1,6 @@
 <div class='social'>
   {% if include.article.images_hd and include.article.images_hd != '' %}
 	   {% assign picture = include.article.images_hd %}
-  {% elsif include.article.video_thumbnail and include.article.video_thumbnail != '' %}
-		 {% assign picture = include.article.video_thumbnail %}
   {% endif %}
 
   {% if picture %}

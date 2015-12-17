@@ -1,3 +1,4 @@
+{% assign paginator.posts = (paginator.posts | where: "tipo" , "noticia")  %}
 {% assign noticias_posts = (paginator.posts | where: "tipo" , "noticia")  %}
 {% if noticias_posts.size > 2 %}
   <section class="featured-news-large">
