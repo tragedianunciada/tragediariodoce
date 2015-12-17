@@ -6,19 +6,19 @@ scripts: ["latest-news/laster.js", "album.js"]
 <main class="post">
   <article>
     <header>
-      {% include tag-list.html tags = page.tags %}
       <h1 itemprop="name">{{ page.title }}</h1>
       <p itemprop="description">{{ page.support_line }}</p>
       <time datetime="{{ page.date }}" itemprop="datePublished">
         {{ page.date | pretty_date }}
       </time>
-      {% include social-buttons.html article = page %}
     </header>
     {% include related-posts.html post=page %}
     <div itemprop="articleBody" class="article-body">{{ content }}</div>
   </article>
   <br>
+  {% include tag-list.html tags = page.tags %}
   {% include social-buttons.html article = page %}
+
   {% include latest-news.html %}
 </main>
 <script type="text/javascript" src="{{ site.baseurl}}/assets/js/legend.js"></script>
