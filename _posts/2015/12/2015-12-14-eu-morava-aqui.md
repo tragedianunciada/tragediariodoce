@@ -16,7 +16,8 @@ files:
     $$hashKey: 01A
 created_date: "2015-12-14T18:13:17-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/12/2015-12-15-a-vida-de-sandra.md
 micro-regiao: colatina
 autoria-local: Redação/ES
 
