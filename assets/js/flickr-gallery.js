@@ -31,7 +31,7 @@ FlickrGallery = function (userID) {
     return 'https://api.flickr.com/services/rest/?method=flickr.photosets.getList&api_key=' + this.APIKey + '&user_id=' + this.userID + '&format=json&nojsoncallback=1';
   }
 
-  FlickrGallery.prototype.findPhotoSetsIds = function(cb) {
+  FlickrGallery.prototype.findPhotoSets = function(cb) {
 
     $.get( this.buildFlickrCall(), function(data) {
         data.photosets.photoset.slice(0,3).forEach(cb);
@@ -52,29 +52,26 @@ jQuery(document).ready(function () {
     return takeHash() && takeHash().indexOf("nanoGallery") == -1
   }
 
-  function takeTheFirstGallery(argument) {
-    return $("#galeria div").first().attr("id");
-  }
-
   function galleryByHash(hash) {
     $("#galeria").append("<div id=" + hash + "></div>");
     $('#' + hash).nanoGallery(flickrGallery.buildGallery(hash, nanoGalleryStyle));
   }
 
-  flickrGallery.findPhotoSetsIds(function( photoset ) {
+  flickrGallery.findPhotoSets(function( photoset, index ) {
       var anchor = '#' + photoset.id;
-      $('#galeria-nav section').append('<a href=' + anchor + '>' + photoset.title._content + '</a>')
+      $('.site-sub-nav section').append('<a href=' + anchor + '>' + photoset.title._content + '</a>')
       $(document).on('click', "a[href='" + anchor + "']", function () {
         $("#galeria div").remove();
         galleryByHash(photoset.id);
       });
 
+      if (index === 0) {
+        galleryByHash(photoset.id);
+      }
   });
 
   if (urlIsHashed()) {
-    galleryByHash(takeHash())
-  } else {
-    galleryByHash(takeTheFirstGallery())
+    galleryByHash(takeHash());
   }
 
 });
