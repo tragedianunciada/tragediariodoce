@@ -94,6 +94,21 @@
   }
 },
 {
+  "name": "images_hd",
+  "pattern": "",
+  "icon": "fa-picture-o",
+  "title": "Imagem de Capa",
+  "required": true,
+  "type": {
+    "view": "cover"
+  },
+  "need": {
+    "field": "section",
+    "equal": false,
+    "value": "tv"
+  }
+},
+{
   "name": "tags",
   "pattern": "",
   "icon": "fa-tags",
