@@ -7,19 +7,28 @@ main.post {
         margin-bottom: 8px;
       }
 
-      time {
-        display: block;
-        font-size: 14px;
-        color: $mst-medium-gray;
-        margin-bottom: 15px;
-      }
-
       p {
         color: #929292;
         font-size: 1.1em;
         margin-top: 7px;
         margin-bottom: 10px;
         line-height: 115%;
+      }
+    }
+
+    .img-cover {
+      max-height: 500px;
+      width: auto;
+    }
+
+    .article-detail {
+      display: block;
+      font-size: 14px;
+      color: $mst-medium-gray;
+      margin-bottom: 15px;
+
+      p {
+        margin: 0;
       }
     }
 
