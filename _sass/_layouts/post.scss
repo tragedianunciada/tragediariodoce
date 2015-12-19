@@ -1,6 +1,7 @@
 main.post {
   article {
     overflow: hidden;
+    position: relative;
 
     header {
       h1 {
@@ -107,12 +108,15 @@ main.post {
   main.post {
     width: 80%;
     margin-left: 128px;
+
     article {
       padding-right: 0;
-      .article-body{
+
+      header, .article-body, .article-detail {
         width: 74%;
         max-width: 753px;
       }
+
       header{
         h1{
           font-size: 41px;
@@ -123,6 +127,7 @@ main.post {
           font-size: 1.3em;
         }
       }
+
       img {
         width: 100%;
       }

@@ -10,10 +10,9 @@ scripts: ["latest-news/laster.js", "album.js"]
       <h1 itemprop="name">{{ page.title }}</h1>
       <p itemprop="description">{{ page.support_line }}</p>
     </header>
+    {% include related-posts.html post=page %}
     {% if page.images_hd %}
-      <p>
-        <img class="img-cover" src="{{ page.images_hd }}" alt="{{ page.title }}">
-      </p>
+      <img class="img-cover" src="{{ page.images_hd }}" alt="{{ page.title }}">
     {% endif %}
     <div class="article-detail">
       <p>{{ page.micro-regiao }} - {{ page.autoria-local }}</p>
@@ -21,7 +20,6 @@ scripts: ["latest-news/laster.js", "album.js"]
         {{ page.date | pretty_date }}
       </time>
     </div>
-    {% include related-posts.html post=page %}
     <div itemprop="articleBody" class="article-body">{{ content }}</div>
   </article>
   <br>
