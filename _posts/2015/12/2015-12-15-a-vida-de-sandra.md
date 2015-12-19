@@ -2,7 +2,6 @@
 date: "2015-12-15T14:32:31-02:00"
 tags:
   - tag: atingidos
-  - tag: relato
 tipo: noticia
 editoria: atingido
 title: A vida de Sandra
@@ -17,7 +16,8 @@ files:
     $$hashKey: 04E
 created_date: "2015-12-15T14:33:30-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/12/2015-12-14-eu-morava-aqui.md
 autoria-local: Redação/SP
 micro-regiao: mariana
 images_hd: //farm6.staticflickr.com/5681/23143857983_8bd0f34a49_b.jpg
