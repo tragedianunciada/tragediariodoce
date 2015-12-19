@@ -1,6 +1,7 @@
 ---
 date: "2015-12-15T15:42:48-02:00"
-tags: []
+tags:
+  - tag: atingidos
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
@@ -17,10 +18,13 @@ files:
     $$hashKey: 03I
 created_date: "2015-12-15T15:44:18-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/12/2015-12-14-eu-morava-aqui.md
+  - 2015/12/2015-12-15-a-vida-de-sandra.md
+images_hd: //farm1.staticflickr.com/749/23145020863_e95caa8d68_b.jpg
 
 ---
-<p><img alt="casa.jpg" src="//farm1.staticflickr.com/749/23145020863_e95caa8d68_b.jpg" /></p>
+<p>&nbsp;</p>
 
 <p>Retornar e ver o que sobrou do pequeno distrito rural de Mariana (MG) foi tarefa dif&iacute;cil para Gleison Alexandria Souza, de 31 anos, e Renato Jos&eacute; Martins, de 29 anos. Nascidos e criados no bairro, ambos tinham gera&ccedil;&otilde;es da fam&iacute;lia no local devastado pelo rompimento das barragens da Samarco (Vale e BHP Billiton), no &uacute;ltimo dia 5 de novembro.</p>
 
