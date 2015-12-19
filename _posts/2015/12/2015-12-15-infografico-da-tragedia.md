@@ -1,6 +1,8 @@
 ---
 date: "2015-12-15T14:26:17-02:00"
-tags: []
+tags:
+  - tag: meio-ambiente
+  - tag: infografico
 tipo: noticia
 editoria: meio-ambiente
 title: Infográfico da tragédia
@@ -42,6 +44,7 @@ published: true
 releated_posts: []
 micro-regiao: mariana
 autoria-local: Redação/MG
+images_hd: //farm1.staticflickr.com/715/23662057122_a5cf05325a_b.jpg
 
 ---
 <p><img alt="info_head.jpg" src="//farm6.staticflickr.com/5652/23402592549_cb46855bb2_b.jpg" /></p>
