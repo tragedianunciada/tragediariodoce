@@ -4,7 +4,7 @@ module Jekyll
     safe true
 
     def generate(site)
-      @all_articles = site.posts
+      @all_articles = site.posts.docs
       @newest_post = @all_articles.sort { |a, b| b <=> a }[0..300]
 
       cover = find('cover').first

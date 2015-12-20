@@ -7,7 +7,7 @@ module Jekyll
     def generate(site)
       tags = Hash.new
 
-      site.posts.each do |post|
+      site.posts.docs.each do |post|
         post['tags'].each do |tag|
           key = tag.values.first.downcase
           value = post.data['title']
