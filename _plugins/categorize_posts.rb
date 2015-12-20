@@ -5,7 +5,7 @@ module Jekyll
 
     def generate(site)
       @all_articles = site.posts
-      @newest_post = @all_articles.docs.sort { |a, b| b <=> a }[0..300]
+      @newest_post = @all_articles.sort { |a, b| b <=> a }[0..300]
 
       cover = find('cover').first
 
@@ -18,7 +18,7 @@ module Jekyll
     def find value, field = 'section', minimum = 0, except = []
       result = filter_with_except(value, field, @newest_post, except)
       if result.size < minimum
-        result = filter_with_except(value, field, @all_articles.docs, except)
+        result = filter_with_except(value, field, @all_articles, except)
       end
 
       result.sort! { |a, b| b <=> a }
