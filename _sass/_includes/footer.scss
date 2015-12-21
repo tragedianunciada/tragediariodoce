@@ -84,6 +84,9 @@ body > footer {
           margin-bottom: 6px;
 
           img{
+            background-color: $body-bg;
+            border-radius: 3px;
+            box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.125);
             max-width: 100%;
           }
         }

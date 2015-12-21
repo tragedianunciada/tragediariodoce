@@ -6,7 +6,7 @@ scripts: ["latest-news/laster.js", "album.js"]
 <main class="post">
   <article>
     <header>
-      <p itemprop="description">{{ page.editoria | upcase }}</p>
+      <span class="editoria">{{ page.editoria | upcase }}</span>
       <h1 itemprop="name">{{ page.title }}</h1>
       <p itemprop="description">{{ page.support_line }}</p>
     </header>
@@ -15,7 +15,7 @@ scripts: ["latest-news/laster.js", "album.js"]
       <img class="img-cover" src="{{ page.images_hd }}" alt="{{ page.title }}">
     {% endif %}
     <div class="article-detail">
-      <p>{{ page.micro-regiao }} - {{ page.autoria-local }}</p>
+      <p>{{ page.micro-regiao | capitalize }} - {{ page.autoria-local }}</p>
       <time datetime="{{ page.date }}" itemprop="datePublished">
         {{ page.date | pretty_date }}
       </time>
