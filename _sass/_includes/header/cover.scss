@@ -29,11 +29,13 @@
     margin-top: 0px;
     margin-bottom: 0px;
     line-height: 60px;
+    font-weight: 700;
   }
 
   h2 {
     display: none;
     text-shadow: 2px 2px 0px black;
+    font-weight: 400;
   }
 
   .open {
@@ -87,13 +89,11 @@
       }
 
       h1 {
-        font-size: 3em;
-        font-weight: 600;
+        font-size: 3.5em;
       }
 
       h2 {
-        font-size: 1.3em;
-        font-weight: 400;
+        font-size: 1.5em;
       }
     }
 
