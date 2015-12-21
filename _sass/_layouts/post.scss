@@ -17,11 +17,6 @@ main.post {
       }
     }
 
-    .img-cover {
-      max-height: 500px;
-      width: auto;
-    }
-
     .article-detail {
       display: block;
       font-size: 14px;
@@ -30,6 +25,13 @@ main.post {
 
       p {
         margin: 0;
+      }
+    }
+
+    .article-body {
+      img {
+        width: 100%;
+        height: auto;
       }
     }
 
@@ -55,9 +57,8 @@ main.post {
       }
     }
 
-    img {
-      width: 100%;
-      height: auto;
+    .img-cover {
+      max-width: 100%;
     }
 
     img[style*="float:left"]{
@@ -104,6 +105,13 @@ main.post {
   }
 }
 
+figure.social-button {
+  vertical-align: top;
+  box-shadow: 0px 0px 0px;
+  margin-top: -2px;
+}
+
+
 @media(min-width: $screen-sm) {
   main.post {
     width: 80%;
@@ -128,15 +136,9 @@ main.post {
         }
       }
 
-      img {
-        width: 100%;
+      .img-cover {
+        max-width: 75%;
       }
     }
   }
-}
-
-figure.social-button {
-  vertical-align: top;
-  box-shadow: 0px 0px 0px;
-  margin-top: -2px;
 }
