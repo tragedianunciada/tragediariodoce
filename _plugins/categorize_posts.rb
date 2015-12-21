@@ -10,9 +10,11 @@ module Jekyll
       cover = find('cover').first
 
       featured_news = find('noticia', 'tipo').slice(0,6)
+      relatos = find('relato', 'tipo')
 
       site.config['cover'] = cover
       site.config['featured_news'] = featured_news
+      site.config['relatos'] = relatos
     end
 
     def find value, field = 'section', minimum = 0, except = []
