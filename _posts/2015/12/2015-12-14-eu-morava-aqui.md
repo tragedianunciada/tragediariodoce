@@ -16,12 +16,14 @@ files:
     $$hashKey: 01A
 created_date: "2015-12-14T18:13:17-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/12/2015-12-15-a-vida-de-sandra.md
 micro-regiao: colatina
 autoria-local: Redação/ES
+images_hd: //farm6.staticflickr.com/5691/23383955399_8d3490421a_b.jpg
 
 ---
-<p><img alt="mariana01.jpg" src="//farm6.staticflickr.com/5691/23383955399_8d3490421a_b.jpg" />Com uma popula&ccedil;&atilde;o de cerca de 600 pessoas, no pequeno distrito rural de Bento Rodrigues (MG), pouco menos de 20% das casas ficaram de p&eacute; ap&oacute;s a trag&eacute;dia causada pelo rompimento das barragens da Samarco (Vale / BHP Billiton).</p>
+<p>Com uma popula&ccedil;&atilde;o de cerca de 600 pessoas, no pequeno distrito rural de Bento Rodrigues (MG), pouco menos de 20% das casas ficaram de p&eacute; ap&oacute;s a trag&eacute;dia causada pelo rompimento das barragens da Samarco (Vale / BHP Billiton).</p>
 
 <p>No final da tarde do dia 5 de novembro quase todas as cerca de 180 resid&ecirc;ncias foram para debaixo da lama de rejeito que atingiu quase 15 metros de altura.</p>
 

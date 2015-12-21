@@ -6,7 +6,7 @@ module Jekyll
       releated_posts = post['releated_posts'][0..limit]
 
       site_posts.select do |p|
-        releated_posts.include? p.name
+        releated_posts.include? p.relative_path.gsub(/_posts\//, '')
       end
     end
   end

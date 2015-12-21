@@ -1,17 +1,11 @@
 main.post {
   article {
     overflow: hidden;
+    position: relative;
 
     header {
       h1 {
         margin-bottom: 8px;
-      }
-
-      time {
-        display: block;
-        font-size: 14px;
-        color: $mst-medium-gray;
-        margin-bottom: 15px;
       }
 
       p {
@@ -20,6 +14,22 @@ main.post {
         margin-top: 7px;
         margin-bottom: 10px;
         line-height: 115%;
+      }
+    }
+
+    .img-cover {
+      max-height: 500px;
+      width: auto;
+    }
+
+    .article-detail {
+      display: block;
+      font-size: 14px;
+      color: $mst-medium-gray;
+      margin-bottom: 15px;
+
+      p {
+        margin: 0;
       }
     }
 
@@ -80,7 +90,7 @@ main.post {
     }
   }
   .social {
-    margin-bottom: 10px;
+    margin: 10px 0;
     img{
       display: inline;
       width: 28px;
@@ -98,12 +108,15 @@ main.post {
   main.post {
     width: 80%;
     margin-left: 128px;
+
     article {
       padding-right: 0;
-      .article-body{
+
+      header, .article-body, .article-detail {
         width: 74%;
         max-width: 753px;
       }
+
       header{
         h1{
           font-size: 41px;
@@ -114,6 +127,7 @@ main.post {
           font-size: 1.3em;
         }
       }
+
       img {
         width: 100%;
       }

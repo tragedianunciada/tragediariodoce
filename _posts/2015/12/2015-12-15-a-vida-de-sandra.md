@@ -16,12 +16,14 @@ files:
     $$hashKey: 04E
 created_date: "2015-12-15T14:33:30-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/12/2015-12-14-eu-morava-aqui.md
 autoria-local: Redação/SP
 micro-regiao: mariana
+images_hd: //farm6.staticflickr.com/5681/23143857983_8bd0f34a49_b.jpg
 
 ---
-<p><img alt="Screen Shot 2015-12-15 at 14.35.09.png" src="//farm6.staticflickr.com/5681/23143857983_8bd0f34a49_b.jpg" /></p>
+<p>&nbsp;</p>
 
 <p style="line-height: 20.8px;">Moradora de Bento Rodrigues desde que nasceu, a cozinheira Sandra Quint&atilde;o revela nos olhos a saudade da antiga vida.</p>
 

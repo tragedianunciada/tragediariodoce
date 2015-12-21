@@ -8,9 +8,9 @@ module Jekyll
       tags = Hash.new
 
       site.posts.docs.each do |post|
-        post['tags'].each do |tag|
+        post.data['tags'].each do |tag|
           key = tag.values.first.downcase
-          value = post.data['title']
+          value = post.relative_path.gsub(/_posts\//, '')
 
           if tags[key].class == Array
             tags[key] << value
