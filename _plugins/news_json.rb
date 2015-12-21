@@ -8,7 +8,8 @@ module Jekyll
 
     def generate(site)
       data = []
-      site.posts.docs.reverse.each_with_index do |post, i|
+      news_posts = site.posts.docs.select { |post|  "noticia" == post.data['tipo']  }
+      news_posts.reverse.each_with_index do |post, i|
         data << {
           'year' =>  post.date.strftime("%Y"),
           'month' =>  post.date.strftime("%m"),
@@ -16,7 +17,8 @@ module Jekyll
           'title' => post['title'],
           'url' => "#{site.config['url']}#{post.url}",
           'tags' => Array(post.data['tags']).flatten.map{ |tag| tag['tag'] },
-          'support_line' => post.data['support_line']
+          'support_line' => post.data['support_line'],
+          'cover' => post.data['files'][0]['thumbnail']
         }
       end
 
