@@ -1,0 +1,12 @@
+---
+layout: tragedia
+title: Relatos
+hide_on_menu: true
+---
+{% assign posts = (site.posts | where: "tipo" , "relato")  %}
+
+<section style="overflow:hidden;position:relative;width: 100%">
+    {% for post in posts %}
+        <div style="float:left; background: url('{{post.video_thumbnail}}') no-repeat; width: 200px; height: 640px;"> </div>
+      {% endfor %}
+ </section>
