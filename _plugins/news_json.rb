@@ -18,7 +18,7 @@ module Jekyll
           'url' => "#{site.config['url']}#{post.url}",
           'tags' => Array(post.data['tags']).flatten.map{ |tag| tag['tag'] },
           'support_line' => post.data['support_line'],
-          'cover' => post.data['files'][0]['thumbnail']
+          'cover' => post.data['files'][0]['small']
         }
       end
 
