@@ -2,11 +2,18 @@
 layout: tragedia
 title: Relatos
 hide_on_menu: true
+scripts: ["reports.js"]
 ---
-{% assign posts = (site.posts | where: "tipo" , "relato")  %}
+{% assign posts = site.relatos %}
 
-<section style="overflow:hidden;position:relative;width: 100%">
-    {% for post in posts %}
-        <div style="float:left; background: url('{{post.video_thumbnail}}') no-repeat; width: 200px; height: 640px;"> </div>
-      {% endfor %}
- </section>
+<div class="reports">
+  <div class="reports-inner">
+      {% for post in posts %}
+          <div class="report-item" style="background: url('{{post.video_thumbnail}}') no-repeat" onclick="window.location.href = '{{ site.baseurl }}{{ post.url }}';">
+            <div class="report-header">
+              <h3> {{post.title}} </h3>
+            </div>
+           </div>
+        {% endfor %}
+  </div>
+</div>
