@@ -34,9 +34,10 @@ body > footer {
   }
 
   .social {
+    ul{
+      text-align: center;
+    }
     a {
-      font-family: 'Glyphicons Social Regular', Helvetica, Arial, sans-serif;
-
       &:before {
         margin-right: 10px;
         vertical-align: middle;
@@ -44,22 +45,31 @@ body > footer {
       &.facebook{
         margin-right: 23px;
         &:before {
+          font-family: 'Glyphicons Social Regular';
           content: '\E031';
         }
       }
 
 
       &.twitter:before {
+        font-family: 'Glyphicons Social Regular';
         content: '\E032';
       }
 
+      &.youtube:before {
+        font-family: 'Glyphicons Social Regular';
+        content: '\E023';
+      }
+
       &.rss:before {
+        font-family: 'Glyphicons Social Regular';
         content: '\E038';
       }
     }
   }
 
   .parceiros {
+    margin-top: 10px;
     ul {
       padding-left: 0;
       text-align: center;
@@ -70,14 +80,15 @@ body > footer {
 
         a {
           display: inline-block;
-          height: 64px;
-          line-height: 55px;
-          padding: 2px;
           margin: 3px;
           margin-bottom: 6px;
-          background-color: $body-bg;
-          border-radius: 3px;
-          box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.125);
+
+          img{
+            background-color: $body-bg;
+            border-radius: 3px;
+            box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.125);
+            max-width: 100%;
+          }
         }
 
         a:hover {
@@ -93,7 +104,7 @@ body > footer {
 
     div {
       display: inline-block;
-      width: 25%;
+      width: 50%;
       vertical-align: top;
       text-align: left;
       padding: 10px;

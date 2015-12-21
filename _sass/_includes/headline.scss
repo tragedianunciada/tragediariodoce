@@ -15,25 +15,22 @@ article.headline {
   }
 
   h1 {
-    font-size: 20px;
-    margin: 0;
+    font-size: 1.8em;
     margin-top: 8px;
     text-align: left;
-    font-family: $font-family-base;
+    font-family: $font-family-sans;
     font-weight: 700;
-    line-height: 120%;
 
     a {
-      color: #555;
+      color: $gray-dark;
       display: block;
     }
   }
 
   p.support-line {
     font-family: $font-family-base;
-    font-weight: 500;
-    line-height: 120%;
-    font-size: 16px;
+    font-weight: 400;
+    font-size: 1em;
     margin: 8px 0 15px 0;
     a {
       color: $gray-dark;

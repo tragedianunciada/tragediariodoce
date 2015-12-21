@@ -5,26 +5,33 @@ main.post {
 
     header {
       h1 {
-        margin-bottom: 8px;
+        margin: 0;
+        font-weight: 700;
+        word-wrap: break-word;
+        clear: both;
       }
 
       p {
-        color: #929292;
-        font-size: 1.1em;
-        margin-top: 7px;
-        margin-bottom: 10px;
-        line-height: 115%;
+        font-size: 1.2em;
+        font-family: $font-family-sans;
+        font-weight: 400;
+        margin: 0 0 10px 0;
+        color: $mst-medium-gray;
       }
-    }
 
-    .img-cover {
-      max-height: 500px;
-      width: auto;
+      span.editoria {
+        font-size: 1.1em;
+        color: $brand-primary;
+        font-family: $font-family-sans;
+        font-weight: 700;
+      }
     }
 
     .article-detail {
       display: block;
-      font-size: 14px;
+      font-size: 1em;
+      font-weight: 400;
+      font-family: $font-family-sans;
       color: $mst-medium-gray;
       margin-bottom: 15px;
 
@@ -33,31 +40,19 @@ main.post {
       }
     }
 
+    .article-body {
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+
     p {
       font-size: 1.1em;
     }
 
-    h1 {
-      margin-top: 0.4em;
-      word-wrap: break-word;
-      clear: both;
-      font-size: 23px;
-      line-height: 96%;
-    }
-
-    .tags {
-      margin-bottom: 10px;
-      overflow: hidden;
-      .tag {
-        float: left;
-        margin-bottom: 5px;
-        margin-right: 5px;
-      }
-    }
-
-    img {
-      width: 100%;
-      height: auto;
+    .img-cover {
+      max-width: 100%;
     }
 
     img[style*="float:left"]{
@@ -89,10 +84,24 @@ main.post {
       max-width: 100%;
     }
   }
+
+  .tags {
+    margin-bottom: 10px;
+    overflow: hidden;
+
+    .tag {
+      font-family: $font-family-sans;
+      float: left;
+      margin-bottom: 5px;
+      margin-right: 5px;
+    }
+  }
+
   .social {
     margin: 10px 0;
+
     img{
-      display: inline;
+      display: inline-block;
       width: 28px;
       height: auto;
     }
@@ -103,6 +112,13 @@ main.post {
     }
   }
 }
+
+figure.social-button {
+  vertical-align: top;
+  box-shadow: 0px 0px 0px;
+  margin-top: -2px;
+}
+
 
 @media(min-width: $screen-sm) {
   main.post {
@@ -117,26 +133,9 @@ main.post {
         max-width: 753px;
       }
 
-      header{
-        h1{
-          font-size: 41px;
-          margin-bottom: 16px;
-          margin-top: 0.2em;
-        }
-        p{
-          font-size: 1.3em;
-        }
-      }
-
-      img {
-        width: 100%;
+      .img-cover {
+        max-width: 75%;
       }
     }
   }
-}
-
-figure.social-button {
-  vertical-align: top;
-  box-shadow: 0px 0px 0px;
-  margin-top: -2px;
 }
