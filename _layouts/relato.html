@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<main class="post">
+  <article class="relato">
+    <div itemprop="articleBody" class="article-body">
+      <p>
+        <iframe frameborder="0" src="{{ content | get_video_embeded }}"></iframe>
+      </p>
+    </div>
+    <header>
+      <h1 itemprop="name">{{ page.title }}</h1>
+      <p itemprop="description">{{ page.support_line }}</p>
+      <time datetime="{{ page.date }}" itemprop="datePublished">
+        {{ page.date | pretty_date }}
+      </time>
+    </header>
+  </article>
+  <br>
+  {% include social-buttons.html article = page %}
+</main>
