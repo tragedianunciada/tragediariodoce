@@ -1,7 +1,7 @@
 require 'httparty'
 
 module Jekyll
-  module VideoEmbeded 
+  module VideoEmbeded
 
     def get_video_embeded(url, stdout=false)
       if url =~ /youtu/
@@ -13,11 +13,13 @@ module Jekyll
       end
     end
 
-    private 
+    private
     def get_youtube_embed url
       result = url.match(/^.*(youtu.be\/|v\/|e\/|u\/\w+\/|embed\/|v=)([^#\&\?]*).*/)
       if result && result.captures
          video_id = result.captures.last
+         video_id = video_id.split(' ').first
+         video_id = video_id.gsub(/\"/, '')
          "//www.youtube.com/embed/#{video_id}?autohide=1&showinfo=0"
       end
     end
@@ -26,7 +28,7 @@ module Jekyll
     def get_vimeo_embed url
       result = HTTParty.get "http://vimeo.com/api/oembed.json?url=#{url}"
       result = result.to_hash
-      if result 
+      if result
         "//player.vimeo.com/video/#{result['video_id']}?byline=0&portrait=0&title=0"
       end
     end
