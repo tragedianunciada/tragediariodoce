@@ -12,6 +12,9 @@ $header_text: white;
       float:left;
       cursor:pointer;
       overflow-y: hidden;
+      background-repeat: no-repeat;
+      background-size: cover;
+
 
       > .report-item-inner {
 
@@ -27,7 +30,6 @@ $header_text: white;
 
           background: rgba(0,0,0,0.3);
           padding: 1px;
-          margin-top: 10px;
           font-size: 20px;
 
           > time {

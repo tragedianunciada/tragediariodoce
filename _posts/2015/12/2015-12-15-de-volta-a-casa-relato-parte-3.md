@@ -16,7 +16,7 @@ files:
     title: casa.jpg
     $$hashKey: 03I
 created_date: "2015-12-15T15:44:18-02:00"
-video_thumbnail: http://i.vimeocdn.com/video/477978663_640.jpg
+video_thumbnail: http://farm1.staticflickr.com/749/23145020863_e95caa8d68_z.jpg
 published: true
 releated_posts: []
 
