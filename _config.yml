@@ -5,8 +5,8 @@ email:       mab@mabnacional.org.br
 author:      MAB - Movimento dos Atingidos por Barragens
 description: ""
 short_description: Essa tragédia nunca poderá ser esquecida
-#baseurl:     http://guilhermeweimann1.github.io/tragediariodoce
-#url: http://guilhermeweimann1.github.io/tragediariodoce
+baseurl:     http://guilhermeweimann1.github.io/tragediariodoce
+url: http://guilhermeweimann1.github.io/tragediariodoce
 
 # Google analytics
 google_analytics: xxx
