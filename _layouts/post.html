@@ -17,7 +17,7 @@ scripts: ["latest-news/laster.js", "album.js"]
     <div class="article-detail">
       <p>{{ page.micro-regiao | capitalize }} - {{ page.autoria-local }}</p>
       <time datetime="{{ page.date }}" itemprop="datePublished">
-        {{ page.date | pretty_date }}
+        {{ page.date | pretty_datetime }}
       </time>
     </div>
     <div itemprop="articleBody" class="article-body">{{ content }}</div>

@@ -12,6 +12,9 @@ scripts: ["reports.js"]
           <div class="report-item" style="background: url('{{post.video_thumbnail}}') no-repeat" onclick="window.location.href = '{{ site.baseurl }}{{ post.url }}';">
             <div class="report-item-inner" >
               <div class="report-header">
+                <time datetime="{{ post.date }}">
+                    {{ post.date | pretty_date }}
+                </time>
                 <h3> {{post.title}} </h3>
               </div>
             </div>

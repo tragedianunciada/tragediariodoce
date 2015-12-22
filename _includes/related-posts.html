@@ -8,7 +8,7 @@
           <a href="{{ site.baseurl }}{{ releated.url }}">
             <p>{{ releated.title }}</p>
             <time datetime="{{ releated.date }}">
-            {{ releated.date | pretty_date }}
+            {{ releated.date | pretty_datetime }}
             </time>
           </a>
         </li>
@@ -16,4 +16,3 @@
     </ul>
   </aside>
 {% endif %}
-

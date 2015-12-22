@@ -17,9 +17,13 @@ module Jekyll
       12 => "dezembro"
     }
 
-    def pretty_date(time, stdout=false)
+    def pretty_datetime(time, stdout=false)
       hours = time.strftime("%Hh%M")
-      "#{time.day} de #{MESES[time.month]} de #{time.year} #{hours}"
+      "#{pretty_date(time)} #{hours}"
+    end
+
+    def pretty_date(time, stdout=false)
+      "#{time.day} de #{MESES[time.month]} de #{time.year}"
     end
 
   end

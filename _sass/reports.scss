@@ -1,7 +1,8 @@
+$header_text: white;
+
 .reports {
   width: 100%;
   overflow-x:scroll;
-  background-color: $brand-primary;
 
   > .reports-inner {
     position:relative;
@@ -29,9 +30,15 @@
           margin-top: 10px;
           font-size: 20px;
 
+          > time {
+            color: darken($header_text, 40%);
+            font-size: 11px;
+            margin-left: 10%;
+          }
+
           > h3 {
-            color: white;
-            margin-left: 5%;
+            color: $header_text;
+            margin: 0% 0% 5% 10%;
           }
 
         }
