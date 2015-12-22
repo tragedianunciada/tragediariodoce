@@ -1,52 +1,51 @@
 $header_text: white;
 
 .reports {
-  width: 100%;
-  overflow-x:scroll;
+  .relatos-list {
+    width: 100%;
+    text-align: center;
+    display: inline-table;
+    white-space: nowrap;
+    margin: 0;
 
-  > .reports-inner {
-    position:relative;
-    margin: 0 auto;
+    li {
+      display: inline-block;
+      width: 300px;
+      height: 460px;
+      margin: 0;
+      padding: 0;
 
-    > .report-item {
-      float:left;
-      cursor:pointer;
-      overflow-y: hidden;
-      background-repeat: no-repeat;
-      background-size: cover;
-
-
-      > .report-item-inner {
-
-        background: rgba(0,0,0,0.0);
-        height: 100%;
+      a {
+        display: block;
         width: 100%;
+        height: 100%;
+        padding: 10px 0;
+        background-size: cover;
+        background-position: center;
+        text-align: left;
 
         &:hover {
-          background: rgba(28,118,154,0.5);
+          text-decoration: none;
+          color: $header_text;
         }
 
-        > .report-header {
-
+        .relato-content {
           background: rgba(0,0,0,0.3);
-          padding: 1px;
-          font-size: 20px;
+          padding: 2px;
+          font-size: 1.2em;
 
-          > time {
+          time {
             color: darken($header_text, 40%);
-            font-size: 11px;
-            margin-left: 10%;
+            font-size: 0.7em;
+            margin-left: 10px;
           }
 
-          > h3 {
+          h3 {
             color: $header_text;
-            margin: 0% 0% 5% 10%;
+            margin: 0 0 0 10px;
           }
-
         }
-
       }
-
     }
   }
 }
