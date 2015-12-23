@@ -1,21 +1,42 @@
 ---
 layout: tragedia
 ---
+{% assign video_url = content | get_video_embeded %}
 <main class="post">
-  <article class="relato">
-    <div itemprop="articleBody" class="article-body">
-      <p>
-        <iframe frameborder="0" src="{{ content | get_video_embeded }}"></iframe>
-      </p>
-    </div>
-    <header>
-      <h1 itemprop="name">{{ page.title }}</h1>
-      <p itemprop="description">{{ page.support_line }}</p>
-      <time datetime="{{ page.date }}" itemprop="datePublished">
-        {{ page.date | pretty_date }}
-      </time>
-    </header>
-  </article>
-  <br>
+  {% if video_url %}
+    <article class="relato">
+      <div itemprop="articleBody" class="article-body">
+        <p>
+          <iframe frameborder="0" src="{{ video_url }}"></iframe>
+        </p>
+      </div>
+      <header>
+        <h1 itemprop="name">{{ page.title }}</h1>
+        <p itemprop="description">{{ page.support_line }}</p>
+        <time datetime="{{ page.date }}" itemprop="datePublished">
+          {{ page.date | pretty_date }}
+        </time>
+      </header>
+    </article>
+  {% else %}
+    <article>
+      <header>
+        <span class="editoria">{{ page.editoria | upcase }}</span>
+        <h1 itemprop="name">{{ page.title }}</h1>
+        <p itemprop="description">{{ page.support_line }}</p>
+      </header>
+      {% include related-posts.html post=page %}
+      {% if page.images_hd %}
+        <img class="img-cover" src="{{ page.images_hd }}" alt="{{ page.title }}">
+      {% endif %}
+      <div class="article-detail">
+        <p>{{ page.micro-regiao | capitalize }} - {{ page.autoria-local }}</p>
+        <time datetime="{{ page.date }}" itemprop="datePublished">
+          {{ page.date | pretty_datetime }}
+        </time>
+      </div>
+      <div itemprop="articleBody" class="article-body">{{ content }}</div>
+    </article>
+  {% endif %}
   {% include social-buttons.html article = page %}
 </main>

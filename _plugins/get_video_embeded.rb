@@ -8,8 +8,6 @@ module Jekyll
         get_youtube_embed(url)
       elsif url =~ /vim/
         get_vimeo_embed(url)
-      else
-        url
       end
     end
 
