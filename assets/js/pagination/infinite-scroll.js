@@ -22,7 +22,7 @@ $(document).ready(function() {
 
   $.infinite_scroll = {
     start: function(){
-      $.getJSON( '/noticias.json', function( data ) {
+      $.getJSON( '../noticias.json', function( data ) {
         $.infinite_scroll.posts = data;
           $.infinite_scroll.load();
       });
