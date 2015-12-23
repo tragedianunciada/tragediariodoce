@@ -7,10 +7,6 @@ $(document).ready(function() {
     $(this).css('width' , REPORT_WIDTH);
   })
 
-  $('.reports').each(function (index) {
-    $(this).css('height' , REPORT_HEIGHT);    
-  })
-
   var scrollableArea = REPORT_WIDTH * $(".reports-inner .report-item").length;
   $(".reports-inner").css("width", scrollableArea);
 });
