@@ -18,15 +18,5 @@ scripts: ["reports.js"]
         </a>
       </li>
     {% endfor %}
-    {% for post in posts %}
-      <li style="background-image: url('{{post.video_thumbnail}}');">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <div class="relato-content">
-            <time datetime="{{ post.date }}">{{ post.date | pretty_date }}</time>
-            <h3>{{post.title}}</h3>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
   </ul>
 </div>
