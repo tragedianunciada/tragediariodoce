@@ -16,24 +16,26 @@ $header_text: white;
       height: 460px;
       margin: 0;
       padding: 0;
+      background-size: cover;
+      background-position: center;
 
       a {
         display: block;
         width: 100%;
         height: 100%;
-        padding: 10px 0;
-        background-size: cover;
-        background-position: center;
+        padding: 0;
         text-align: left;
 
         &:hover {
           text-decoration: none;
           color: $header_text;
+          background-color: rgba(28,118,154,0.5);
         }
 
         .relato-content {
           background: rgba(0,0,0,0.3);
           padding: 2px;
+          margin-top: 10px;
           font-size: 1.2em;
 
           time {
