@@ -3,6 +3,7 @@ layout: default
 title: Contatos
 permalink: /contatos/
 header_priority: 4
+scripts: ["contact.js"]
 ---
 <main class="home">
   <div class="contato-container">
@@ -11,20 +12,20 @@ header_priority: 4
           <h1>Contato</h1>
           <label>
               <span>Nome:</span>
-              <input id="name" type="text" name="name" placeholder="nome" />
+              <input id="name" type="text" name="name" placeholder="nome" required="true"/>
           </label>
 
           <label>
               <span>E-mail:</span>
-              <input id="email" type="email" name="email" placeholder="e-mail" />
+              <input id="email" type="email" name="email" placeholder="e-mail" required="true"/>
           </label>
 
           <label>
               <span>Mensagem:</span>
-              <textarea id="message" name="message" placeholder="mensagem"></textarea>
+              <textarea id="message" name="message" placeholder="mensagem" required="true"></textarea>
           </label>
            <label>
-              <input type="button" class="button" value="Enviar" />
+              <input type="submit" class="button" value="Enviar"/>
           </label>
       </form>
     </div>
@@ -39,7 +40,7 @@ header_priority: 4
         <span>
             <h3>Assesoria de Imprensa:</h3>
             <p> imprensa@mabnacional.org.br </p>
-        </span>      
+        </span>
     </div>
   </div>
 </main>
