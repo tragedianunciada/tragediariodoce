@@ -1,7 +1,9 @@
 ---
 layout: tragedia
 ---
+{% assign relatos = site.relatos %}
 {% assign video_url = content | get_video_embeded %}
+
 <main class="post">
   {% if video_url %}
     <article class="relato">
@@ -42,3 +44,23 @@ layout: tragedia
     {% include social-buttons.html article = page %}
   {% endif %}
 </main>
+
+{% for relato in relatos %}
+  {% if relato.title == page.title %}
+    <ul class="relato-navigation">
+      {% unless forloop.last %}
+        {% assign next = relatos[forloop.index] %}
+        <li>
+          <a href="{{ site.baseurl }}{{ next.url }}">&larr; anterior</a>
+        </li>
+      {% endunless %}
+      {% unless forloop.first %}
+        <li>
+          <a href="{{ site.baseurl }}{{ prev.url }}">próximo &rarr;</a>
+        </li>
+      {% endunless %}
+    </ul>
+  {% endif %}
+  {% assign prev = relato %}
+{% endfor %}
+

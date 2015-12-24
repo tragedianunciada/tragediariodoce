@@ -10,9 +10,6 @@
 
 @media(max-width: $screen-md) {
   html, body {overflow-x: hidden;}
-  main.post{
-    min-height: 1290px; //tamanho do menu
-  }
   .menu {
     position: fixed;
     top: 0;
