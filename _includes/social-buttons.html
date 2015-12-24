@@ -7,10 +7,10 @@
 
   {% if picture %}
     {% if site.facebook %}
-      <a href="//www.facebook.com/dialog/feed?app_id={{ site.facebook }}&display=popup&href={{ include.article.url | prepend: site.url | uri_escape }}&redirect_uri={{ site.url | uri_escape }}&picture={{ picture | uri_escape }}&name={{ include.article.title | xml_escape }}&description={{ include.article.support_line | truncate: 150 | xml_escape }}&link={{ include.article.url | prepend: site.url | uri_escape }}" target="_blank"><img src="{{ site.baseurl }}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook"></a>
+      <a href="http://www.facebook.com/dialog/share?app_id={{ site.facebook }}&amp;display=popup&amp;href={{ include.article.url | prepend: site.url | uri_escape }}&amp;redirect_uri={{ include.article.url | prepend: site.url | uri_escape }}&amp;picture=http:{{ picture | uri_escape }}&amp;name={{ include.article.title | xml_escape }}&amp;description={{ include.article.support_line | truncate: 150 | xml_escape }}" target="_blank" rel="external"><img src="{{ site.baseurl }}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook"></a>
     {% endif %}
     <a target="_blank"
-      href="//www.twitter.com/share?url={{ include.article.url | prepend: site.url | uri_escape }}&via=MAB_Brasil&related=MAB_Brasil&text={{ include.article.title | xml_escape }}"
+      href="//www.twitter.com/share?url={{ include.article.url | prepend: site.url | uri_escape }}&amp;via=MAB_Brasil&amp;related=MAB_Brasil&amp;text={{ include.article.title | xml_escape }}"
       >
       <img src="{{ site.baseurl }}/assets/img/twitter.png" title="Twitter" alt="Compartilhar no Twitter">
     </a>
