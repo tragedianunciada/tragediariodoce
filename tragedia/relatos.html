@@ -9,7 +9,8 @@ scripts: ["reports.js"]
 <div class="reports">
   <ul class="relatos-list">
     {% for post in posts %}
-      <li style="background-image: url('{{post.video_thumbnail}}');">
+      {% assign image_cover = post | find_image: 'hd' %}
+      <li style="background-image: url('{{ image_cover }}');">
         <a href="{{ site.baseurl }}{{ post.url }}">
           <div class="relato-content">
             <time datetime="{{ post.date }}">{{ post.date | pretty_date }}</time>
