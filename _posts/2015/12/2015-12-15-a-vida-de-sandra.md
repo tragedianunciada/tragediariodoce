@@ -2,7 +2,7 @@
 date: "2015-12-15T14:32:31-02:00"
 tags:
   - tag: atingidos
-tipo: noticia
+tipo: relato
 editoria: atingido
 title: A vida de Sandra
 support_line: "Moradora de Bento Rodrigues desde que nasceu, a cozinheira Sandra Quintão revela nos olhos a saudade da antiga vida."
@@ -23,9 +23,7 @@ micro-regiao: mariana
 images_hd: //farm6.staticflickr.com/5681/23143857983_8bd0f34a49_b.jpg
 
 ---
-<p>&nbsp;</p>
-
-<p style="line-height: 20.8px;">Moradora de Bento Rodrigues desde que nasceu, a cozinheira Sandra Quint&atilde;o revela nos olhos a saudade da antiga vida.</p>
+<p>Moradora de Bento Rodrigues desde que nasceu, a cozinheira Sandra Quint&atilde;o revela nos olhos a saudade da antiga vida.</p>
 
 <p style="line-height: 20.8px;">O fim de tarde do dia 5 de novembro significou uma mudan&ccedil;a brusca em sua vida quando precisou deixar a casa herdada dos pais &agrave;s pressas. Documentos e pertences foram deixados para tr&aacute;s para fugir e sobreviver &agrave; enxurrada de lama que seguia para o bairro ap&oacute;s o rompimento das da Samarco (Vale / BHP Billiton).</p>
 
