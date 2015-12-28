@@ -1,7 +1,8 @@
 ---
 date: "2015-12-15T14:48:10-02:00"
-tags: []
-title: Noticia da cidade
+tags:
+  - tag: meio-ambiente
+title: Bento Rodrigues
 support_line: Conheça o distrito de Bento Rodrigues
 tipo: noticia
 editoria: meio-ambiente
@@ -28,9 +29,11 @@ files:
     $$hashKey: "062"
 created_date: "2015-12-15T14:50:48-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2015/12/2015-12-15-a-cidade.md
 micro-regiao: valadares
 autoria-local: Redação/SP
+images_hd: //farm1.staticflickr.com/718/23662422122_1947a4038d_b.jpg
 
 ---
 <p><img alt="bento01.jpg" src="//farm1.staticflickr.com/759/23402962849_6a0e50cafe_b.jpg" />Distante cerca de 35 km do centro de Mariana e a 124 km da capital mineira, Belo Horizonte; o distrito de Bento Rodrigues foi tirado do mapa ap&oacute;s o rompimento das barragens da mineradora Samarco (Vale/ BHP Billiton), no dia 5 de novembro.</p>
