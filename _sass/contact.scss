@@ -7,12 +7,13 @@ $form-border-color: #E4E4E4;
   height: 100%;
   > div {
     display: inline-block;
-    vertical-align: top;
-    width: 49%;
+    vertical-align: middle;
   }
 }
 
 .mensagem {
+  width: 49%;
+
   .contato-form {
     border-right:1px solid $form-border-color;
 
@@ -77,12 +78,15 @@ $form-border-color: #E4E4E4;
 }
 
 .contato {
+  width: 40%;
+  margin-left: 9%;
   text-align: center;
 
   h1 {
     color: $brand-primary;
     font-size: 20px;
     font-style: oblique;
+    margin-top: 0;
   }
 
   h2 {
