@@ -14,5 +14,8 @@
       >
       <img src="{{ site.baseurl }}/assets/img/twitter.png" title="Twitter" alt="Compartilhar no Twitter">
     </a>
+    <a class="mobile-only" target="_blank" href="whatsapp://send?text={{ include.article.title | xml_escape }}  -  {{ include.article.support_line | xml_escape }}  -  {{ include.article.url | prepend: site.url | uri_escape }}">
+      <img src="{{ site.baseurl }}/assets/img/whatsapp.png" title="WhatsApp" alt="Compartilhar no WhatsApp">
+    </a>
   {% endif %}
 </div>
