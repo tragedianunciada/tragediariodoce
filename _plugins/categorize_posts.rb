@@ -11,6 +11,7 @@ module Jekyll
 
       featured_news = find('noticia', 'tipo').slice(0,6)
       relatos = find('relato', 'tipo')
+      featured_relatos = relatos.slice(0,3)
 
       relatos.select do |relato|
         relato.data['layout'] = 'relato'
@@ -19,6 +20,7 @@ module Jekyll
       site.config['cover'] = cover
       site.config['featured_news'] = featured_news
       site.config['relatos'] = relatos
+      site.config['featured_relatos'] = featured_relatos
     end
 
     def find value, field = 'section', minimum = 0, except = []
