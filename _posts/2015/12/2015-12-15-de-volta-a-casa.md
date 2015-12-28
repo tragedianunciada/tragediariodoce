@@ -2,7 +2,7 @@
 date: "2015-12-15T15:42:48-02:00"
 tags:
   - tag: atingidos
-tipo: noticia
+tipo: relato
 editoria: atingido
 micro-regiao: mariana
 autoria-local: Redação/MG
@@ -24,8 +24,6 @@ releated_posts:
 images_hd: //farm1.staticflickr.com/749/23145020863_e95caa8d68_b.jpg
 
 ---
-<p>&nbsp;</p>
-
 <p>Retornar e ver o que sobrou do pequeno distrito rural de Mariana (MG) foi tarefa dif&iacute;cil para Gleison Alexandria Souza, de 31 anos, e Renato Jos&eacute; Martins, de 29 anos. Nascidos e criados no bairro, ambos tinham gera&ccedil;&otilde;es da fam&iacute;lia no local devastado pelo rompimento das barragens da Samarco (Vale e BHP Billiton), no &uacute;ltimo dia 5 de novembro.</p>
 
 <p>Com o olhar desolado, eles pareciam buscar na mente as mem&oacute;rias dos dias felizes, al&eacute;m de respostas do porque aquilo tudo havia acontecido &agrave; Bento Rodrigues e a eles.</p>
