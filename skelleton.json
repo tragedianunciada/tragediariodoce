@@ -39,7 +39,7 @@
 {
   "name": "micro-regiao",
   "title": "Micro Região",
-  "required": true,
+  "required": false,
   "type": {
     "view": "select",
     "options": [
