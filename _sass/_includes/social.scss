@@ -1,0 +1,26 @@
+a.social-link {
+
+    font-family: $font-family-sans;
+    font-size: 1.1em;
+
+    &:before {
+      font-family: 'Glyphicons Social Regular';
+      font-size: 1.8em;
+    }
+
+    &.facebook:before{
+      content: '\E031';
+    }
+
+    &.twitter:before {
+      content: '\E032';
+    }
+
+    &.youtube:before {
+      content: '\E023';
+    }
+
+    &.rss:before {
+      content: '\E038';
+    }
+}

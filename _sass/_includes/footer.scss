@@ -48,25 +48,8 @@ body > footer {
           &:before {
             margin-right: 10px;
             vertical-align: middle;
-            font-family: 'Glyphicons Social Regular';
-            font-size: 1.8em;
           }
 
-          &.facebook:before{
-            content: '\E031';
-          }
-
-          &.twitter:before {
-            content: '\E032';
-          }
-
-          &.youtube:before {
-            content: '\E023';
-          }
-
-          &.rss:before {
-            content: '\E038';
-          }
         }
       }
 

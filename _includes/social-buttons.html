@@ -7,15 +7,14 @@
 
   {% if picture %}
     {% if site.facebook %}
-      <a href="http://www.facebook.com/dialog/share?app_id={{ site.facebook }}&amp;display=popup&amp;href={{ include.article.url | prepend: site.url | uri_escape }}&amp;redirect_uri={{ include.article.url | prepend: site.url | uri_escape }}&amp;picture=http:{{ picture | uri_escape }}&amp;name={{ include.article.title | xml_escape }}&amp;description={{ include.article.support_line | truncate: 150 | xml_escape }}" target="_blank" rel="external"><img src="{{ site.baseurl }}/assets/img/facebook.png" title="Facebook"  alt="Compartilhar no Facebook"></a>
+      <a href="http://www.facebook.com/dialog/share?app_id={{ site.facebook }}&amp;display=popup&amp;href={{ include.article.url | prepend: site.url | uri_escape }}&amp;redirect_uri={{ include.article.url | prepend: site.url | uri_escape }}&amp;picture=http:{{ picture | uri_escape }}&amp;name={{ include.article.title | xml_escape }}&amp;description={{ include.article.support_line | truncate: 150 | xml_escape }}" target="_blank" rel="external" class="social-link facebook"></a>
     {% endif %}
     <a target="_blank"
       href="//www.twitter.com/share?url={{ include.article.url | prepend: site.url | uri_escape }}&amp;via=MAB_Brasil&amp;related=MAB_Brasil&amp;text={{ include.article.title | xml_escape }}"
-      >
-      <img src="{{ site.baseurl }}/assets/img/twitter.png" title="Twitter" alt="Compartilhar no Twitter">
+       class="social-link twitter" >
     </a>
-    <a class="mobile-only" target="_blank" href="whatsapp://send?text={{ include.article.title | xml_escape }}  -  {{ include.article.support_line | xml_escape }}  -  {{ include.article.url | prepend: site.url | uri_escape }}">
-      <img src="{{ site.baseurl }}/assets/img/whatsapp.png" title="WhatsApp" alt="Compartilhar no WhatsApp">
+    <a class="social-link mobile-only" target="_blank" href="whatsapp://send?text={{ include.article.title | xml_escape }}  -  {{ include.article.support_line | xml_escape }}  -  {{ include.article.url | prepend: site.url | uri_escape }}">
+       <img src="{{ site.baseurl }}/assets/img/whatsapp.png" title="WhatsApp" alt="Compartilhar no WhatsApp">
     </a>
   {% endif %}
 </div>
