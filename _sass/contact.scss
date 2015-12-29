@@ -22,7 +22,7 @@ $form-border-color: #E4E4E4;
         padding: 0px 0px 10px 40px;
         display: block;
         border-bottom:1px solid $form-border-color;
-        color: $form-text-color;
+        color: $brand-primary;
 
         > span {
             display: block;
@@ -38,8 +38,9 @@ $form-border-color: #E4E4E4;
             float: left;
             width: 20%;
             text-align: right;
+            vertical-align: middle;
+            margin-top: 2px;
             padding-right: 10px;
-            margin-top: 10px;
             color: $form-text-color;
         }
     }
@@ -50,7 +51,6 @@ $form-border-color: #E4E4E4;
         height: 30px;
         margin-bottom: 16px;
         margin-right: 6px;
-        margin-top: 2px;
         padding: 3px 3px 3px 5px;
         width: 70%;
         font-size: 12px;
