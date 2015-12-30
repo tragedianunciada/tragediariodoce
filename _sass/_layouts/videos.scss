@@ -21,6 +21,22 @@ main.post {
             width: 100%;
             height: 190px;
             max-width: none;
+
+            @media(min-width: $screen-xs) {
+              height: 360px;
+            }
+
+            @media(min-width: $screen-sm) {
+              height: 480px;
+            }
+
+            @media(min-width: $screen-md) {
+              height: 560px;
+            }
+
+            @media(min-width: $screen-big) {
+              height: 630px;
+            }
           }
         }
       }
@@ -51,70 +67,6 @@ ul.video-navigation {
 
       &:hover {
         text-decoration: none;
-      }
-    }
-  }
-}
-
-@media(min-width: $screen-xs) {
-  main.post {
-    article {
-      &.video {
-        .article-body {
-          p {
-            iframe {
-              height: 360px;
-            }
-          }
-        }
-      }
-    }
-  }
-}
-
-@media(min-width: $screen-sm) {
-  main.post {
-    article {
-      &.video {
-        .article-body {
-          p {
-            iframe {
-              height: 480px;
-            }
-          }
-        }
-      }
-    }
-  }
-}
-
-@media(min-width: $screen-md) {
-  main.post {
-    article {
-      &.video {
-        .article-body {
-          p {
-            iframe {
-              height: 560px;
-            }
-          }
-        }
-      }
-    }
-  }
-}
-
-@media(min-width: $screen-big) {
-  main.post {
-    article {
-      &.video {
-        .article-body {
-          p {
-            iframe {
-              height: 630px;
-            }
-          }
-        }
       }
     }
   }
