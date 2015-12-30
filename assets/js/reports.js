@@ -1,12 +1,19 @@
-var REPORT_WIDTH = 300, REPORT_HEIGHT = 360;
-
 $(document).ready(function() {
+  var $relatosList = $('.relatos-list');
+  var relatoItemWidth = $('.relatos-list li:first').width();
+  var scrollWidth = relatoItemWidth * 2;
 
-  $('.report-item').each(function (index) {
-    $(this).css('height' , REPORT_HEIGHT);
-    $(this).css('width' , REPORT_WIDTH);
-  })
+  $(".navigation.next").on('click', function(event) {
+    $relatosList.stop().animate({
+      'scrollLeft': '+=' + scrollWidth + 'px'
+    }, 800);
+    event.preventDefault();
+  });
 
-  var scrollableArea = REPORT_WIDTH * $(".reports-inner .report-item").length;
-  $(".reports-inner").css("width", scrollableArea);
+  $(".navigation.prev").on('click', function(event) {
+    $relatosList.stop().animate({
+      'scrollLeft': '-=' + scrollWidth + 'px'
+    }, 800);
+    event.preventDefault();
+  });
 });
