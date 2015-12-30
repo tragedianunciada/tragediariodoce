@@ -77,7 +77,7 @@ body > main.home > section.row {
 
 @media(max-width: 320px) {
   body > main.home {
-    width: 330px;
+    min-width: 300px;
   }
 }
 
