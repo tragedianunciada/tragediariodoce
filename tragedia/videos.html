@@ -7,7 +7,7 @@ scripts: ["videos.js"]
 {% assign posts = site.videos | reverse %}
 
 <div class="videos">
-  <button class="navigation prev"></button>
+  <button class="navigation prev invisible"></button>
   <ul class="videos-list">
     {% for post in posts %}
       {% assign image_cover = post | find_image: 'hd' %}
@@ -21,5 +21,5 @@ scripts: ["videos.js"]
       </li>
     {% endfor %}
   </ul>
-  <button class="navigation next"></button>
+  <button class="navigation next invisible"></button>
 </div>

@@ -16,4 +16,8 @@ $(document).ready(function() {
     }, 800);
     event.preventDefault();
   });
+
+  if ($videosList.get(0).scrollWidth > $videosList.width()) {
+    $('button.navigation').removeClass('invisible');
+  }
 });

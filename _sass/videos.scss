@@ -17,6 +17,10 @@ $header_text: white;
     top: 0;
     bottom: 0;
 
+    &.invisible {
+      visibility: hidden;
+    }
+
     &:hover {
       opacity: 0.5;
       cursor: pointer;
