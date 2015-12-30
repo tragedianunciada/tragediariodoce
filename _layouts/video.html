@@ -5,6 +5,24 @@ layout: tragedia
 {% assign video_url = content | get_video_embeded %}
 
 <main class="post">
+  {% for video in videos %}
+    {% if video.title == page.title %}
+      <ul class="video-navigation">
+        {% unless forloop.last %}
+          {% assign next = videos[forloop.index] %}
+          <li>
+            <a href="{{ site.baseurl }}{{ next.url }}">&larr; anterior</a>
+          </li>
+        {% endunless %}
+        {% unless forloop.first %}
+          <li>
+            <a href="{{ site.baseurl }}{{ prev.url }}">próximo &rarr;</a>
+          </li>
+        {% endunless %}
+      </ul>
+    {% endif %}
+    {% assign prev = video %}
+  {% endfor %}
   {% if video_url %}
     <article class="video">
       <div itemprop="articleBody" class="article-body">
@@ -44,23 +62,3 @@ layout: tragedia
     {% include social-buttons.html article = page %}
   {% endif %}
 </main>
-
-{% for video in videos %}
-  {% if video.title == page.title %}
-    <ul class="video-navigation">
-      {% unless forloop.last %}
-        {% assign next = videos[forloop.index] %}
-        <li>
-          <a href="{{ site.baseurl }}{{ next.url }}">&larr; anterior</a>
-        </li>
-      {% endunless %}
-      {% unless forloop.first %}
-        <li>
-          <a href="{{ site.baseurl }}{{ prev.url }}">próximo &rarr;</a>
-        </li>
-      {% endunless %}
-    </ul>
-  {% endif %}
-  {% assign prev = video %}
-{% endfor %}
-
