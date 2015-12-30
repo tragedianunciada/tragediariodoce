@@ -17,7 +17,7 @@
     "view": "select",
     "options": [
     {"name": "Notícia", "id": "noticia"},
-    {"name": "Relato", "id": "relato"},
+    {"name": "Vídeo", "id": "video"},
     {"name": "Dados e Infográficos", "id": "dados-infografico"}
     ]
   }
@@ -90,7 +90,7 @@
   "need": {
     "field": "tipo",
     "equal": true,
-    "value": "relato"
+    "value": "video"
   }
 },
 {

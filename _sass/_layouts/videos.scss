@@ -2,7 +2,7 @@ main.post {
   margin: 0 auto;
 
   article {
-    &.relato {
+    &.video {
       header, div {
         margin-right: auto;
         margin-left: auto;
@@ -28,7 +28,7 @@ main.post {
   }
 }
 
-ul.relato-navigation {
+ul.video-navigation {
   display: block;
   width: 90%;
   margin: 10px auto;
@@ -59,7 +59,7 @@ ul.relato-navigation {
 @media(min-width: $screen-xs) {
   main.post {
     article {
-      &.relato {
+      &.video {
         .article-body {
           p {
             iframe {
@@ -75,7 +75,7 @@ ul.relato-navigation {
 @media(min-width: $screen-sm) {
   main.post {
     article {
-      &.relato {
+      &.video {
         .article-body {
           p {
             iframe {
@@ -91,7 +91,7 @@ ul.relato-navigation {
 @media(min-width: $screen-md) {
   main.post {
     article {
-      &.relato {
+      &.video {
         .article-body {
           p {
             iframe {
@@ -107,7 +107,7 @@ ul.relato-navigation {
 @media(min-width: $screen-big) {
   main.post {
     article {
-      &.relato {
+      &.video {
         .article-body {
           p {
             iframe {

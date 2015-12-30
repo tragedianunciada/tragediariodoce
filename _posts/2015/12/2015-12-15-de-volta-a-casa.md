@@ -2,7 +2,7 @@
 date: "2015-12-15T15:42:48-02:00"
 tags:
   - tag: atingidos
-tipo: relato
+tipo: video
 editoria: atingido
 micro-regiao: mariana
 autoria-local: Redação/MG

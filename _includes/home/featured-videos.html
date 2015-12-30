@@ -1,10 +1,10 @@
-{% assign posts = site.featured_relatos %}
+{% assign posts = site.featured_videos %}
 {% if posts.size > 2 %}
   <section class="featured-news-large">
 {% else %}
   <section class="featured-news">
 {% endif %}
-  <h2 class="hat">Relatos</h2>
+  <h2 class="hat">Vídeos recentes</h2>
   {% for post in posts %}
     {% include headline-with-image.html post=post support_line=true show_time=false %}
   {% endfor %}
