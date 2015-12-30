@@ -7,6 +7,7 @@ scripts: ["reports.js"]
 {% assign posts = site.relatos | reverse %}
 
 <div class="reports">
+  <button class="navigation prev"></button>
   <ul class="relatos-list">
     {% for post in posts %}
       {% assign image_cover = post | find_image: 'hd' %}
@@ -20,4 +21,5 @@ scripts: ["reports.js"]
       </li>
     {% endfor %}
   </ul>
+  <button class="navigation next"></button>
 </div>

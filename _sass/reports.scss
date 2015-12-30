@@ -1,21 +1,70 @@
 $header_text: white;
 
 .reports {
-  overflow-x: scroll;
+  position: relative;
+  overflow-x: hidden;
   overflow-y: hidden;
+
+  button.navigation {
+    display: none;
+    position: absolute;
+    opacity: 0.3;
+    background-color: black;
+    border: none;
+    color: white;
+    width: 3%;
+    min-width: 40px;
+    top: 0;
+    bottom: 0;
+
+    &:hover {
+      opacity: 0.5;
+      cursor: pointer;
+    }
+
+    &:active {
+      opacity: 0.8;
+      cursor: pointer;
+    }
+
+    &:before {
+      font-family: 'Glyphicons Halflings Regular';
+      font-size: 1.3em;
+    }
+
+    &.prev {
+      left: 0;
+
+      &:before {
+        content: "\e079";
+      }
+    }
+
+    &.next {
+      right: 0;
+
+      &:before {
+        content: "\e080";
+      }
+    }
+
+    @media(min-width: $screen-sm) {
+      display: block;
+    }
+  }
 
   .relatos-list {
     width: 100%;
     text-align: center;
-    display: inline-table;
     white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
     margin: 0;
 
     li {
       display: inline-block;
       width: 300px;
       height: 460px;
-      margin: 0 5px;
       padding: 0;
       background-size: cover;
       background-position: center;
