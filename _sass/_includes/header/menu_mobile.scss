@@ -57,7 +57,7 @@
   /*
     Essa é a posição original do HEADER e do MAIN
     */
-  header, main, footer {
+  body > * {
     -webkit-transition: all .25s linear;
     -moz-transition: all .25s linear;
     -ms-transition: all .25s linear;
@@ -79,8 +79,7 @@
     transform: translateX(0);
   }
 
-  .menu-active header,
-  .menu-active main {
+  .menu-active body > * {
     -webkit-transform: translateX(220px);
     -moz-transform: translateX(220px);
     -ms-transform: translateX(220px);
