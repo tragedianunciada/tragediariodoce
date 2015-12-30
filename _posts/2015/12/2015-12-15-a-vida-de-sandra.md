@@ -2,7 +2,7 @@
 date: "2015-12-15T14:32:31-02:00"
 tags:
   - tag: atingidos
-tipo: relato
+tipo: video
 editoria: atingido
 title: A vida de Sandra
 support_line: "Moradora de Bento Rodrigues desde que nasceu, a cozinheira Sandra Quintão revela nos olhos a saudade da antiga vida."

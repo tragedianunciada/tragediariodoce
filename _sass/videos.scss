@@ -1,21 +1,70 @@
 $header_text: white;
 
-.reports {
-  overflow-x: scroll;
+.videos {
+  position: relative;
+  overflow-x: hidden;
   overflow-y: hidden;
 
-  .relatos-list {
+  button.navigation {
+    display: none;
+    position: absolute;
+    opacity: 0.3;
+    background-color: black;
+    border: none;
+    color: white;
+    width: 3%;
+    min-width: 40px;
+    top: 0;
+    bottom: 0;
+
+    &:hover {
+      opacity: 0.5;
+      cursor: pointer;
+    }
+
+    &:active {
+      opacity: 0.8;
+      cursor: pointer;
+    }
+
+    &:before {
+      font-family: 'Glyphicons Halflings Regular';
+      font-size: 1.3em;
+    }
+
+    &.prev {
+      left: 0;
+
+      &:before {
+        content: "\e079";
+      }
+    }
+
+    &.next {
+      right: 0;
+
+      &:before {
+        content: "\e080";
+      }
+    }
+
+    @media(min-width: $screen-sm) {
+      display: block;
+    }
+  }
+
+  .videos-list {
     width: 100%;
     text-align: center;
-    display: inline-table;
     white-space: nowrap;
+    overflow-x: scroll;
+    overflow-y: hidden;
     margin: 0;
 
     li {
       display: inline-block;
       width: 300px;
       height: 460px;
-      margin: 0;
       padding: 0;
       background-size: cover;
       background-position: center;
@@ -24,7 +73,7 @@ $header_text: white;
         display: block;
         width: 100%;
         height: 100%;
-        padding: 0;
+        padding: 10px 0 0 0;
         text-align: left;
 
         &:hover {
@@ -33,10 +82,9 @@ $header_text: white;
           background-color: rgba(28,118,154,0.5);
         }
 
-        .relato-content {
+        .video-content {
           background: rgba(0,0,0,0.3);
           padding: 2px;
-          margin-top: 10px;
           font-size: 1.2em;
 
           time {

@@ -10,17 +10,17 @@ module Jekyll
       cover = find('cover').first
 
       featured_news = find('noticia', 'tipo').slice(0,6)
-      relatos = find('relato', 'tipo')
-      featured_relatos = relatos.slice(0,3)
+      videos = find('video', 'tipo')
+      featured_videos = videos.slice(0,3).reverse()
 
-      relatos.select do |relato|
-        relato.data['layout'] = 'relato'
+      videos.select do |video|
+        video.data['layout'] = 'video'
       end
 
       site.config['cover'] = cover
       site.config['featured_news'] = featured_news
-      site.config['relatos'] = relatos
-      site.config['featured_relatos'] = featured_relatos
+      site.config['videos'] = videos
+      site.config['featured_videos'] = featured_videos
     end
 
     def find value, field = 'section', minimum = 0, except = []

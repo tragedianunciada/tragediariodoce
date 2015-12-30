@@ -1,12 +1,12 @@
 ---
 layout: tragedia
 ---
-{% assign relatos = site.relatos %}
+{% assign videos = site.videos %}
 {% assign video_url = content | get_video_embeded %}
 
 <main class="post">
   {% if video_url %}
-    <article class="relato">
+    <article class="video">
       <div itemprop="articleBody" class="article-body">
         <p>
           <iframe frameborder="0" src="{{ video_url }}"></iframe>
@@ -45,11 +45,11 @@ layout: tragedia
   {% endif %}
 </main>
 
-{% for relato in relatos %}
-  {% if relato.title == page.title %}
-    <ul class="relato-navigation">
+{% for video in videos %}
+  {% if video.title == page.title %}
+    <ul class="video-navigation">
       {% unless forloop.last %}
-        {% assign next = relatos[forloop.index] %}
+        {% assign next = videos[forloop.index] %}
         <li>
           <a href="{{ site.baseurl }}{{ next.url }}">&larr; anterior</a>
         </li>
@@ -61,6 +61,6 @@ layout: tragedia
       {% endunless %}
     </ul>
   {% endif %}
-  {% assign prev = relato %}
+  {% assign prev = video %}
 {% endfor %}
 
