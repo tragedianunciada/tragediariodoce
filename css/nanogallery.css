@@ -1,5 +1,17 @@
 /* Theme for nanoGALLERY - www.nanogallery.brisbois.fr */
 
+/* Hack para menu mobile com galerias */
+body > div {
+  -webkit-transition: all 0s ease 0s;
+  -moz-transition: all 0s ease 0s;
+  -ms-transition: all 0s ease 0s;
+  transition: all 0s ease 0s;
+  -webkit-transform: none;
+  -moz-transform: none;
+  -ms-transform: none;
+  transform: none;
+}
+
 /**************************************/
 /* MAIN CONTAINER                     */
 /**************************************/
