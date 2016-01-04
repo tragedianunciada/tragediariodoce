@@ -6,8 +6,8 @@ mab_url:     http://www.mabnacional.org.br/
 author:      MAB - Movimento dos Atingidos por Barragens
 description: ""
 short_description: Essa tragédia nunca poderá ser esquecida
-baseurl:     http://tragedianunciada.github.io/tragediariodoce
-url: http://tragedianunciada.github.io/tragediariodoce
+baseurl:     https://tragedianunciada.github.io/tragediariodoce
+url:         https://tragedianunciada.github.io/tragediariodoce
 
 # Google analytics
 google_analytics: xxx
