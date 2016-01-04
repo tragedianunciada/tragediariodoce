@@ -20,61 +20,6 @@ scripts: ["videos.js"]
         </a>
       </li>
     {% endfor %}
-    {% for post in posts %}
-      {% assign image_cover = post | find_image: 'hd' %}
-      <li style="background-image: url('{{ image_cover }}');">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <div class="video-content">
-            <time datetime="{{ post.date }}">{{ post.date | pretty_date }}</time>
-            <h3>{{post.title}}</h3>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
-    {% for post in posts %}
-      {% assign image_cover = post | find_image: 'hd' %}
-      <li style="background-image: url('{{ image_cover }}');">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <div class="video-content">
-            <time datetime="{{ post.date }}">{{ post.date | pretty_date }}</time>
-            <h3>{{post.title}}</h3>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
-    {% for post in posts %}
-      {% assign image_cover = post | find_image: 'hd' %}
-      <li style="background-image: url('{{ image_cover }}');">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <div class="video-content">
-            <time datetime="{{ post.date }}">{{ post.date | pretty_date }}</time>
-            <h3>{{post.title}}</h3>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
-    {% for post in posts %}
-      {% assign image_cover = post | find_image: 'hd' %}
-      <li style="background-image: url('{{ image_cover }}');">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <div class="video-content">
-            <time datetime="{{ post.date }}">{{ post.date | pretty_date }}</time>
-            <h3>{{post.title}}</h3>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
-    {% for post in posts %}
-      {% assign image_cover = post | find_image: 'hd' %}
-      <li style="background-image: url('{{ image_cover }}');">
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          <div class="video-content">
-            <time datetime="{{ post.date }}">{{ post.date | pretty_date }}</time>
-            <h3>{{post.title}}</h3>
-          </div>
-        </a>
-      </li>
-    {% endfor %}
   </ul>
   <button class="navigation next invisible"></button>
 </div>
