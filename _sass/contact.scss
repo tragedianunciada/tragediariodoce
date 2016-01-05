@@ -2,7 +2,16 @@
   width: 90%;
   margin: 0 auto;
 
-  > div {
+  h1 {
+    border-bottom: 1px solid $gray-lighter;
+    color: $brand-primary;
+    margin: 5px 0 20px;
+    font-family: $font-family-sans;
+    font-size: 1.8em;
+    font-weight: 700;
+  }
+
+  .mensagem, .contato {
     display: inline-block;
     vertical-align: middle;
     width: 100%;
@@ -11,17 +20,6 @@
     @media(min-width: $screen-sm) {
       width: 45%;
       min-height: 350px;
-    }
-  }
-
-  h1 {
-    border-bottom: 1px solid $gray-lighter;
-    color: $brand-primary;
-    margin: 5px 0 30px;
-
-    > span {
-        display: block;
-        font-size: 11px;
     }
   }
 
@@ -83,14 +81,18 @@
 
   .contato {
     margin-top: 20px;
+    color: $gray;
 
     @media(min-width: $screen-sm) {
       float: right;
       margin-top: 0;
+      border-left: 1px solid $gray-lighter;
     }
 
     h2 {
       color: $brand-primary;
+      font-family: $font-family-sans;
+      font-size: 1.5em;
       margin: 0 0 20px;
     }
 
@@ -102,10 +104,5 @@
       font-weight: 400;
       font-size: 1em;
     }
-
-    span {
-      margin: 0 auto;
-    }
   }
-
 }
