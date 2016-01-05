@@ -19,12 +19,12 @@
   <meta content="{{ page.menu }}" itemprop="articleSection"/>
 {% endif %}
 
-{% if page.description and page.description != '' %}
+{% if page.description and page.description != '' %}  
   <meta property="og:description" content="{{ page.description  | truncate: 200 | xml_escape }}" />
-{% else if page.support_line and page.support_line != '' %}
+{% elsif page.support_line and page.support_line != '' %}
   <meta property="og:description" content="{{ page.support_line | truncate: 200 | xml_escape  }}" />
 {% else %}
-<meta property="og:description" content="{{ site.description | truncate: 200 | xml_escape  }}" />
+  <meta property="og:description" content="{{ site.description | truncate: 200 | xml_escape  }}" />
 {% endif %}
 
 {% if page.url %}
