@@ -56,12 +56,10 @@ body > main.home > section.row {
   max-width: 100%;
 
   section {
-    border-top: 2px solid;
+    border-top: $border-flat;
   }
 
   @include media($screen-sm) {
-    border-top: $border-flat;
-
     section {
       border-top: none;
       padding:0;

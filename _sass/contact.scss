@@ -1,14 +1,17 @@
 .contato-container {
   width: 90%;
-  margin: 0 auto;
+  margin: 20px auto;
+  border-top: $border-flat;
+  padding-top: 0;
 
   h1 {
     border-bottom: 1px solid $gray-lighter;
     color: $brand-primary;
-    margin: 5px 0 20px;
+    margin: 10px 0 20px;
     font-family: $font-family-sans;
-    font-size: 1.8em;
+    font-size: 1.5em;
     font-weight: 700;
+    text-transform: uppercase;
   }
 
   .mensagem, .contato {
