@@ -5,42 +5,31 @@ permalink: /contatos/
 header_priority: 4
 scripts: ["contact.js"]
 ---
-<main class="home">
-  <div class="contato-container">
-    <div class="mensagem" >
-      <form action="" method="post" class="contato-form">
-          <h1>Contato</h1>
-          <label>
-              <span>Nome:</span>
-              <input id="name" type="text" name="name" placeholder="nome" required="true"/>
-          </label>
+<main class="contato-container">
+  <h1>Contato</h1>
 
-          <label>
-              <span>E-mail:</span>
-              <input id="email" type="email" name="email" placeholder="e-mail" required="true"/>
-          </label>
+  <div class="mensagem" >
+    <form action="" method="post" class="contato-form">
+      <label for="name">Nome:</label>
+      <input id="name" type="text" name="name" placeholder="Nome" required="true"/>
 
-          <label>
-              <span>Mensagem:</span>
-              <textarea id="message" name="message" placeholder="mensagem" required="true"></textarea>
-          </label>
-           <label>
-              <input type="submit" class="button" value="Enviar"/>
-          </label>
-      </form>
-    </div>
+      <label for="email">E-mail:</label>
+      <input id="email" type="email" name="email" placeholder="E-Mail" required="true"/>
 
-    <div class="contato">
-      <a href="{{site.mab_url}}" target="_blank"> Movimento dos Atingidos por Barragens </a>
-        <h2> Fone/Fax: (11) 3392 2660 - São Paulo - SP - Brasil </h2>
-        <span>
-            <h3>Atendimento Geral:</h3>
-            <p> mab@mabnacional.org.br </p>
-        </span>
-        <span>
-            <h3>Assesoria de Imprensa:</h3>
-            <p> imprensa@mabnacional.org.br </p>
-        </span>
-    </div>
+      <label for="message">Mensagem:</label>
+      <textarea id="message" name="message" placeholder="Mensagem" required="true" rows="5"></textarea>
+      <input type="submit" class="button" value="Enviar"/>
+    </form>
+  </div>
+
+  <div class="contato">
+    <h2><a href="{{ site.mab_url }}" target="_blank">Movimento dos Atingidos por Barragens</a></h2>
+    <p>Fone/Fax: (11) 3392 2660 - São Paulo - SP - Brasil</p>
+
+    <h3>Atendimento Geral:</h3>
+    <p>mab@mabnacional.org.br</p>
+
+    <h3>Assesoria de Imprensa:</h3>
+    <p>imprensa@mabnacional.org.br</p>
   </div>
 </main>

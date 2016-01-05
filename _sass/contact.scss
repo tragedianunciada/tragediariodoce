@@ -1,110 +1,111 @@
-$form-text-color: #888;
-$form-border-color: #E4E4E4;
-
-
 .contato-container {
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  margin: 0 auto;
+
   > div {
     display: inline-block;
     vertical-align: middle;
-  }
-}
-
-.mensagem {
-  width: 49%;
-
-  .contato-form {
-    border-right:1px solid $form-border-color;
-
-    h1 {
-        font-size: 25px;
-        padding: 0px 0px 10px 40px;
-        display: block;
-        border-bottom:1px solid $form-border-color;
-        color: $brand-primary;
-
-        > span {
-            display: block;
-            font-size: 11px;
-        }
-    }
-
-    label {
-        display: block;
-        margin: 0px;
-
-        > span {
-            float: left;
-            width: 20%;
-            text-align: right;
-            vertical-align: middle;
-            margin-top: 2px;
-            padding-right: 10px;
-            color: $form-text-color;
-        }
-    }
-
-    input[type="text"], input[type="email"], textarea {
-        border: 1px solid $form-border-color;
-        color: $form-text-color;
-        height: 30px;
-        margin-bottom: 16px;
-        margin-right: 6px;
-        padding: 3px 3px 3px 5px;
-        width: 70%;
-        font-size: 12px;
-    }
-
-    textarea {
-       padding: 5px 3px 3px 5px;
-       height:100px;
-   }
-
-   .button {
-       background: $brand-primary;
-       float: right;
-       margin-right: 20px;
-       border: none;
-       padding: 10px 25px 10px 25px;
-       color: white;
-       cursor: pointer;
-
-       &:hover {
-          background: lighten($brand-primary, 20%);
-       }
-   }
- }
-}
-
-.contato {
-  width: 40%;
-  margin-left: 9%;
-  text-align: center;
-
-  a {
-    color: $brand-primary;
-    font-size: 20px;
-    font-style: oblique;
-    margin-top: 0;
-  }
-
-  h2 {
-    font-size: 17px;
-  }
-
-  span {
-    margin: 0 auto;
-    max-width: 50%;
+    width: 100%;
     text-align: center;
 
-      h3 {
-          font-size: 14px;
-          font-style: oblique;
+    @media(min-width: $screen-sm) {
+      width: 45%;
+      min-height: 350px;
+    }
+  }
+
+  h1 {
+    border-bottom: 1px solid $gray-lighter;
+    color: $brand-primary;
+    margin: 5px 0 30px;
+
+    > span {
+        display: block;
+        font-size: 11px;
+    }
+  }
+
+  .mensagem {
+    .contato-form {
+      margin-bottom: 10px;
+
+      label {
+        display: none;
+
+        @media(min-width: $screen-md) {
+          display: inline-block;
+          margin: 0 0 5px;
+          width: 20%;
+          height: 34px;
+          text-align: right;
+          color: $gray-light;
+          padding: 3px 5px;
+        }
       }
 
-      p {
-        font-size: 12px;
+      input[type="text"], input[type="email"], textarea {
+        border: 1px solid $gray-lighter;
+        border-radius: 4px;
+        color: $gray-light;
+        padding: 3px 5px;
+        margin-bottom: 15px;
+        width: 100%;
+        padding: 6px 12px;
+        font: 14px $font-family-base;
+        line-height: 1.4;
+
+        @media(min-width: $screen-md) {
+          width: 70%;
+          display: inline-block;
+          vertical-align: middle;
+          margin-bottom: 0;
+        }
       }
+
+      input[type="text"], input[type="email"] {
+        height: 34px;
+      }
+
+      .button {
+        background: $brand-primary;
+        border: none;
+        margin: 10px 0;
+        padding: 10px 40px;
+        color: white;
+        cursor: pointer;
+
+        &:hover {
+          background: lighten($brand-primary, 20%);
+        }
+      }
+    }
   }
+
+  .contato {
+    margin-top: 20px;
+
+    @media(min-width: $screen-sm) {
+      float: right;
+      margin-top: 0;
+    }
+
+    h2 {
+      color: $brand-primary;
+      margin: 0 0 20px;
+    }
+
+    h3 {
+      font-size: 16px;
+    }
+
+    p {
+      font-weight: 400;
+      font-size: 1em;
+    }
+
+    span {
+      margin: 0 auto;
+    }
+  }
+
 }
