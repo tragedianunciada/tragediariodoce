@@ -34,9 +34,9 @@ FlickrGallery = function (userID) {
   FlickrGallery.prototype.findPhotoSets = function(cb) {
 
     $.get( this.buildFlickrCall(), function(data) {
-        data.photosets.photoset.slice(0,3).forEach(cb);
+        data.photosets.photoset.forEach(cb);
     }).fail(function() {
-        alert( "error" );
+        
       })
   }
 
