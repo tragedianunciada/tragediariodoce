@@ -33,10 +33,27 @@ FlickrGallery = function (userID) {
 
   FlickrGallery.prototype.findPhotoSets = function(cb) {
 
+    function appendInNav(href, txt) {
+      $('.site-sub-nav section').append('<a href="' + href +'">' +  txt + '</a>');
+    }
+
+    function handleAPIErrors(data) {
+
+      if (data.code == "100") {
+        appendInNav('#', "Erro de permissão para acesso a galeria. Favor entrar em contato com o administrador do sistema.");
+      } else {
+        appendInNav('javascript:window.location.href=window.location.href', "Erro ao tentar carregar galeria. Por favor, tente novamente");
+      }
+    }
+
     $.get( this.buildFlickrCall(), function(data) {
-        data.photosets.photoset.slice(0,3).forEach(cb);
-    }).fail(function() {
-        alert( "error" );
+        if (data.stat !== "ok") {
+          handleAPIErrors(data);
+        } else {
+            data.photosets.photoset.forEach(cb);
+        }
+    }).fail(function(e) {
+          appendInNav('javascript:window.location.href=window.location.href', "Erro ao tentar carregar galeria. Por favor, tente novamente");
       })
   }
 
