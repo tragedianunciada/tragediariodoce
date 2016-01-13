@@ -1,11 +1,11 @@
 # Site settings
-title:       Rio Doce
-name:        Tragédia do Rio Doce
+title:       Tragédia Anunciada
+name:        Tragédia Anunciada
 email:       mab@mabnacional.org.br
 mab_url:     http://www.mabnacional.org.br/
 author:      MAB - Movimento dos Atingidos por Barragens
-description: "Tragédia no Rio Doce: o que garante os direitos é o povo organizado!"
-short_description: o que o garante os direitos é o povo organizado
+description: "Tragédia anunciada: o que garante os direitos é o povo organizado!"
+short_description: O que o garante os direitos é o povo organizado
 baseurl:
 url:         http://tragedianunciada.mabnacional.org.br
 
