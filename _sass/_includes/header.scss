@@ -16,7 +16,7 @@ $padding: 20px;
     display: inline;
   }
 
-  @media(min-width: $screen-md) {
+  @media(min-width: $screen-sm) {
     border-bottom: 1px solid $color_menu;
   }
 }
