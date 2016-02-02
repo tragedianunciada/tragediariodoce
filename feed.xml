@@ -5,8 +5,8 @@
     <description>Tragédia anunciada: o que garante os direitos é o povo organizado!</description>
     <link>http://tragedianunciada.mabnacional.org.br/</link>
     <atom:link href="http://tragedianunciada.mabnacional.org.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Feb 2016 18:36:22 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2016 18:36:22 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Feb 2016 18:37:46 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Feb 2016 18:37:46 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -42,6 +42,22 @@
         <pubDate>Tue, 02 Feb 2016 18:33:15 +0000</pubDate>
         <link>http://tragedianunciada.mabnacional.org.br/2016/02/02/arqueologia-de-uma-tragedia/</link>
         <guid isPermaLink="true">http://tragedianunciada.mabnacional.org.br/2016/02/02/arqueologia-de-uma-tragedia/</guid>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;bento-rodrigues&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;atingidos&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;samarco&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;mariana&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;minas-gerais&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;vale&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;bhp-billiton&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;rio-doce&quot;}</category>
         
         
       </item>
