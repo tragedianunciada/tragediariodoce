@@ -28,7 +28,7 @@ files:
     title: bento01.jpg
     $$hashKey: "062"
 created_date: "2015-12-15T14:50:48-02:00"
-published: true
+published: false
 releated_posts:
   - 2015/12/2015-12-15-a-cidade.md
 micro-regiao: valadares
