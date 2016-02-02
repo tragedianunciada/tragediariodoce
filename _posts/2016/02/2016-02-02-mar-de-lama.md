@@ -32,8 +32,6 @@ published: true
 releated_posts: []
 
 ---
-<p><img alt="1.jpg" src="//farm2.staticflickr.com/1580/24750371126_bf36ceae65_b.jpg" /><em>por Neudicl&eacute;ia de Oliveira, de Linhares</em></p>
-
 <p><em>Fotos: Leandro Taques</em></p>
 
 <p>A lama t&oacute;xica que invadiu o Rio Doce com o rompimento da barragem da Samarco (Vale/BHP Billiton) no dia 5 de novembro, atualmente rodeia uma extensa faixa litor&acirc;nea do Esp&iacute;rito Santo e tem gerado uma onda de indigna&ccedil;&atilde;o nos capixabas.</p>
