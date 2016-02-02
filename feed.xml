@@ -5,8 +5,8 @@
     <description>Tragédia anunciada: o que garante os direitos é o povo organizado!</description>
     <link>http://tragedianunciada.mabnacional.org.br/</link>
     <atom:link href="http://tragedianunciada.mabnacional.org.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 02 Feb 2016 18:37:46 +0000</pubDate>
-    <lastBuildDate>Tue, 02 Feb 2016 18:37:46 +0000</lastBuildDate>
+    <pubDate>Tue, 02 Feb 2016 18:40:05 +0000</pubDate>
+    <lastBuildDate>Tue, 02 Feb 2016 18:40:05 +0000</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
@@ -151,6 +151,16 @@
         <pubDate>Tue, 02 Feb 2016 18:26:05 +0000</pubDate>
         <link>http://tragedianunciada.mabnacional.org.br/2016/02/02/a-lama-da-samarco-vale-bhp-atinge-a-vida-das-mulheres/</link>
         <guid isPermaLink="true">http://tragedianunciada.mabnacional.org.br/2016/02/02/a-lama-da-samarco-vale-bhp-atinge-a-vida-das-mulheres/</guid>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;atingidas&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;atingidos&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;samarco&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;mariana&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;bento-rodrigues&quot;}</category>
         
         
       </item>
