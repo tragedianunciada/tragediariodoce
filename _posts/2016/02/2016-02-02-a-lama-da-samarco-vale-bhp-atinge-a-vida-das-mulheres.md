@@ -1,6 +1,11 @@
 ---
 date: "2016-02-02T16:26:05-02:00"
-tags: []
+tags:
+  - tag: atingidas
+  - tag: atingidos
+  - tag: samarco
+  - tag: mariana
+  - tag: bento-rodrigues
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
@@ -36,7 +41,9 @@ files:
     $$hashKey: 0ND
 created_date: "2016-02-02T16:30:59-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2016/02/2016-02-02-gravida-sofre-aborto-durante-avalanche-de-lama-da-samarco.md
+  - 2015/12/2015-12-15-a-vida-de-sandra.md
 
 ---
 <p>O&nbsp;sagu&atilde;o do Hotel Provid&ecirc;ncia, no centro hist&oacute;rico de Mariana (MG), est&aacute; sempre movimentado. O local &eacute; um dos tantos da cidade a hospedar, h&aacute; quase um m&ecirc;s, os desabrigados devido ao rompimento da barragem da Samarco (pertencente &agrave;s transnacionais Vale e BHP-Billiton). S&atilde;o cerca de 300 fam&iacute;lias nesta situa&ccedil;&atilde;o, sem contar as que foram para casas de parentes. Al&eacute;m desses h&oacute;spedes inusitados, jornalistas, fot&oacute;grafos, pesquisadores, assistentes sociais, funcion&aacute;rios da empresa e da prefeitura e tantos outros circulam o tempo todo por ali, para desespero da recepcionista, que tenta colocar ordem no caos.</p>
