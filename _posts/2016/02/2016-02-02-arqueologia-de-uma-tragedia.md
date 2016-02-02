@@ -1,6 +1,14 @@
 ---
 date: "2016-02-02T16:33:15-02:00"
-tags: []
+tags:
+  - tag: bento-rodrigues
+  - tag: atingidos
+  - tag: samarco
+  - tag: mariana
+  - tag: minas-gerais
+  - tag: vale
+  - tag: bhp-billiton
+  - tag: rio-doce
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
@@ -36,7 +44,9 @@ files:
     $$hashKey: 0PI
 created_date: "2016-02-02T16:35:20-02:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2016/02/2016-02-02-gravida-sofre-aborto-durante-avalanche-de-lama-da-samarco.md
+  - 2015/12/2015-12-15-a-vida-de-sandra.md
 
 ---
 <p>&ldquo;Era como se o mundo estivesse acabando. Eu sei que ningu&eacute;m nunca ouviu o mundo acabando, mas foi essa sensa&ccedil;&atilde;o que a gente teve. Foi muito barulho e poeira&rdquo;, rememorou Renato Jos&eacute; Martins.</p>
