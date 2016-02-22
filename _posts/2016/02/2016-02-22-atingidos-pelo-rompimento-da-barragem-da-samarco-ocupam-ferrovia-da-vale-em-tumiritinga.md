@@ -30,7 +30,7 @@ published: true
 releated_posts: []
 
 ---
-<p>Nesse s&aacute;bado (20), atingidos pelo rompimento da barragem de Fund&atilde;o, de propriedade da mineradora Samarco (Vale/BHP Billiton), ocuparam a linha f&eacute;rrea da Vale no munic&iacute;pio de Tumiritinga (MG) para exigir a continua&ccedil;&atilde;o do abastecimento de &aacute;gua mineral na regi&atilde;o.</p>
+<p>Nesse s&aacute;bado (20), atingidos pelo rompimento da barragem do&nbsp;Fund&atilde;o, de propriedade da mineradora Samarco (Vale/BHP Billiton), ocuparam a linha f&eacute;rrea da Vale no munic&iacute;pio de Tumiritinga (MG) para exigir a continua&ccedil;&atilde;o do abastecimento de &aacute;gua mineral na regi&atilde;o.</p>
 
 <p>Os moradores do munic&iacute;pio, que conta com aproximadamente sete mil habitantes, sofrem desde novembro as consequ&ecirc;ncias do despejo de toneladas de rejeito de min&eacute;rio de ferro no rio Doce. Sem condi&ccedil;&otilde;es de utilizar a &aacute;gua, anteriormente respons&aacute;vel pelo abastecimento e irriga&ccedil;&atilde;o na zona rural, os habitantes de Tumiritinga est&atilde;o sem condi&ccedil;&otilde;es de produzir e garantir o sustento de suas fam&iacute;lias.</p>
 
@@ -40,7 +40,7 @@ releated_posts: []
 
 <p>A popula&ccedil;&atilde;o, insatisfeita com a postura das empresas donas da barragem, n&atilde;o ficou de bra&ccedil;os cruzados. Logo no in&iacute;cio da manh&atilde;, os manifestantes subiram nos trilhos da ferrovia da Vale, que &eacute; uma das controladoras da Samarco, para exigir a manuten&ccedil;&atilde;o da distribui&ccedil;&atilde;o de &aacute;gua mineral para a popula&ccedil;&atilde;o, que a Samarco pretende encerrar no pr&oacute;ximo dia 23.</p>
 
-<p>Al&eacute;m disso, os atingidos reivindicam a cria&ccedil;&atilde;o de um sistema de abastecimento alternativo para o munic&iacute;pio a partir do rio Caratinga e a imediata libera&ccedil;&atilde;o dos cart&otilde;es com a verba de manuten&ccedil;&atilde;o para todas as pessoas cadastradas, al&eacute;m do imediato cadastramento das que ainda n&atilde;o foram cadastradas.</p>
+<p>Al&eacute;m disso, os atingidos reivindicam a cria&ccedil;&atilde;o de um sistema de abastecimento alternativo para o munic&iacute;pio a partir do rio Caratinga e a imediata libera&ccedil;&atilde;o dos cart&otilde;es com a verba de manuten&ccedil;&atilde;o para todas as pessoas cadastradas, al&eacute;m do imediato cadastramento das que ainda n&atilde;o foram inclu&iacute;das.</p>
 
 <p><img alt="1.jpg" src="//farm2.staticflickr.com/1558/25167120516_1bdd3239d8_b.jpg" /></p>
 
@@ -48,13 +48,13 @@ releated_posts: []
 
 <p>Ap&oacute;s uma r&aacute;pida assembleia, os atingidos decidiram desocupar a linha. &ldquo;Entendemos que hoje avan&ccedil;amos um degrau, mas ainda existem muitos para superarmos&rdquo;, opinou Jos&eacute; Pavuna.</p>
 
-<p>Desde novembro, o Movimento dos Atingidos por Barragens est&aacute; trabalhando na regi&atilde;o para contribuir na organiza&ccedil;&atilde;o e garantia dos direitos dos atingidos. Em toda a bacia do rio Doce, soma-se cerca de um milh&atilde;o de pessoas impactadas. &ldquo;O que garante os direitos &eacute; o povo organizado&rdquo;, essa &eacute; a palavra de ordem que o movimento tem levado para as comunidades atingidas.</p>
+<p>Desde novembro, o Movimento dos Atingidos por Barragens est&aacute; trabalhando na regi&atilde;o para contribuir na organiza&ccedil;&atilde;o e garantia dos direitos dos atingidos. Em toda a bacia do rio Doce, somam-se cerca de um milh&atilde;o de pessoas impactadas. &ldquo;O que garante os direitos &eacute; o povo organizado&rdquo;, essa &eacute; a palavra de ordem que o movimento tem levado para as comunidades atingidas.</p>
 
-<p>Somados MAB e aos moradores do munic&iacute;pio, tamb&eacute;m participaram da atividade o Movimento dos Trabalhadores Sem Terra (MST) e sindicatos locais.</p>
+<p>Somados ao MAB, tamb&eacute;m participaram da atividade o Movimento dos Trabalhadores Sem Terra (MST) e sindicatos locais.</p>
 
 <p><strong>&Aacute;gua com cheiro e gosto ruim</strong></p>
 
-<p>O munic&iacute;pio possui v&aacute;rias &aacute;reas de reforma agr&aacute;ria que foram atingidas pela lama. Desde dezembro, os assentamentos e acampamentos mant&eacute;m uma pauta de reinvindica&ccedil;&otilde;es que, na avalia&ccedil;&atilde;o dos atingidos, &ldquo;pouco caminhou&rdquo;.</p>
+<p>O munic&iacute;pio possui v&aacute;rias &aacute;reas de reforma agr&aacute;ria que foram atingidas pela lama. Desde dezembro, os assentamentos e acampamentos mant&eacute;m uma pauta de reivindica&ccedil;&otilde;es que, na avalia&ccedil;&atilde;o dos atingidos, &ldquo;pouco caminhou&rdquo;.</p>
 
 <p>Soma-se a isso a indigna&ccedil;&atilde;o dos moradores da cidade, que est&atilde;o recebendo em suas casas a &aacute;gua do rio Doce, ap&oacute;s tratamento da Copasa. &ldquo;A Samarco divulga diariamente com carro de som que a &aacute;gua &eacute; pr&oacute;pria para consumo, por&eacute;m ela tem gosto e cheiro ruim, provoca coceira quando tomamos banho e v&aacute;rias pessoas est&atilde;o com problemas de pele, incluindo a minha filha&rdquo;, afirmou o pescador Fl&aacute;vio Oliveira, apontando as feridas no bra&ccedil;o da filha. Al&eacute;m dos problemas com a qualidade da &aacute;gua, F&aacute;bio n&atilde;o tem mais condi&ccedil;&otilde;es de pescar desde novembro e at&eacute; hoje n&atilde;o recebeu a verba de manuten&ccedil;&atilde;o da Samarco.</p>
 
