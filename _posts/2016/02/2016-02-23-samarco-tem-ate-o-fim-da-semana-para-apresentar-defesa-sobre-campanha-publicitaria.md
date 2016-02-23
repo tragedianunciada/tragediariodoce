@@ -27,6 +27,8 @@ releated_posts: []
 ---
 <p><em>Por Ivan Richard, da <a href="http://agenciabrasil.ebc.com.br/geral/noticia/2016-02/samarco-tem-ate-o-final-da-semana-para-apresentar-defesa-ao-conar">Ag&ecirc;ncia Brasil</a></em></p>
 
+<p><em>Foto: Lucas Bois</em></p>
+
 <p>A mineradora Samarco tem at&eacute; o fim da semana para apresentar defesa ao Conselho Nacional de Autorregulamenta&ccedil;&atilde;o Publicit&aacute;ria (Conar) no processo que investiga a veracidade das informa&ccedil;&otilde;es contidas na pe&ccedil;a publicit&aacute;ria veiculada pela empresa ap&oacute;s o rompimento da Barragem do Fund&atilde;o, em Mariana (MG), em novembro do ano passado.</p>
 
 <p>Ap&oacute;s receber dezenas de reclama&ccedil;&otilde;es de consumidores sobre a veracidade das informa&ccedil;&otilde;es relacionadas &agrave; ajuda prestada pela empresa &agrave;s fam&iacute;lias atingidas e a&ccedil;&otilde;es de recupera&ccedil;&atilde;o dos estragos, o Conar decidiu abrir processo para averiguar o conte&uacute;do da campanha publicit&aacute;ria da Samarco, controlada pela Vale e BHP Billiton.</p>
