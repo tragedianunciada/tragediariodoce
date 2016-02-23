@@ -6,7 +6,7 @@ tags:
   - tag: fantástico
   - tag: globo
   - tag: vale
-support_line: "Após receber dezenas de reclamações sobre a veracidade das informações relacionadas à ajuda prestada pela empresa às famílias atingidas, o Conar decidiu abrir processo para averiguar o conteúdo da campanha publicitária da Samarco"
+support_line: "Após receber dezenas de reclamações sobre a veracidade das informações relacionadas à ajuda prestada pela empresa às famílias atingidas, o Conar decidiu abrir processo para averiguar o conteúdo da campanha publicitária da Samarco."
 autoria-local: Redação/SP
 images_hd: //farm2.staticflickr.com/1513/25218234185_51d6633478_b.jpg
 tipo: noticia
