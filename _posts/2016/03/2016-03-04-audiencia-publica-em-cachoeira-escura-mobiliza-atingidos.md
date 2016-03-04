@@ -9,7 +9,7 @@ editoria: atingido
 micro-regiao: valadares
 autoria-local: "Talita Silva, de Belo Oriente (MG)"
 title: Audiência Pública em Cachoeira Escura mobiliza atingidos
-support_line: "Durante Audiência Pública em Belo Oriente (MG), atingidos pela barragem da Samarco (Vale/BHP Billiton) afirmam que não aceitam consumir água captada do rio Doce."
+support_line: "Durante Audiência Pública em distrito de Belo Oriente (MG), atingidos pela barragem da Samarco (Vale/BHP Billiton) afirmam que não aceitarão consumir água captada do rio Doce."
 images_hd: //farm2.staticflickr.com/1538/25133272789_dc2fed3b9d_b.jpg
 layout: post
 files:
