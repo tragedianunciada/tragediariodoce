@@ -26,12 +26,6 @@ files:
     small: //farm2.staticflickr.com/1531/25408652351_48f7d94d48_n.jpg
     title: 3.jpg
     $$hashKey: 09W
-  - link: //farm2.staticflickr.com/1644/25475352556_10638ae9f2_b.jpg
-    thumbnail: //farm2.staticflickr.com/1644/25475352556_10638ae9f2_t.jpg
-    medium: //farm2.staticflickr.com/1644/25475352556_10638ae9f2_z.jpg
-    small: //farm2.staticflickr.com/1644/25475352556_10638ae9f2_n.jpg
-    title: 1.jpg
-    $$hashKey: 09Z
 created_date: "2016-03-04T12:50:47-03:00"
 published: true
 releated_posts:
@@ -53,8 +47,6 @@ releated_posts:
 
 <p>&ldquo;E por isto que estamos aqui. Este dia de mobiliza&ccedil;&atilde;o &eacute; para marcar presen&ccedil;a, mostrar que queremos nossa cidade limpa, sem doen&ccedil;as, sem este barulho terr&iacute;vel em um lugar que foi sempre pacato&rdquo;, afirma a integrante da coordena&ccedil;&atilde;o local do MAB, M&eacute;rcia Paglioto.</p>
 
-<p><img alt="2.jpg" src="//farm2.staticflickr.com/1570/25475347966_32a187dd1a_b.jpg" /></p>
-
 <p>Ruas estragadas, esgoto entupido ou a c&eacute;u aberto, poeira de rejeito sujando as casas, tr&acirc;nsito intenso de ve&iacute;culos, trincas nas casas, amea&ccedil;as a pr&eacute;dios hist&oacute;ricos. A lista de problemas &eacute; extensa, mas h&aacute; que se destacar o caos na sa&uacute;de p&uacute;blica. Se em 2015 foram registrados dois casos isolados de dengue, at&eacute; 2 de mar&ccedil;o de 2016 j&aacute; eram 128 casos confirmados, conforme informe da Secretaria Municipal de Sa&uacute;de, que j&aacute; considera a doen&ccedil;a fora do controle.</p>
 
 <p>Al&eacute;m disto, registra-se um aumento consider&aacute;vel de alergias respirat&oacute;rias e dermatol&oacute;gicas, atendimentos com dores de cabe&ccedil;a, ins&ocirc;nia, estresse, etc. A depress&atilde;o e os problemas emocionais decorridos da mem&oacute;ria da trag&eacute;dia e de seus desdobramentos deixam claro que a popula&ccedil;&atilde;o vive sob o efeito de um trauma coletivo t&iacute;pico de grandes desastres.</p>
@@ -65,13 +57,13 @@ releated_posts:
 
 <p>Foi contra todo este caos que a popula&ccedil;&atilde;o se mobilizou. Por&eacute;m, para impedir a repercuss&atilde;o, a Samarco tentou desmobilizar as fam&iacute;lias. Marcou tr&ecirc;s reuni&otilde;es no mesmo hor&aacute;rio da manifesta&ccedil;&atilde;o ligando para elas durante a noite anterior. Mesmo assim, os atingidos mantiveram o plano e, junto com os estudantes e professores do turno da manh&atilde; da Escola Estadual Jos&eacute; Epif&acirc;nio Gon&ccedil;alves, tomaram as ruas da cidade fechando o tr&acirc;nsito.</p>
 
+<p><img alt="2.jpg" src="//farm2.staticflickr.com/1570/25475347966_32a187dd1a_b.jpg" /></p>
+
 <p>A Samarco marcou as reuni&otilde;es para atender uma reivindica&ccedil;&atilde;o do MAB. Ampliou o direito ao cart&atilde;o subsist&ecirc;ncia e pagou 58 adiantamentos de indeniza&ccedil;&atilde;o em um total de mais 1 milh&atilde;o de reais. &ldquo;Foi uma vit&oacute;ria do povo&rdquo;, avalia M&eacute;rcia Paglioto. &ldquo;Pedimos isto desde novembro. Temos a clareza de que estas conquistas s&oacute; aconteceram por causa do esfor&ccedil;o que estamos fazendo para que todos os atingidos participem, levando informa&ccedil;&atilde;o e construindo o protagonismo&rdquo;, considera M&eacute;rcia.</p>
 
 <p>Durante a manifesta&ccedil;&atilde;o, os atingidos ficaram sabendo que uma das reuni&otilde;es que seriam realizadas na prefeitura havia sido adiada para a tarde. Ent&atilde;o, um dos encaminhamentos foi um grupo retornar ao pr&eacute;dio para entrar na reuni&atilde;o.</p>
 
 <p>&Agrave;s 14 horas, os atingidos retomaram a mobiliza&ccedil;&atilde;o pedindo para entrar no encontro que reunia advogados e engenheiros que estavam discutindo &ldquo;quest&otilde;es t&eacute;cnicas de engenharia e pagamento de tributos&rdquo;. Ap&oacute;s esperar mais de uma hora por uma resposta sobre como a popula&ccedil;&atilde;o participaria, as fam&iacute;lias decidiram entrar no pr&eacute;dio e ocupar o sagu&atilde;o de entrada e os corredores, obrigando a empresa a se manifestar.</p>
-
-<p><img alt="1.jpg" src="//farm2.staticflickr.com/1644/25475352556_10638ae9f2_b.jpg" /></p>
 
 <p>&ldquo;Recebemos respostas evasivas, mas fazer este movimento foi muito importante para a Samarco entender que a popula&ccedil;&atilde;o quer participar efetivamente de todos os espa&ccedil;os, &eacute; direito dela e disto n&atilde;o abrimos m&atilde;o. N&atilde;o existem aqui quest&otilde;es t&eacute;cnicas. Tudo aqui tem a ver com a vida das pessoas e por isto nos interessa.&rdquo;, comenta o militante do MAB, Serginho Papagaio.</p>
 
