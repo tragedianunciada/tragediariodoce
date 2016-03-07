@@ -24,6 +24,12 @@ files:
     small: //farm2.staticflickr.com/1539/25294660170_e8b6cf3eb6_n.jpg
     title: minas1.jpg
     $$hashKey: 02G
+  - link: //farm2.staticflickr.com/1450/25294722890_a6e11f9ec2_b.jpg
+    thumbnail: //farm2.staticflickr.com/1450/25294722890_a6e11f9ec2_t.jpg
+    medium: //farm2.staticflickr.com/1450/25294722890_a6e11f9ec2_z.jpg
+    small: //farm2.staticflickr.com/1450/25294722890_a6e11f9ec2_n.jpg
+    title: minas3.jpg
+    $$hashKey: 04Y
 created_date: "2016-03-07T13:51:23-03:00"
 published: true
 releated_posts: []
@@ -32,6 +38,8 @@ releated_posts: []
 <p>Centenas de mulheres de movimentos sociais do campo e da cidade est&atilde;o acampadas em frente &agrave; Assembleia Legislativa do Estado de Minas Gerais, regi&atilde;o central de Belo Horizonte. Com o tema &ldquo;Mulheres contra a lama que violenta e mata: Somos todas atingidas&rdquo;, o ato se iniciou na manh&atilde; de hoje (7/3) com uma mesa de debate sobre a conjuntura nacional e se estende at&eacute; a tarde de amanh&atilde;, com uma manifesta&ccedil;&atilde;o nas ruas da cidade.</p>
 
 <p>A mobiliza&ccedil;&atilde;o, que j&aacute; &eacute; tradicional na semana do dia 08 de mar&ccedil;o, re&uacute;ne mulheres de diversas regi&otilde;es do estado e neste ano tem como objetivo denunciar todas as formas de viola&ccedil;&otilde;es historicamente cometidas contra as mulheres pelo sistema capitalista, imperialista e patriarcal.</p>
+
+<p><img alt="minas3.jpg" src="//farm2.staticflickr.com/1450/25294722890_a6e11f9ec2_b.jpg" /></p>
 
 <p>&ldquo;Hoje aqui a gente tem a presen&ccedil;a de mulheres do campo, da cidade, de diversas Federa&ccedil;&otilde;es e Centrais, trabalhadoras de movimentos sociais diferentes. Esse 8 de mar&ccedil;o unificado n&atilde;o s&oacute; revela a diversidade das mulheres em Minas, mas tamb&eacute;m &eacute; a express&atilde;o na nossa capacidade de auto-organiza&ccedil;&atilde;o&rdquo;, comemora Liliam Telles, representante da Marcha Mundial das Mulheres.</p>
 
