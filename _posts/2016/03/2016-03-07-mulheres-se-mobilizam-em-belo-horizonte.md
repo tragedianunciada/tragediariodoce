@@ -8,7 +8,7 @@ tipo: noticia
 editoria: atingido
 autoria-local: "Bruno Ferrari, de Belo Horizonte."
 title: Mulheres se mobilizam em Belo Horizonte
-support_line: "Com o tema “Mulheres contra a lama que violenta e mata: Somos todas atingidas”, o ato se iniciou na manhã de hoje (7/3) com uma mesa de debate sobre a conjuntura nacional e se estende até a tarde de amanhã, com uma manifestação nas ruas da "
+support_line: "Com o tema “Mulheres contra a lama que violenta e mata: Somos todas atingidas”, o ato se iniciou na manhã de hoje (7/3) com uma mesa de debate sobre a conjuntura nacional e se estende até a tarde de amanhã, com uma manifestação nas ruas."
 images_hd: //farm2.staticflickr.com/1539/25294660170_e8b6cf3eb6_b.jpg
 layout: post
 files:
