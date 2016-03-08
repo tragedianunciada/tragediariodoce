@@ -52,7 +52,7 @@ releated_posts:
 ---
 <p><em>Fotos: Joka Madruga</em></p>
 
-<p>&ldquo;N&atilde;o &eacute; inocente: a Vale mata rio, mata bicho e mata gente&rdquo;, entoaram ao som de funk a batucada comandada pelo Levante Popular da Juventude. No bairro do Leblon, Zona Sul da cidade do Rio de Janeiro, aproximadamente 400 mulheres e homens protestaram, nesta ter&ccedil;a-feira (8), em frente &agrave; sede da Vale, uma das mineradoras respons&aacute;veis pelo maior desastre ambiental da hist&oacute;ria do Brasil.</p>
+<p>&ldquo;N&atilde;o &eacute; inocente: a Vale mata rio, mata bicho e mata gente&rdquo;, entoou ao som de funk a batucada comandada pelo Levante Popular da Juventude. No bairro do Leblon, Zona Sul da cidade do Rio de Janeiro, aproximadamente 400 mulheres e homens protestaram, nesta ter&ccedil;a-feira (8), em frente &agrave; sede da Vale, uma das mineradoras respons&aacute;veis pelo maior desastre ambiental da hist&oacute;ria do Brasil.</p>
 
 <p>&ldquo;N&oacute;s estamos realizando uma jornada nacional de lutas para denunciar que a Samarco, Vale e BHP Billiton s&atilde;o as respons&aacute;veis pelo assassinato de 19 pessoas em Bento Rodrigues e por toda a destrui&ccedil;&atilde;o decorrente da lama que se espalhou pela bacia do rio Doce&rdquo;, afirmou o coordenador do Movimento dos Atingidos por Barragens (MAB) em Minas Gerais, Thiago Alves.</p>
 
