@@ -27,6 +27,18 @@ files:
     small: //farm2.staticflickr.com/1574/25319011860_004f5bb778_n.jpg
     title: correta1.jpg
     $$hashKey: "035"
+  - link: //farm2.staticflickr.com/1638/25328960770_e30f0804c7_b.jpg
+    thumbnail: //farm2.staticflickr.com/1638/25328960770_e30f0804c7_t.jpg
+    medium: //farm2.staticflickr.com/1638/25328960770_e30f0804c7_z.jpg
+    small: //farm2.staticflickr.com/1638/25328960770_e30f0804c7_n.jpg
+    title: DSC07193.JPG
+    $$hashKey: 03C
+  - link: //farm2.staticflickr.com/1495/25598475286_353db4b8b3_b.jpg
+    thumbnail: //farm2.staticflickr.com/1495/25598475286_353db4b8b3_t.jpg
+    medium: //farm2.staticflickr.com/1495/25598475286_353db4b8b3_z.jpg
+    small: //farm2.staticflickr.com/1495/25598475286_353db4b8b3_n.jpg
+    title: DSC07171.JPG
+    $$hashKey: 03F
 created_date: "2016-03-08T11:35:24-03:00"
 published: true
 releated_posts:
@@ -39,14 +51,18 @@ releated_posts:
 
 <p>O Movimento dos Atingidos por Barragens denuncia o crime da Samarco (Vale/BHP Billiton) e cobra puni&ccedil;&atilde;o aos culpados. O rompimento da barragem em Mariana (MG), ocorrido no dia 5 de novembro, afetou todo o rio Doce e a vida de milhares de pessoas.</p>
 
-<p>Passados mais de 120 dias do maior desastre socioambiental da hist&oacute;ria do pa&iacute;s, centenas de atingidos ainda sofrem as consequ&ecirc;ncias do rompimento da barragem do Fund&atilde;o. As principais pautas dos atingidos &eacute; o acesso &agrave; &aacute;gua, a participa&ccedil;&atilde;o nas negocia&ccedil;&otilde;es e repara&ccedil;&atilde;o integral de todos os danos.</p>
-
 <p><img alt="correta2.jpg" src="//farm2.staticflickr.com/1647/25614629195_516c3c7719_b.jpg" /></p>
 
+<p>Passados mais de 120 dias do maior desastre socioambiental da hist&oacute;ria do pa&iacute;s, centenas de atingidos ainda sofrem as consequ&ecirc;ncias do rompimento da barragem do Fund&atilde;o. As principais pautas dos atingidos &eacute; o acesso &agrave; &aacute;gua, a participa&ccedil;&atilde;o nas negocia&ccedil;&otilde;es e repara&ccedil;&atilde;o integral de todos os danos.</p>
+
 <p>Al&eacute;m das pautas relacionadas aos atingidos pelo crime da Samarco, o MAB denuncia os altos pre&ccedil;os da conta de luz. Apesar de a matriz energ&eacute;tica brasileira ser baseada na hidroeletricidade, uma das mais baratas, os trabalhadores pagam as contas mais caras do mundo. Al&eacute;m disso, os atingidos n&atilde;o t&ecirc;m seus direitos garantidos e os eletricit&aacute;rios sofrem com a precariza&ccedil;&atilde;o do servi&ccedil;o.</p>
+
+<p><img alt="DSC07193.JPG" src="//farm2.staticflickr.com/1638/25328960770_e30f0804c7_b.jpg" /></p>
 
 <p>Para a militante do MAB, Camilla Brito, a mobiliza&ccedil;&atilde;o de hoje &eacute; necess&aacute;ria para visibilizar os problemas da minera&ccedil;&atilde;o e hidrel&eacute;tricas. &ldquo;Enquanto a Vale lucra exportando nosso min&eacute;rio, o povo atingido n&atilde;o tem &aacute;gua de qualidade, n&atilde;o tem voz nas decis&otilde;es. Se a Vale, respons&aacute;vel pela Samarco e tamb&eacute;m por v&aacute;rias hidrel&eacute;tricas no rio Doce n&atilde;o atender as pautas, os atingidos n&atilde;o arredar&atilde;o o p&eacute; da luta&rdquo;, afirma Camila.</p>
 
 <p>Desde as 10h, os atingidos preparam um acampamento em cima da linha f&eacute;rrea. &ldquo;N&atilde;o sairemos at&eacute; sejamos ouvidos e nossas reivindica&ccedil;&otilde;es atendidas&rdquo;, explica Camila.</p>
+
+<p><img alt="DSC07171.JPG" src="//farm2.staticflickr.com/1495/25598475286_353db4b8b3_b.jpg" /></p>
 
 <p>A Jornada, que ocorre em todo o Brasil, tamb&eacute;m marca o Dia Internacional de Luta Contra as Barragens, pelos Rios, pela &Aacute;gua e pela Vida, o 14 de Mar&ccedil;o.&nbsp;</p>
