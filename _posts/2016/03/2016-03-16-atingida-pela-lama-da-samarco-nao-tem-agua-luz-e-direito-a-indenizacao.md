@@ -10,8 +10,8 @@ tipo: noticia
 editoria: atingido
 micro-regiao: valadares
 autoria-local: "Guilherme Camponêz, de Belo Oriente (MG)"
-title: "Atingida pela lama da Samarco não tem água, luz e direito à indenização"
-support_line: "Espremida entre a lama do rio Doce e os trilhos do trem da Vale, Marilde está sem água, energia elétrica e foi ignorada pela Samarco após o requerer a verba de manutenção, que é um direito de todos os atingidos pelo desastre em Mariana."
+title: "Atingida pela lama da Samarco não tem água, luz e verba para se manter"
+support_line: "Espremida entre a lama do rio Doce e os trilhos da Vale, Marilde está sem água, energia elétrica e foi ignorada pela Samarco após requerer a verba de manutenção, que é um direito de todos os atingidos pelo desastre ocorrido em Mariana."
 images_hd: //farm2.staticflickr.com/1690/25742666051_4381a145fe_b.jpg
 layout: post
 files:
