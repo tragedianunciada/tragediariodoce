@@ -9,15 +9,15 @@ editoria: mineracao
 autoria-local: Redação/SP
 title: "Vale receberá licenciamento para construção de nova barragem em MG "
 support_line: "Segundo autoridade, a mineradora estaria esperando parecer oficial do Ibama."
-images_hd: //farm2.staticflickr.com/1455/25865998312_90c7eeee9d_b.jpg
+images_hd: //farm2.staticflickr.com/1457/25354157204_ab0e1e411d_b.jpg
 layout: post
 files:
-  - link: //farm2.staticflickr.com/1455/25865998312_90c7eeee9d_b.jpg
-    thumbnail: //farm2.staticflickr.com/1455/25865998312_90c7eeee9d_t.jpg
-    medium: //farm2.staticflickr.com/1455/25865998312_90c7eeee9d_z.jpg
-    small: //farm2.staticflickr.com/1455/25865998312_90c7eeee9d_n.jpg
-    title: 24667096486_44b5743c35_h.jpg
-    $$hashKey: 05H
+  - link: //farm2.staticflickr.com/1457/25354157204_ab0e1e411d_b.jpg
+    thumbnail: //farm2.staticflickr.com/1457/25354157204_ab0e1e411d_t.jpg
+    medium: //farm2.staticflickr.com/1457/25354157204_ab0e1e411d_z.jpg
+    small: //farm2.staticflickr.com/1457/25354157204_ab0e1e411d_n.jpg
+    title: 25411606585_f7bdc5852d_b.jpg
+    $$hashKey: 094
 created_date: "2016-03-22T12:04:29-03:00"
 published: true
 releated_posts: []
