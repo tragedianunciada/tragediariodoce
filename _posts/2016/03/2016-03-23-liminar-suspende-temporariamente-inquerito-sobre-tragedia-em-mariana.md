@@ -9,7 +9,7 @@ title: Liminar suspende temporariamente inquérito sobre tragédia em Mariana
 tipo: noticia
 editoria: atingido
 autoria-local: da Agência Brasil
-support_line: "O inquérito havia pedido a prisão preventiva de seis funcionários da Samarco, entre elas o presidente licenciado Ricardo Vescovi, além de um engenheiro da VogBR."
+support_line: "O inquérito havia pedido a prisão preventiva de seis funcionários da Samarco, entre eles o presidente licenciado Ricardo Vescovi, além de um engenheiro da VogBR."
 images_hd: //farm2.staticflickr.com/1443/25382279733_27b8113ab8_b.jpg
 layout: post
 files:
@@ -22,19 +22,15 @@ files:
 created_date: "2016-03-23T14:47:14-03:00"
 published: true
 releated_posts:
-  - 2016/02/2016-02-02-gravida-sofre-aborto-durante-avalanche-de-lama-da-samarco.md
-  - 2016/02/2016-02-02-a-lama-da-samarco-vale-bhp-atinge-a-vida-das-mulheres.md
-  - 2016/02/2016-02-02-arqueologia-de-uma-tragedia.md
   - 2016/02/2016-02-02-para-repor-maquina-de-lavar-samarco-exige-que-idosa-prove-incapacidade-de-torcer-roupa.md
   - 2016/02/2016-02-19-artistas-brasileiros-lancam-musica-de-protesto-sobre-mariana.md
-  - 2016/02/2016-02-23-policia-civil-pede-a-prisao-do-presidente-da-samarco-e-de-outras-seis-pessoas.md
 
 ---
 <p><em>Foto: Lucas Bois</em></p>
 
 <p>O Superior Tribunal de Justi&ccedil;a (STJ) concedeu liminar suspendendo o inqu&eacute;rito da Pol&iacute;cia Civil de Minas Gerais que apurou responsabilidades no rompimento da Barragem de Fund&atilde;o, da Samarco, em Mariana (MG), em novembro do ano passado. A suspens&atilde;o vale at&eacute; que a Justi&ccedil;a decida o conflito de compet&ecirc;ncia e estabele&ccedil;a se o caso vai para a esfera federal ou se fica na esfera estadual.</p>
 
-<p>Conclu&iacute;do em fevereiro, o inqu&eacute;rito indiciou e pediu a pris&atilde;o preventiva de seis funcion&aacute;rios da Samarco, entre elas o presidente licenciado Ricardo Vescovi, al&eacute;m de um engenheiro da VogBR, empresa que prestava servi&ccedil;os &agrave; mineradora.</p>
+<p>Conclu&iacute;do em fevereiro, o inqu&eacute;rito indiciou e pediu a pris&atilde;o preventiva de seis funcion&aacute;rios da Samarco, entre eles o presidente licenciado Ricardo Vescovi, al&eacute;m de um engenheiro da VogBR, empresa que prestava servi&ccedil;os &agrave; mineradora.</p>
 
 <p>No m&ecirc;s passado, o Minist&eacute;rio P&uacute;blico de Minas Gerais (MPMG) e o Minist&eacute;rio P&uacute;blico Federal (MPF) pediram que o inqu&eacute;rito fosse enviado &agrave; Justi&ccedil;a Federal. A solicita&ccedil;&atilde;o tinha como objetivo reunir, na mesma jurisdi&ccedil;&atilde;o, todo o julgamento relacionado ao rompimento da barragem. Segundo o MPMG e o MPF, a medida ajudaria a evitar decis&otilde;es contradit&oacute;rias, j&aacute; que a Justi&ccedil;a Federal vinha analisando os delitos ambientais ocorridos na Bacia do Rio Doce.</p>
 
