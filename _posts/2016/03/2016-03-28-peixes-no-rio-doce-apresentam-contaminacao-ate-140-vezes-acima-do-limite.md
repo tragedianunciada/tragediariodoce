@@ -27,9 +27,13 @@ published: true
 releated_posts: []
 
 ---
-<div>A contamina&ccedil;&atilde;o por metais de alguns peixes do Rio Doce ultrapassa os limites permitidos por legisla&ccedil;&atilde;o em at&eacute; 140 vezes. Este, por exemplo, &eacute; o n&iacute;vel de ars&ecirc;nio encontrado no peixe roncador, quando o m&aacute;ximo tolerado seria 1. &Eacute; o que aponta o primeiro laudo produzido pelo ICMBio sobre pescados e mariscos da regi&atilde;o, a que o jornal A GAZETA teve acesso, com exclusividade.</div>
+<div>
+<div style="line-height: 20.8px;"><small>Foto: Ong &Uacute;ltimos Ref&uacute;gios</small></div>
 
 <div>&nbsp;</div>
+</div>
+
+<div>A contamina&ccedil;&atilde;o por metais de alguns peixes do Rio Doce ultrapassa os limites permitidos por legisla&ccedil;&atilde;o em at&eacute; 140 vezes. Este, por exemplo, &eacute; o n&iacute;vel de ars&ecirc;nio encontrado no peixe roncador, quando o m&aacute;ximo tolerado seria 1. &Eacute; o que aponta o primeiro laudo produzido pelo ICMBio sobre pescados e mariscos da regi&atilde;o, a que o jornal A GAZETA teve acesso, com exclusividade.</div>
 
 <div>&nbsp;</div>
 
@@ -41,17 +45,7 @@ releated_posts: []
 
 <div>
 <div>&nbsp;</div>
-
-<div>
-<div style="line-height: 20.8px;"><img alt="peixes.jpg" src="//farm2.staticflickr.com/1529/26004484942_ef60c8588b_b.jpg" /></div>
-
-<div style="line-height: 20.8px;">
-<h5 style="text-align: right;"><small>Foto: Ong &Uacute;ltimos Ref&uacute;gios</small></h5>
 </div>
-</div>
-</div>
-
-<div>&nbsp;</div>
 
 <div><strong>Excessos</strong></div>
 
