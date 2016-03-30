@@ -7,7 +7,7 @@ tags:
 tipo: noticia
 editoria: atingido
 micro-regiao: null
-autoria-local: Belo Horizonte- Por Eloá Magalhaes
+autoria-local: Belo Horizonte - Por Eloá Magalhães
 title: MAB questiona acordão com a Samarco em audiência na ALMG
 support_line: "Foi apresentado a Comissão Extraordinária de Barragens 23 pontos que violam os direitos humanos "
 images_hd: //farm2.staticflickr.com/1512/26125532405_2e8f480690_b.jpg
