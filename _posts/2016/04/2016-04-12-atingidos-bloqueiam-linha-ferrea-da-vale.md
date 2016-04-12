@@ -9,7 +9,7 @@ tipo: noticia
 editoria: atingido
 micro-regiao: valadares
 autoria-local: "Aimorés (MG) "
-support_line: Manifestantes reivindicam modelo exploratório da empresa em diversos setores da sociedade - acompanhe
+support_line: Manifestantes denunciam modelo exploratório da empresa e reivindicam direitos
 title: "Atingidos bloqueiam linha férrea da Vale "
 images_hd: //farm2.staticflickr.com/1662/25790416113_7776773638_b.jpg
 layout: post
