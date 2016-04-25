@@ -1,0 +1,33 @@
+---
+date: "2016-04-25T07:23:25-03:00"
+tags: []
+tipo: noticia
+editoria: atingido
+micro-regiao: mariana
+autoria-local: "Sérgio Papagaio, de Barra Longa-MG"
+title: Nota de Falecimento
+support_line: Atingido pela Samarco escreve contra o Golpe
+images_hd: //farm2.staticflickr.com/1591/26031147593_e9fd1da455_b.jpg
+layout: post
+files:
+  - link: //farm2.staticflickr.com/1591/26031147593_e9fd1da455_b.jpg
+    thumbnail: //farm2.staticflickr.com/1591/26031147593_e9fd1da455_t.jpg
+    medium: //farm2.staticflickr.com/1591/26031147593_e9fd1da455_z.jpg
+    small: //farm2.staticflickr.com/1591/26031147593_e9fd1da455_n.jpg
+    title: 13055841_998764550214952_1424845891165029173_o.jpg
+    $$hashKey: 01N
+created_date: "2016-04-25T07:35:10-03:00"
+published: true
+releated_posts: []
+
+---
+<p>Nota de Falecimento<br />
+<br />
+O trem da pol&iacute;tica descarrilhou no domingo 17 de abril levando &agrave; morte v&aacute;rias pessoas. Entre elas, a ilustr&iacute;ssima Democracia. De origem grega j&aacute; vinha com a sa&uacute;de prec&aacute;ria no Brasil.<br />
+A Moral, a &Eacute;tica, os Bons Costumes da altern&acirc;ncia, a Vergonha na cara, a Fidelidade Constitucional, entre outros do mesmo grupo, tiveram o mesmo destino. J&aacute; a Trai&ccedil;&atilde;o com todos os seus filhos sa&iacute;ram ilesos.<br />
+<br />
+A desonestidade sofreu apenas escoria&ccedil;&otilde;es e est&aacute; mais viva do que nunca. O vag&atilde;o 171 que transportava produtos t&oacute;xicos abriu uma fissura deixando escapar a Corrup&ccedil;&atilde;o, o mais letal componente de um composto altamente cancer&iacute;geno levando a contamina&ccedil;&atilde;o todos os passageiros. Muitos se protegeram na C&acirc;mara, mas sua isola&ccedil;&atilde;o n&atilde;o foi capaz de conter o alto n&iacute;vel de contamina&ccedil;&atilde;o.&nbsp;<br />
+<br />
+Dos 513 encastelados j&aacute; se conta 367 contaminados num gral irrevers&iacute;vel. Estima-se que em pouco tempo toda a America do Sul poder&aacute; sofrer as conseq&uuml;&ecirc;ncias deste crime gigantesco, que j&aacute; est&aacute; sendo comparado em propor&ccedil;&otilde;es ao Crime da Samarco, que semeou a morte e a destrui&ccedil;&atilde;o em Mariana, Barra Longa e todo Vale do Rio Doce at&eacute; a Costa Maritima.<br />
+<br />
+Texto de autoria de Sergio Papagaio, morador de Barra Longa h&aacute; 47 anos e integrante da coordena&ccedil;&atilde;o local do Movimento dos Atingidos por Barragens (MAB).</p>
