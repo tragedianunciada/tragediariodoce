@@ -6,7 +6,7 @@ tags:
   - tag: vale
   - tag: bhp-billiton
   - tag: multa
-support_line: Órgão ambiental aplica sexta multa a mineradora e aponta trabalhos aquém do necessário para recuperar a região e evitar novos acidentes
+support_line: Órgão ambiental aplica sexta multa à mineradora e aponta que trabalhos estão aquém do necessário para recuperar a região e evitar novos acidentes
 title: Ibama aponta negligência da Samarco e possibilidade de novas tragédias
 autoria-local: Redação/SP
 editoria: mineracao
