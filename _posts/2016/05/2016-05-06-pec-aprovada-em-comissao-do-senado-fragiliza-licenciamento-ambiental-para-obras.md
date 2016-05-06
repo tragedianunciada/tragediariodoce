@@ -11,7 +11,7 @@ autoria-local: Redação/SP
 editoria: meio-ambiente
 tipo: noticia
 title: PEC aprovada em comissão do Senado fragiliza licenciamento ambiental para obras
-support_line: "Projeto prevê que a apresentação de um estudo ambiental realizado pelo próprio empreendedor já é suficiente para o início das obras, que não poderão ser suspensas ou canceladas nem mesmo pela Justiça; decisão pode criar novas tragédias como"
+support_line: Projeto prevê que a apresentação de um estudo ambiental realizado pelo próprio empreendedor já é suficiente para o início das obras; decisão pode gerar novas tragédias como a ocorrida há seis meses em Mariana (MG)
 images_hd: //farm8.staticflickr.com/7120/26250702293_873f1eb90c_b.jpg
 layout: post
 files:
