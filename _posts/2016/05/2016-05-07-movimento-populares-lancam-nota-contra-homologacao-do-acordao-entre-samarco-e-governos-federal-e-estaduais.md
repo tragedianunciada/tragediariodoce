@@ -7,7 +7,7 @@ tags:
   - tag: vale
   - tag: bhp-billiton
   - tag: governo-federal
-title: "Movimento populares lançam nota contra homologação do 'acordão' entre Samarco e governos federal e estaduais"
+title: "Movimentos populares lançam nota contra homologação do 'acordão' entre Samarco e governos federal e estaduais"
 editoria: mineracao
 tipo: noticia
 autoria-local: Redação/SP
