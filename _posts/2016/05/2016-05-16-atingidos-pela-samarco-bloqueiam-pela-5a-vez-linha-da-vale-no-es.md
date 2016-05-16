@@ -37,7 +37,7 @@ releated_posts: []
 
 <p>J&aacute; &eacute; a quinta vez que os atingidos ocupam a linha para cobrar seus direitos. Durante a semana passada, na cidade de Aimor&eacute;s (MG), e os distritos Itapina, em Colatina (ES) e o distrito de Mascarenhas, em Baixo Guand&uacute; (ES), tamb&eacute;m manifestaram contra o descaso da Samarco quanto aos atingidos.</p>
 
-<p><img alt="13242072_1048756491865286_784802377_o.jpg" ng-click="insertImageCKEditor(file)" src="http://farm8.staticflickr.com/7174/26990243021_d9651d0c6c_t.jpg" title="13242072_1048756491865286_784802377_o.jpg" /></p>
+<p><img alt="13242072_1048756491865286_784802377_o.jpg" src="//farm8.staticflickr.com/7174/26990243021_d9651d0c6c_b.jpg" /></p>
 
 <p>&ldquo;Passados mais de seis meses do crime, centenas de fam&iacute;lias ao longo da Bacia do Rio Doce ainda sofrem as conseq&uuml;&ecirc;ncias do rompimento da barragem e a neglig&ecirc;ncia das empresas respons&aacute;veis, Samarco (Vale e BHP Billiton). As principais pautas dos atingidos s&atilde;o: acesso &agrave; &aacute;gua, participa&ccedil;&atilde;o das negocia&ccedil;&otilde;es e repara&ccedil;&atilde;o integral de todos os danos. N&atilde;o vamos parar enquanto tudo n&atilde;o estiver resolvido&rdquo;, afirma Geovani Souza, membro da coordena&ccedil;&atilde;o do MAB no Esp&iacute;rito Santo.</p>
 
