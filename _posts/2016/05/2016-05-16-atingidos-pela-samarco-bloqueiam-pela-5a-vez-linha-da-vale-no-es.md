@@ -29,7 +29,7 @@ published: true
 releated_posts: []
 
 ---
-<p><font color="#000000"><font face="arial, helvetica, sans-serif, sans-serif-light, sans-serif"><font style="font-size: 10pt"><font face="Arial, sans-serif-light, sans-serif">Atingidos pela Samarco bloqueiam pela 5&ordf; vez linha da Vale, no ES</font></font></font></font>Atingidos pela lama da Barragem Fund&atilde;o, que pertence a Samarco (Vale/BHP) bloquearam a linha ferr&eacute;a da Vale no distrito de Mascarenhas, em Baixo Gunad&uacute; (ES), durante 16 horas. A ocupa&ccedil;&atilde;o aconteceu por volta das 19h, deste domingo (15), quando os trilhos foram tomados por moradores que atearam fogo e fixaram cartazes exigindo respostas da empresa.</p>
+<p>Atingidos pela lama da Barragem Fund&atilde;o, que pertence a Samarco (Vale/BHP) bloquearam a linha ferr&eacute;a da Vale no distrito de Mascarenhas, em Baixo Gunad&uacute; (ES), durante 16 horas. A ocupa&ccedil;&atilde;o aconteceu por volta das 19h, deste domingo (15), quando os trilhos foram tomados por moradores que atearam fogo e fixaram cartazes exigindo respostas da empresa.</p>
 
 <p>A mineradora nega aprovar o cart&atilde;o com a verba de manuten&ccedil;&atilde;o para 127 fam&iacute;lias por n&atilde;o encaixarem nos crit&eacute;rios exigidos pela Samarco. No entanto, a empresa n&atilde;o apresentou os crit&eacute;rios para definir quem tem direito ou n&atilde;o ao cart&atilde;o. A comunidade de Mascarenhas &eacute; formada por pescadores e todos garantiam o sustento da fam&iacute;lia por meio da pesca.</p>
 
