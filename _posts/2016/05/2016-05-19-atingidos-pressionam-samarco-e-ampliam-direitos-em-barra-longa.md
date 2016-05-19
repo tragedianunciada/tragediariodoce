@@ -8,7 +8,7 @@ tags:
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
-title: Atingidos pressionam Samarco e ampliam direitos em Barra Longa
+title: Atingidos pressionam Samarco e ampliam direitos em Barra Longa (MG)
 autoria-local: "Thiago Alves, de Barra Longa (MG)"
 support_line: MAB realizou reunião com a empresa. Também estavam presentes representantes do MPF e MPE de Minas Gerais
 images_hd: //farm8.staticflickr.com/7395/26498464493_421633c016_b.jpg
