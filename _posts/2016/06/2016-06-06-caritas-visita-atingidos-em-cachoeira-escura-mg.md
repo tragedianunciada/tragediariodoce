@@ -1,6 +1,9 @@
 ---
 date: "2016-06-06T16:55:44-03:00"
-tags: []
+tags:
+  - tag: cachoeira-escura
+  - tag: atingidos
+  - tag: visita
 tipo: noticia
 editoria: atingido
 micro-regiao: valadares
