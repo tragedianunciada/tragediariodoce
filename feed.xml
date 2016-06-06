@@ -5,8 +5,8 @@
     <description>Tragédia anunciada: o que garante os direitos é o povo organizado!</description>
     <link>http://tragedianunciada.mabnacional.org.br/</link>
     <atom:link href="http://tragedianunciada.mabnacional.org.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Jun 2016 20:45:34 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Jun 2016 20:45:34 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jun 2016 20:47:18 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jun 2016 20:47:18 +0000</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -28,6 +28,12 @@
         <pubDate>Mon, 06 Jun 2016 19:55:44 +0000</pubDate>
         <link>http://tragedianunciada.mabnacional.org.br/2016/06/06/caritas-visita-atingidos-em-cachoeira-escura-mg/</link>
         <guid isPermaLink="true">http://tragedianunciada.mabnacional.org.br/2016/06/06/caritas-visita-atingidos-em-cachoeira-escura-mg/</guid>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;cachoeira-escura&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;atingidos&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;visita&quot;}</category>
         
         
       </item>
