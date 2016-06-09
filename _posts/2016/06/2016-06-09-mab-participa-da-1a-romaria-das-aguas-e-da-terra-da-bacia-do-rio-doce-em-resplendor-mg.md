@@ -10,15 +10,15 @@ micro-regiao: valadares
 autoria-local: Resplendor (MG)
 support_line: Ao longo da caminhada foram feitas denúncias a empresa responsável pelo crime em Mariana
 title: "MAB participa da 1ª Romaria das Águas e da Terra da Bacia do Rio Doce em Resplendor (MG)\n \n"
-images_hd: //farm8.staticflickr.com/7382/26956939833_3d486385e7_b.jpg
+images_hd: //farm8.staticflickr.com/7619/27493068301_7bf88594a9_b.jpg
 layout: post
 files:
-  - link: //farm8.staticflickr.com/7382/26956939833_3d486385e7_b.jpg
-    thumbnail: //farm8.staticflickr.com/7382/26956939833_3d486385e7_t.jpg
-    medium: //farm8.staticflickr.com/7382/26956939833_3d486385e7_z.jpg
-    small: //farm8.staticflickr.com/7382/26956939833_3d486385e7_n.jpg
+  - link: //farm8.staticflickr.com/7619/27493068301_7bf88594a9_b.jpg
+    thumbnail: //farm8.staticflickr.com/7619/27493068301_7bf88594a9_t.jpg
+    medium: //farm8.staticflickr.com/7619/27493068301_7bf88594a9_z.jpg
+    small: //farm8.staticflickr.com/7619/27493068301_7bf88594a9_n.jpg
     title: 13407499_1065574766850125_1105407716_n.jpg
-    $$hashKey: 01S
+    $$hashKey: 04Q
 created_date: "2016-06-09T15:05:07-03:00"
 published: true
 releated_posts: []
