@@ -9,7 +9,7 @@ tipo: noticia
 editoria: meio-ambiente
 autoria-local: Redação/SP
 title: Polícia Federal indicia técnico da Vale e mais sete pessoas
-support_line: "No inquérito concluído pela Polícia Federal, as empresas Vale, Samarco e VogBR, também foram indiciadas como pessoas jurídicas pelo rompimento da barragem de rejeitos localizada em Mariana (MG)."
+support_line: "No inquérito concluído pela Polícia Federal, as empresas Vale, Samarco e VogBR também foram indiciadas como pessoas jurídicas pelo rompimento da barragem de rejeitos localizada em Mariana (MG)."
 images_hd: //farm8.staticflickr.com/7579/27509329901_955dd0910f_b.jpg
 layout: post
 files:
