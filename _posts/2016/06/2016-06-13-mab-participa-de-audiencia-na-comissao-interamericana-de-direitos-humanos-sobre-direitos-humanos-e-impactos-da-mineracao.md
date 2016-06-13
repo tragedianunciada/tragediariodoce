@@ -10,7 +10,7 @@ tags:
 tipo: noticia
 editoria: mineracao
 autoria-local: Redação
-title: MAB participa de audiência na Comissão Interamericana de Direitos Humanos sobre direitos humanos e impactos da mineração
+title: MAB participa de audiência na Comissão Interamericana de Direitos Humanos sobre impactos da mineração
 support_line: "O Movimento dos Atingidos por Barragens (MAB) participou de duas audiências, nos dias 7 e 8 de junho, sobre direitos humanos e impactos da mineração no Brasil. "
 images_hd: //farm8.staticflickr.com/7602/27575672241_9b3cd564b8_b.jpg
 layout: post
