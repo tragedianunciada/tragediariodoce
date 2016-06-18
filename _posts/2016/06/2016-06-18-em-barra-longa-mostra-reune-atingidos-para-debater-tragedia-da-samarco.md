@@ -10,7 +10,7 @@ micro-regiao: mariana
 autoria-local: " Thiago Alves, Barra Longa (MG)"
 support_line: "Fórumdoc.mg, MAB e GEPSA organizaram atividades no povoado de Gesteira e na Escola Estadual em Barra Longa"
 title: "Em Barra Longa, mostra reúne atingidos para debater tragédia da Samarco"
-images_hd: //farm8.staticflickr.com/7725/27146887933_0500744df8_b.jpg
+images_hd: //farm8.staticflickr.com/7317/27723594886_75ac3dc438_b.jpg
 layout: post
 files:
   - link: //farm8.staticflickr.com/7435/27478377030_345b310806_b.jpg
@@ -19,12 +19,12 @@ files:
     small: //farm8.staticflickr.com/7435/27478377030_345b310806_n.jpg
     title: 13461239_1072138416193760_2070355670_o.jpg
     $$hashKey: 01N
-  - link: //farm8.staticflickr.com/7725/27146887933_0500744df8_b.jpg
-    thumbnail: //farm8.staticflickr.com/7725/27146887933_0500744df8_t.jpg
-    medium: //farm8.staticflickr.com/7725/27146887933_0500744df8_z.jpg
-    small: //farm8.staticflickr.com/7725/27146887933_0500744df8_n.jpg
+  - link: //farm8.staticflickr.com/7317/27723594886_75ac3dc438_b.jpg
+    thumbnail: //farm8.staticflickr.com/7317/27723594886_75ac3dc438_t.jpg
+    medium: //farm8.staticflickr.com/7317/27723594886_75ac3dc438_z.jpg
+    small: //farm8.staticflickr.com/7317/27723594886_75ac3dc438_n.jpg
     title: 13315593_985568184889721_3074457142721254327_n.jpg
-    $$hashKey: 086
+    $$hashKey: 0BF
 created_date: "2016-06-18T19:38:18-03:00"
 published: true
 releated_posts: []
