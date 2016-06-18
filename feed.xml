@@ -5,8 +5,8 @@
     <description>Tragédia anunciada: o que garante os direitos é o povo organizado!</description>
     <link>http://tragedianunciada.mabnacional.org.br/</link>
     <atom:link href="http://tragedianunciada.mabnacional.org.br/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Jun 2016 23:32:49 +0000</pubDate>
-    <lastBuildDate>Sat, 18 Jun 2016 23:32:49 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jun 2016 23:44:54 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jun 2016 23:44:54 +0000</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -67,6 +67,12 @@
         <pubDate>Sat, 18 Jun 2016 22:35:12 +0000</pubDate>
         <link>http://tragedianunciada.mabnacional.org.br/2016/06/18/em-barra-longa-mostra-reune-atingidos-para-debater-tragedia-da-samarco/</link>
         <guid isPermaLink="true">http://tragedianunciada.mabnacional.org.br/2016/06/18/em-barra-longa-mostra-reune-atingidos-para-debater-tragedia-da-samarco/</guid>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;mostra&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;festival&quot;}</category>
+        
+        <category>{&quot;tag&quot;=&gt;&quot;atingidos&quot;}</category>
         
         
       </item>
