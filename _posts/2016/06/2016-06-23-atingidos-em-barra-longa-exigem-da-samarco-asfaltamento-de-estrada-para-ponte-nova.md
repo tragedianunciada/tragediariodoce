@@ -40,13 +40,13 @@ releated_posts:
 
 <p><em>Confira o documento assinado pelos atingidos que ser&aacute; entregue para o MPF e para a Samarco Minera&ccedil;&atilde;o S.A.</em></p>
 
-<p><strong>&Aacute; Samarco Minera&ccedil;&atilde;o S.A:</strong></p>
+<p><strong>&Agrave; Samarco Minera&ccedil;&atilde;o S.A:</strong></p>
 
-<p><strong>Reinvindica&ccedil;&atilde;o do asfaltamento entre Barra Longa e Ponte Nova</strong></p>
+<p><strong>Reivindica&ccedil;&atilde;o do asfaltamento entre Barra Longa e Ponte Nova</strong></p>
 
 <p>Os atingidos pelo rejeito da Barragem de Fund&atilde;o na cidade de Barra Longa reivindicam<a name="_GoBack"></a> que a Samarco Minera&ccedil;&atilde;o S.A em permanente negocia&ccedil;&atilde;o com a comunidade organizada, o Departamento de Estradas e Rodagens (DER), outros &oacute;rg&atilde;os p&uacute;blicos competentes e o Minist&eacute;rio P&uacute;blico Federal viabilize o asfaltamento do trecho de 27 km entre Barra Longa e Ponte Nova. J&aacute; existe um projeto para esta pavimenta&ccedil;&atilde;o visto que ela j&aacute; estava prevista no &ldquo;Programa Estruturador Caminhos de Minas&rdquo;, chegando a ser formalmente anunciada pelo ent&atilde;o governador Ant&ocirc;nio Anastasia, mas nunca foi executada.</p>
 
-<p>Esta reinvindica&ccedil;&atilde;o se justifica pelo fato de nossa cidade ficar ilhada, na pr&aacute;tica, caso ocorra o rompimento da Barragem de Germano. Conforme o Plano de Emerg&ecirc;ncia apresentado &agrave; popula&ccedil;&atilde;o e a simula&ccedil;&atilde;o de fuga realizada pela pr&oacute;pria empresa, a entrada da cidade e nossas principais vias ficar&atilde;o tomadas de rejeito e os moradores atingidos ficar&atilde;o sem condi&ccedil;&otilde;es de sair da cidade. Como faremos com nossas crian&ccedil;as e idosos caso nova trag&eacute;dia aconte&ccedil;a? Sem este asfaltamento, o Plano de Emerg&ecirc;ncia perde seu efeito!</p>
+<p>Esta reivindica&ccedil;&atilde;o se justifica pelo fato de nossa cidade ficar ilhada, na pr&aacute;tica, caso ocorra o rompimento da Barragem de Germano. Conforme o Plano de Emerg&ecirc;ncia apresentado &agrave; popula&ccedil;&atilde;o e a simula&ccedil;&atilde;o de fuga realizada pela pr&oacute;pria empresa, a entrada da cidade e nossas principais vias ficar&atilde;o tomadas de rejeito e os moradores atingidos ficar&atilde;o sem condi&ccedil;&otilde;es de sair da cidade. Como faremos com nossas crian&ccedil;as e idosos caso nova trag&eacute;dia aconte&ccedil;a? Sem este asfaltamento, o Plano de Emerg&ecirc;ncia perde seu efeito!</p>
 
 <p>O asfalto entre Barra longa e Ponte Nova, al&eacute;m de garantir a possibilidade de sa&iacute;da com seguran&ccedil;a em caso de novo desastre, ser&aacute; um importante avan&ccedil;o geral para a qualidade de vida da popula&ccedil;&atilde;o em todos os sentidos e tamb&eacute;m uma forma de compensar coletivamente os efeitos dram&aacute;ticos deste crime em nosso munic&iacute;pio.</p>
 
