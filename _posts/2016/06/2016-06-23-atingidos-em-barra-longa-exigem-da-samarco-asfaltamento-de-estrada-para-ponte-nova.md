@@ -9,7 +9,7 @@ tipo: noticia
 editoria: atingido
 micro-regiao: mariana
 autoria-local: "Thiago Alves, Barra Longa-MG"
-support_line: "Sem asfalto, Plano de Emergência fica nulo.                                                                                     Caso barragem de Germano rompa, cidade ficará isolada."
+support_line: "Sem asfalto, Plano de Emergência fica nulo.                                                                                     Caso barragem de Germano se rompa, cidade ficará isolada."
 title: Atingidos em Barra Longa exigem da Samarco                                      asfaltamento de estrada para Ponte Nova
 images_hd: //farm8.staticflickr.com/7451/27746759382_502ea1219d_b.jpg
 layout: post
