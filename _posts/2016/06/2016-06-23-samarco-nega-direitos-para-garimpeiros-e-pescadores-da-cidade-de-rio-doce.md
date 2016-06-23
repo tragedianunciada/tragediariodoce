@@ -32,7 +32,7 @@ releated_posts:
   - 2016/02/2016-02-02-a-lama-da-samarco-vale-bhp-atinge-a-vida-das-mulheres.md
 
 ---
-<p>Rio Doce &eacute; uma pequena cidade de Minas Gerais que tem menos de 2.500 habitantes. A ocupa&ccedil;&atilde;o deste pequeno peda&ccedil;o de terra, ainda no s&eacute;culo XVIII come&ccedil;a antes de Ponte Nova, p&oacute;lo regional. A capela de Santana do Deserto, localidade pertencente a Rio Doce, foi erigida em 1745, enquanto a de Ponte Nova o foi em 1770.</p>
+<p>Rio Doce &eacute; uma pequena cidade de Minas Gerais que tem menos de 2.500 habitantes. A ocupa&ccedil;&atilde;o deste pequeno peda&ccedil;o de terra, ainda no s&eacute;culo XVIII, come&ccedil;a antes de Ponte Nova, p&oacute;lo regional. A capela de Santana do Deserto, localidade pertencente a Rio Doce, foi erigida em 1745, enquanto a de Ponte Nova o foi em 1770.</p>
 
 <p>Conta-se que Santana est&aacute; em uma regi&atilde;o que pertencia a vi&uacute;va do bandeirante Matias Barbosa, a mesma que era propriet&aacute;ria das terras onde est&aacute; localizada a cidade de Barra Longa que tem ocupa&ccedil;&atilde;o ainda mais antiga, 1701.</p>
 
@@ -40,11 +40,11 @@ releated_posts:
 
 <p>Dele viviam muitos garimpeiros e pescadores que a Samarco nega completamente o direito, ignora, n&atilde;o distribuiu o cart&atilde;o subsist&ecirc;ncia, n&atilde;o fala de indeniza&ccedil;&atilde;o, sequer prop&otilde;e reuni&otilde;es de esclarecimento. Do que ser&aacute; o futuro? &ldquo;N&oacute;s j&aacute; somos atingidos pela Candonga, barragem da Vale que tanto mal fez pra gente. Agora estas empresas voltam e destr&oacute;i nosso modo de vida, nossa tradi&ccedil;&atilde;o. Eles n&atilde;o prestam, mentem e negam o que &eacute; nosso&rdquo;, afirma Dona Djanira, 66 anos, garimpeira e militante do Movimento dos Atingidos por Barragens (MAB) h&aacute; quase 20 anos.</p>
 
-<p>Como resposta a este descaso e sob orienta&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico Federal (MPF) o MAB realizou reuni&atilde;o na noite desta ter&ccedil;a-feira (21) com mais de 60 fam&iacute;lias. Elas assinaram uma autodeclara&ccedil;&atilde;o coletiva nos termos da Lei Estadual 21.147 que define o garimpo artesanal e a pesca como comunidade tradicional e que j&aacute; foi entregue para a empresa e o MPF.</p>
+<p>Como resposta a este descaso e sob orienta&ccedil;&atilde;o do Minist&eacute;rio P&uacute;blico Federal (MPF), o MAB realizou reuni&atilde;o na noite desta ter&ccedil;a-feira (21) com mais de 60 fam&iacute;lias. Elas assinaram uma autodeclara&ccedil;&atilde;o coletiva nos termos da Lei Estadual 21.147 que define o garimpo artesanal e a pesca como comunidade tradicional e que j&aacute; foi entregue para a empresa e o MPF.</p>
 
 <p>&ldquo;Com esta declara&ccedil;&atilde;o, esperamos que Samarco saia do sil&ecirc;ncio e pague os direitos destas fam&iacute;lias que sofreram com o desastre causado por outra barragem. Candonga, que est&aacute; vazia e com risco de romper por causa da lama, deixou um rastro de imensa destrui&ccedil;&atilde;o e um atingido desaparecido. At&eacute; hoje, n&atilde;o acharam o corpo. A lama de Fund&atilde;o n&atilde;o pode acabar com tudo que sobrou e ficar por isto mesmo. Nossa luta permanece&rdquo;, lembra Thiago Alves, membro da coordena&ccedil;&atilde;o estadual do MAB.</p>
 
-<p>Confira o texto assinado pelos atingidos que reivindicam seu direito em Rio Doce.</p>
+<p><em>Confira o texto assinado pelos atingidos que reivindicam seu direito em Rio Doce.</em></p>
 
 <p>N&oacute;s, garimpeiros e garimpeiras artesanais, pescadores e pescadoras atingidos pelo rompimento da barragem da Samarco (Vale e BHP Billiton) nas cidades de Rio Doce e Santa Cruz do Escalvado declaramos coletivamente que fazemos parte de uma comunidade tradicional nos termos da Lei Estadual 21.147 de 14 de janeiro de 2014 que afirma:</p>
 
