@@ -31,7 +31,7 @@ published: true
 releated_posts: []
 
 ---
-<p>Foto: Leican Fotografias</p>
+<p><em>Foto: Leican Fotografias </em></p>
 
 <p>O ator estadunidense Danny Glover, famoso por filmes como o&nbsp;<a href="https://pt.wikipedia.org/wiki/Predador_2" title="Predador 2"><em>Predador 2</em></a>&nbsp;e a s&eacute;rie&nbsp;<a href="https://pt.wikipedia.org/wiki/1987" title="1987"><em>M&aacute;quina Mort&iacute;fera</em></a>, visitou a regi&atilde;o atingida pelo rompimento da Barragem da Samarco, nas cidades de Mariana e Barra Longa.</p>
 
@@ -43,7 +43,7 @@ releated_posts: []
 
 <h4>Em Paracatu de Baixo, ainda em Mariana, ouviram relatos de moradores que ainda n&atilde;o sa&iacute;ram da regi&atilde;o atingida que relataram suas necessidades, os problemas que enfrentam, falaram sobre o modo de vida deles em uma regi&atilde;o que era bem tranquila. Produtores de leite falaram sobre a incerteza sobre o futuro, sobre quando ser&aacute; recuperada a economia local. Mulheres relataram seus dramas e como sua renda foi afetada.</h4>
 
-<p><img alt="Foto em Paracatu.jpg" src="//farm8.staticflickr.com/7388/27698638660_2eb9c5f930_b.jpg" /></p>
+<h4><img alt="Foto em Paracatu.jpg" src="//farm8.staticflickr.com/7388/27698638660_2eb9c5f930_b.jpg" /></h4>
 
 <h4>Foto: Wesley Maciel</h4>
 
