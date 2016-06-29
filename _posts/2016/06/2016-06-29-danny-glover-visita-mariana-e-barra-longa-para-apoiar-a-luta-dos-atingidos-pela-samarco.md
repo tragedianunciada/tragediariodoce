@@ -49,7 +49,7 @@ releated_posts: []
 
 <h4>Glover e James puderam ver o caos instalado na regi&atilde;o com o movimento intenso de m&aacute;quinas e caminh&otilde;es que transtornam a vida da popula&ccedil;&atilde;o. &ldquo;A Samarco s&oacute; quer dinheiro: &eacute; Jesus l&aacute; em cima no c&eacute;u e dinheiro aqui na terra&rdquo;, desabafou para os visitantes Ant&ocirc;nio Geraldo de Oliveira, atingido em Paracatu mais conhecido como Ni&eacute;.</h4>
 
-<h4><strong>Em Barra Longa, comunidade recebe Glover com den&uacute;ncias contra a Samarco</strong></h4>
+<h4>Em Barra Longa, comunidade recebe Glover com den&uacute;ncias contra a Samarco</h4>
 
 <h4>Na cidade que viu a lama destruir todo o centro urbano, deixar mais de 70 fam&iacute;lias desalojadas, atingir mais de 100 quintais, cerca de 90 propriedades rurais e ter sua vida transtornada pelo canteiro de obras de mais de 650 trabalhadores, Danny Glover e James Early foram recebidos por uma popula&ccedil;&atilde;o indignada com a Samarco, a Vale e a BHP Billiton, mas organizados para garantir os direitos.</h4>
 
@@ -59,4 +59,4 @@ releated_posts: []
 
 <h4>&ldquo;Foi um momento muito importante para n&oacute;s. Emocionante. E ajuda dizer para o mundo que os atingidos pela Samarco em Barra Longa e em toda bacia do Rio Doce continuam organizados e n&atilde;o perderam a esperan&ccedil;a de reconstruir suas vidas tendo a si mesmos como protagonistas&rdquo;, resumiu Serginho Papagaio, tamb&eacute;m membro da coordena&ccedil;&atilde;o do MAB na cidade.</h4>
 
-<h4>Tamb&eacute;m estiveram na visita Beatriz Cerqueira, presidenta da Central &Uacute;nica dos Trabalhadores (CUT) e do SindUte e Rafael Soriano, do Movimento dos Trabalhadores Rurais sem Terra (MST), que organizaram a vinda de James e Danny ao Brasil, acompanhados de jornalistas do Jornal Brasil de Fato.&nbsp;</h4>
+<h4>Tamb&eacute;m estiveram na visita Beatriz Cerqueira, presidenta da Central &Uacute;nica dos Trabalhadores (CUT) e do SindUte e Rafael do Movimento dos Trabalhadores Rurais sem Terra (MST), que organizaram a vinda de James e Danny ao Brasil, acompanhados de jornalistas do Jornal Brasil de Fato.&nbsp;</h4>
