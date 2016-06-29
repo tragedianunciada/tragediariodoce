@@ -27,7 +27,7 @@ files:
     title: Foto em Paracatu.jpg
     $$hashKey: "021"
 created_date: "2016-06-29T09:10:56-03:00"
-published: true
+published: false
 releated_posts: []
 
 ---
