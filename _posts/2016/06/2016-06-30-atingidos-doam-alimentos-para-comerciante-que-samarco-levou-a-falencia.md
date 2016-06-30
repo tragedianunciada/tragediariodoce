@@ -8,7 +8,7 @@ tipo: noticia
 editoria: atingido
 micro-regiao: mariana
 autoria-local: "Thiago Alves, Barra Longa-MG"
-support_line: "Após a tragédia em Barra Longa, cabelereira que tinha renda mensal de R$ 7 mil, está praticamente sem trabalho.                                                                                                            "
+support_line: "Após a tragédia em Barra Longa, cabeleireira que tinha renda mensal de R$ 7 mil, está praticamente sem trabalho.                                                                                                            "
 title: Atingidos doam alimentos para comerciante que Samarco levou à falência
 images_hd: //farm8.staticflickr.com/7566/27912619431_d6b0e57c45_b.jpg
 layout: post
@@ -41,7 +41,7 @@ releated_posts:
 
 <p>&ldquo;Eu sou sozinha, criei meus quatro filhos sozinha, sem pens&atilde;o, sempre trabalhando com muito esfor&ccedil;o e agora estou aqui precisando de doa&ccedil;&otilde;es de amigos porque quase n&atilde;o tenho o que comer. Antes eu fazia estoque, fazia compras grandes no mercado. Pode ir l&aacute; pra conferir. Agora, eu estou devendo desde o dia das m&atilde;es e eu fa&ccedil;o assim: s&oacute; compro outro pacote quando vejo que a pote vai esvaziando&rdquo;, desabafa emocionada.</p>
 
-<p>A vida da fam&iacute;lia foi transtornada a partir da madrugada do dia 6 de novembro. Embora a lama do rejeito n&atilde;o tenha entrado na casa de Cidinha, o seu trabalho ficou insustent&aacute;vel. Como a porta do seu sal&atilde;o fica bem perto da rua, o movimento de caminh&otilde;es, o barulho insuport&aacute;vel e a sujeira afastaram as clientes. &ldquo;Muitas das que vinham aqui s&atilde;o idosas e n&atilde;o tem nem condi&ccedil;&atilde;o de chagar. Algumas perderam suas casas em Gesteira e n&atilde;o moram mais aqui. E veja este buraco: eles s&oacute; tamparam porque eu protestei colocando pedras e atrapalhando o tr&acirc;nsito&rdquo; afirma a cabelereira que ficou todo o m&ecirc;s de novembro sem trabalhar um s&oacute; dia.</p>
+<p>A vida da fam&iacute;lia foi transtornada a partir da madrugada do dia 6 de novembro. Embora a lama do rejeito n&atilde;o tenha entrado na casa de Cidinha, o seu trabalho ficou insustent&aacute;vel. Como a porta do seu sal&atilde;o fica bem perto da rua, o movimento de caminh&otilde;es, o barulho insuport&aacute;vel e a sujeira afastaram as clientes. &ldquo;Muitas das que vinham aqui s&atilde;o idosas e n&atilde;o tem nem condi&ccedil;&atilde;o de chagar. Algumas perderam suas casas em Gesteira e n&atilde;o moram mais aqui. E veja este buraco: eles s&oacute; tamparam porque eu protestei colocando pedras e atrapalhando o tr&acirc;nsito&rdquo; afirma a cabeleireira que ficou todo o m&ecirc;s de novembro sem trabalhar um s&oacute; dia.</p>
 
 <p><img alt="DSCN5038.JPG" src="//farm8.staticflickr.com/7420/27376574003_f68d956a15_b.jpg" /></p>
 
