@@ -9,7 +9,7 @@ editoria: atingido
 micro-regiao: mariana
 autoria-local: "Thiago Alves, Barra Longa-MG "
 title: Atingidos denunciam que rejeito da Samarco                                                    está sendo usado para pavimentar ruas em Barra Longa
-support_line: tal intervenção precisaria de autorização de órgãos ambientais e de saúde pública.
+support_line: Moradores temem que o rejeito prejudique a saúde dos moradores. Eles consideram que tal intervenção precisaria de autorização de órgãos ambientais e de saúde pública.
 images_hd: //farm8.staticflickr.com/7259/27390441304_7a667a3134_b.jpg
 layout: post
 files:
