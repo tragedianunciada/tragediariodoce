@@ -33,11 +33,11 @@ releated_posts:
   - 2016/03/2016-03-23-liminar-suspende-temporariamente-inquerito-sobre-tragedia-em-mariana.md
 
 ---
-<p align="justify">O Superior Tribunal de Justi&ccedil;a (STJ) suspendeu o acordo assinado entre representantes dos poderes p&uacute;blicos federal, de Minas Gerais e do <a href="http://g1.globo.com/tudo-sobre/espirito-santo">Esp&iacute;rito Santo</a> com a mineradora Samarco (Vale e <a href="http://g1.globo.com/tudo-sobre/bhp-billiton/">BHP Billiton</a>). A decis&atilde;o liminar, isto &eacute;, provis&oacute;ria, foi publicada nesta sexta-feira (1).</p>
+<p align="justify">O Superior Tribunal de Justi&ccedil;a (STJ) suspendeu o acordo assinado entre representantes dos poderes p&uacute;blicos federal, de Minas Gerais e do Esp&iacute;rito Santo&nbsp;com a mineradora Samarco (Vale e BHP Billiton). A decis&atilde;o liminar, isto &eacute;, provis&oacute;ria, foi publicada nesta sexta-feira (1).</p>
 
 <p align="justify">O acordo foi homologado no dia 5 de maio pelo Tribunal Regional Federal da 1&ordf; Regi&atilde;o, em Bras&iacute;lia. O pedido de suspens&atilde;o foi feito pelo Minist&eacute;rio P&uacute;blico Federal. Os procuradores alegam que o acordo n&atilde;o tem legitimidade porque n&atilde;o ouviu as pessoas prejudicadas diretamente pelo desastre ambiental.</p>
 
-<p align="justify">De acordo com a assessoria do STJ, a ministra Diva Malerbi afirma que o Tribunal Regional Federal da 1&ordf; Regi&atilde;o n&atilde;o poderia ter homologado o acordo, enquanto j&aacute; havia decis&atilde;o do tribunal superior para que quest&otilde;es urgentes fossem decididas na 12&ordf; Vara Federal da Se&ccedil;&atilde;o Judici&aacute;ria de <a href="http://g1.globo.com/tudo-sobre/minas-gerais">Minas Gerais</a>.</p>
+<p align="justify">De acordo com a assessoria do STJ, a ministra Diva Malerbi afirma que o Tribunal Regional Federal da 1&ordf; Regi&atilde;o n&atilde;o poderia ter homologado o acordo, enquanto j&aacute; havia decis&atilde;o do tribunal superior para que quest&otilde;es urgentes fossem decididas na 12&ordf; Vara Federal da Se&ccedil;&atilde;o Judici&aacute;ria de Minas Gerais.</p>
 
 <p align="justify">Na decis&atilde;o, a ministra tamb&eacute;m afirma que n&atilde;o h&aacute; indicativo de participa&ccedil;&atilde;o dos munic&iacute;pios atingidos nas negocia&ccedil;&otilde;es. Considera tamb&eacute;m que o Minist&eacute;rio P&uacute;blico Estadual deveria ter feito parte da realiza&ccedil;&atilde;o do acordo.</p>
 
