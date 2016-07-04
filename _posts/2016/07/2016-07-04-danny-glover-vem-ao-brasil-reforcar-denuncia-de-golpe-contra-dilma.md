@@ -38,3 +38,4 @@ releated_posts:
   - 2016/03/2016-03-08-atingidos-por-barragens-ocupam-linha-ferrea-da-vale.md
 
 ---
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/3G1wGvCZFDE" width="640"></iframe></p>
