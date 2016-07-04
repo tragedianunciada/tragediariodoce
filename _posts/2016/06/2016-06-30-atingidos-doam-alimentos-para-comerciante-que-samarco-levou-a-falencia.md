@@ -26,7 +26,7 @@ files:
     title: DSCN5038.JPG
     $$hashKey: "031"
 created_date: "2016-06-29T22:43:00-03:00"
-published: true
+published: false
 releated_posts:
   - 2016/06/2016-06-06-o-rio-e-doce-mas-e-a-samarco-e-amarga.md
 
