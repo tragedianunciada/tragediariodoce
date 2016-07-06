@@ -1,6 +1,10 @@
 ---
 date: "2016-07-06T15:36:16-03:00"
-tags: []
+tags:
+  - tag: anglo-american
+  - tag: vale
+  - tag: brasil-de-fato
+  - tag: mineração
 tipo: noticia
 editoria: mineracao
 autoria-local: "Márcio Zonta, do Brasil de Fato"
@@ -41,9 +45,14 @@ files:
     $$hashKey: 02A
 created_date: "2016-07-06T15:40:31-03:00"
 published: true
-releated_posts: []
+releated_posts:
+  - 2016/03/2016-03-22-vale-recebera-licenciamento-para-construcao-de-nova-barragem-em-mg.md
 
 ---
+<p><em>Fotos: Marcelo Cruz/Brasil de Fato</em></p>
+
+<p><em><span style="line-height: 20.8px;">Artes: Jos&eacute; Bruno Lima</span></em></p>
+
 <p>A atividade de minera&ccedil;&atilde;o &eacute; a mais letal para trabalhadores no Brasil, apontam dados do Minist&eacute;rio do Trabalho e Emprego (MTE). Somados os casos de mutila&ccedil;&atilde;o, morte e doen&ccedil;a, os principais estados mineradores no Brasil &ndash; Goi&aacute;s, Minas Gerais e Par&aacute; &ndash; tornaram-se os mais perigosos para acidentes fatais no trabalho.</p>
 
 <p>De 2000 a 2010, a Funda&ccedil;&atilde;o Jorge Duprat e Figueiredo (Fundacentro) constatou que o &Iacute;ndice M&eacute;dio de Acidente Geral no Brasil foi 8,66%. J&aacute; o indicador m&eacute;dio de acidente da minera&ccedil;&atilde;o, em Minas Gerais, por exemplo, foi 21,99%, quase tr&ecirc;s vezes maior que a m&eacute;dia nacional.</p>
@@ -121,5 +130,3 @@ releated_posts: []
 <p>Maria Julia Andrade, da coordena&ccedil;&atilde;o nacional do Movimento pela Soberania Popular na Minera&ccedil;&atilde;o (MAM), de Minas Geras, classifica o ocorrido como um crime. &ldquo;A&iacute;lton, lamentavelmente, foi v&iacute;tima da trag&eacute;dia ocorrida no dia 5 de novembro de 2015. Trag&eacute;dia que j&aacute; era anunciada e que, como atesta o inqu&eacute;rito da Pol&iacute;cia Civil, pode ser enquadrada como um crime doloso&rdquo;, destaca.</p>
 
 <p>Procuradas pela reportagem, as empresas Anglo American, Samarco e Tetra Tech n&atilde;o responderam as perguntas do Brasil de Fato.</p>
-
-<p>Artes: Jos&eacute; Bruno Lima.</p>
