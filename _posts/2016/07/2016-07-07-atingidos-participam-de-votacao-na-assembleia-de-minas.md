@@ -40,4 +40,4 @@ releated_posts: []
 
 <p>O MAB continuar&aacute; lutando por medidas para a recupera&ccedil;&atilde;o ambiental e social do Rio Doce e por outro modelo de minera&ccedil;&atilde;o que respeite a sociedade, o meio ambiente e que traga desenvolvimento real para o povo mineiro e brasileiro.&nbsp;</p>
 
-<p>&nbsp;</p>
+<p><img alt="8751e17d-3ad8-4c7b-8dfa-2ec07297cb76.jpg" src="//farm8.staticflickr.com/7320/28078202501_cb4526b559_b.jpg" /></p>
