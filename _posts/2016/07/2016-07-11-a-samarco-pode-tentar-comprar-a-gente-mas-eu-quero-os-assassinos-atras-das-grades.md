@@ -9,7 +9,7 @@ editoria: atingido
 micro-regiao: mariana
 autoria-local: "Wallace Oliveira, do Brasil de Fato -  Belo Horizonte (MG)"
 title: "“A Samarco pode tentar comprar a gente, mas eu quero os assassinos atrás das grades”"
-support_line: Mulher de Bento Rodrigues atingida pela Samarco (Vale e BHP Billiton) ainda não tem uma casa para morar
+support_line: "Mulher de Bento Rodrigues atingida pela Samarco (Vale e BHP Billiton) vítima de um aborto forçado pela lama, ainda não tem uma casa para morar"
 images_hd: //farm8.staticflickr.com/7444/27625202154_005e23b1d4_b.jpg
 layout: post
 files:
