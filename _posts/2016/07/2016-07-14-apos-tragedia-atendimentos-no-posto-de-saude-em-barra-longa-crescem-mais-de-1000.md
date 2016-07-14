@@ -2,8 +2,10 @@
 date: "2016-07-14T11:33:02-03:00"
 tags:
   - tag: saude
+  - tag: ministério-da-saúde
+  - tag: doenças
 tipo: noticia
-editoria: atingido
+editoria: saude
 micro-regiao: mariana
 autoria-local: Barra Longa -MG
 support_line: "Após o surto absurdo de dengue, agora ampliam-se os problemas generalizados de dermatites, problemas respiratórios, quedas de cabelos, etc. População exige que a Samarco assuma responsabilidades e que o SUS funcione plenamente."
