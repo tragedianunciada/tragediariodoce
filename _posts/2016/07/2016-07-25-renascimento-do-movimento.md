@@ -9,7 +9,7 @@ editoria: atingido
 micro-regiao: mariana
 autoria-local: "Mariana, Welidas Preto "
 title: Renascimento do Movimento
-support_line: "Confira o texto de Welidas Preto, atingido de Bento Rodrigues e militante do MAB, sobre o renascimento da esperança que encontrou no movimento "
+support_line: "Confira o texto de Welidas Preto, atingido pela Samarco em Bento Rodrigues. Ele conta como viu sua esperança renascer ao encontrar o Movimento dos Atingidos por Barragens (MAB) e se tornar um militante da luta pelos direitos.\n"
 images_hd: //farm9.staticflickr.com/8209/27928351373_d9ea1080d0_b.jpg
 layout: post
 files:
