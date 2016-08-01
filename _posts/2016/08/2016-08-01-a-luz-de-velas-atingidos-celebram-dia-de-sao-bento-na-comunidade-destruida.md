@@ -39,7 +39,7 @@ releated_posts: []
 ---
 <p>A comunidade de Bento Rodrigues deu um bom recado para a Samarco no dia 30 de julho de 2016: quem manda no territ&oacute;rio de Bento Rodrigues &eacute; o povo.&nbsp;</p>
 
-<p>Cerca de 40 pessoas celebraram a festa de S&atilde;o Bento, padroeiro da comunidade, no dia que sempre costumavam celebr&aacute;-la, o &uacute;ltimo final de semana de julho, na comunidade destru&iacute;da, ao lado dos tapumes que cercam o que sobrou da Igreja de S&atilde;o Bento, apenas a luz de velas.</p>
+<p>Cerca de 58 pessoas celebraram a festa de S&atilde;o Bento, padroeiro da comunidade, no dia que sempre costumavam celebr&aacute;-la, o &uacute;ltimo final de semana de julho, na comunidade destru&iacute;da, ao lado dos tapumes que cercam o que sobrou da Igreja de S&atilde;o Bento, apenas a luz de velas.</p>
 
 <p>Apesar da Samarco ter tirado a &aacute;gua e a luz do povoado para dificultar o acesso e a perman&ecirc;ncia, teve prociss&atilde;o pelas ruas da comunidade, celebra&ccedil;&atilde;o, hasteamento da bandeira de S&atilde;o Bento, toque dos sinos, foguetes, partilha e muita resist&ecirc;ncia.</p>
 
