@@ -45,3 +45,5 @@ releated_posts:
 <p>&ldquo;Alguns atingidos conseguiram captar que a organiza&ccedil;&atilde;o &eacute; necess&aacute;ria. Minha participa&ccedil;&atilde;o aqui &eacute; ressaltar a import&acirc;ncia da unidade do povo e da comunidade&rdquo;, disse a companheira paraense.</p>
 
 <p>A conversa faz parte do Mutir&atilde;o de Trabalho de Base em toda a extens&atilde;o da bacia do Rio Doce cujo objetivo &eacute; reunir, debater, informar, animar e organizar fam&iacute;lias em todos os munic&iacute;pios atingidos pela Samarco no sentido de construir uma organiza&ccedil;&atilde;o popular forte e unificada para garantir os direitos.</p>
+
+<p><span style="color: rgb(0, 0, 0); font-family: &quot;Helvetica Neue&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, &quot;Lucida Grande&quot;, sans-serif; line-height: normal;">Foto: Rafaella Souza / M&iacute;dia NINJA</span></p>
