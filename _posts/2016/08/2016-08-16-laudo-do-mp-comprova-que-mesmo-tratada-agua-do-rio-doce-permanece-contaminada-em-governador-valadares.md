@@ -25,6 +25,12 @@ files:
     small: //farm8.staticflickr.com/7504/28739184960_d73393273e_n.jpg
     title: WhatsApp Image 2016-08-16 at 00.44.40.jpeg
     $$hashKey: 05X
+  - link: //farm9.staticflickr.com/8427/28920331802_2f03327ef1_b.jpg
+    thumbnail: //farm9.staticflickr.com/8427/28920331802_2f03327ef1_t.jpg
+    medium: //farm9.staticflickr.com/8427/28920331802_2f03327ef1_z.jpg
+    small: //farm9.staticflickr.com/8427/28920331802_2f03327ef1_n.jpg
+    title: WhatsApp Image 2016-08-15 at 23.28.26.jpeg
+    $$hashKey: 08U
 created_date: "2016-08-16T12:46:31-03:00"
 published: true
 releated_posts:
@@ -39,6 +45,8 @@ releated_posts:
 <p>&ldquo;Pedimos ao Minist&eacute;rio P&uacute;blico que fa&ccedil;a uma an&aacute;lise aqui tamb&eacute;m. Pois a mesma &aacute;gua que corre l&aacute;, passa aqui tamb&eacute;m. N&oacute;s n&atilde;o confiamos nas an&aacute;lises da Samarco&rdquo;, afirma o pescador Cl&aacute;udio Santos.</p>
 
 <p>A resposta aos questionamentos n&atilde;o vem. A postura dos representantes da empresa tem sido cessar o assunto, alegando que a pauta da reuni&atilde;o n&atilde;o &eacute; a &aacute;gua, mas sim as indeniza&ccedil;&otilde;es, que est&atilde;o previstas para conclus&atilde;o at&eacute; mar&ccedil;o de 2017.</p>
+
+<p><img alt="WhatsApp Image 2016-08-15 at 23.28.26.jpeg" src="//farm9.staticflickr.com/8427/28920331802_2f03327ef1_b.jpg" /></p>
 
 <p>O descaso com os atingidos &eacute; tanto que os cadastros para receber indeniza&ccedil;&atilde;o ser&atilde;o realizados exclusivamente por telefone, pelo 0800 da empresa. &ldquo;Os cadastros presenciais j&aacute; foram uma bagun&ccedil;a. Muita gente que nunca pescou ou dependeu do rio para sustento recebeu o cart&atilde;o, enquanto muitos pescadores ficaram sem receber. Agora, por telefone vai ser pior ainda. Como v&atilde;o saber quem tem ou n&atilde;o direito de receber?&rdquo;, declara Jo&atilde;o Filipe.</p>
 
