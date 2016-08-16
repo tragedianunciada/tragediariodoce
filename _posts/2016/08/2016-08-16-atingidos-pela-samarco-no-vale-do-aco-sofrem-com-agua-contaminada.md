@@ -37,6 +37,12 @@ files:
     small: //farm9.staticflickr.com/8237/28406267863_1191e82932_n.jpg
     title: WhatsApp Image 2016-08-16 at 11.10.06.jpeg
     $$hashKey: 02U
+  - link: //farm9.staticflickr.com/8654/28738001630_6091cdcffe_b.jpg
+    thumbnail: //farm9.staticflickr.com/8654/28738001630_6091cdcffe_t.jpg
+    medium: //farm9.staticflickr.com/8654/28738001630_6091cdcffe_z.jpg
+    small: //farm9.staticflickr.com/8654/28738001630_6091cdcffe_n.jpg
+    title: WhatsApp Image 2016-08-15 at 23.26.30.jpeg
+    $$hashKey: 05T
 created_date: "2016-08-16T11:28:29-03:00"
 published: true
 releated_posts:
@@ -72,5 +78,9 @@ releated_posts:
 <p>A Samarco, por&eacute;m, n&atilde;o reconhece os moradores de S&atilde;o Louren&ccedil;o como atingidos, menos de dez pessoas da localidade recebem a verba de manuten&ccedil;&atilde;o. Em reuni&atilde;o realizada pela empresa a mesma se recusou at&eacute; em fazer a an&aacute;lise da &aacute;gua do po&ccedil;o e ainda faltou com o respeito com os presentes.</p>
 
 <p>Os moradores de S&atilde;o Louren&ccedil;o tamb&eacute;m utilizavam o rio como lazer, alternativa de &aacute;gua quando faltava e tamb&eacute;m para transporte. &Eacute; que o distrito se encontra muito pr&oacute;ximo &agrave; Cachoeira Escura, basta atravessar o rio de balsa. Inclusive, a maioria das pessoas estuda e trabalha do outro lado do rio. Por&eacute;m, com a chegada da lama, a balsa ficou dias parada, causando preju&iacute;zo para muitos trabalhadores e estudantes. No dia 11 de agosto a balsa parou novamente: encalhou devido o baix&iacute;ssimo n&iacute;vel de &aacute;gua no rio Doce.</p>
+
+<p><img alt="WhatsApp Image 2016-08-15 at 23.26.30.jpeg" src="//farm9.staticflickr.com/8654/28738001630_6091cdcffe_b.jpg" /></p>
+
+<p>Homens tentam desatolar balsa do rio</p>
 
 <p>Estas den&uacute;ncias foram feitas durante o Mutir&atilde;o de Trabalho de Base que o Movimento dos Atingidos por Barragens realiza em toda a extens&atilde;o da bacia do Rio Doce. &ldquo;Eu vim do Paran&aacute; ver com meus pr&oacute;prios olhos o resultado do crime da Samarco, pois a m&iacute;dia n&atilde;o mostra. O que aparece &eacute; o problema resolvido. Fiquei surpreendido com a real situa&ccedil;&atilde;o. Estas cidades est&atilde;o a quil&ocirc;metros da barragem. S&atilde;o muitas pessoas &nbsp;sofrendo as consequ&ecirc;ncias da neglig&ecirc;ncia da empresa&rdquo;, afirma Marcelo militante do Movimento dos Atingidos por Barragens do Paran&aacute;.&nbsp;</p>
