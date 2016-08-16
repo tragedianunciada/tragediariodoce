@@ -9,7 +9,7 @@ editoria: atingido
 micro-regiao: valadares
 autoria-local: Belo Oriente-MG
 images_hd: //farm9.staticflickr.com/8434/28949081591_5ee112d909_b.jpg
-title: "Laudo do MP comprova que mesmo tratada água do Rio Doce permanece contaminada em Governador Valadares "
+title: "Laudo do MP comprova que mesmo tratada, água do Rio Doce permanece contaminada em Governador Valadares "
 support_line: Samarco ignora a pauta sobre água durante as reuniões com as comunidades e moradores pedem laudo do Ministério Público no Vale do Aço.
 layout: post
 files:
