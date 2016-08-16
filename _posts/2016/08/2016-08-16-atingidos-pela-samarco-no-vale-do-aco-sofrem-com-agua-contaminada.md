@@ -45,7 +45,7 @@ releated_posts:
 ---
 <p>Areeiros sem nenhuma prote&ccedil;&atilde;o retiram areia do Rio Doce</p>
 
-<p>Ap&oacute;s nove meses do crime em Mariana, cidades atingidas pela Samarco no Vale A&ccedil;o mineiro est&atilde;o sofrendo com a contamina&ccedil;&atilde;o do Rio Doce. Em algumas cidades a popula&ccedil;&atilde;o est&aacute; consumindo a &aacute;gua com metais pesados. As den&uacute;ncias n&atilde;o cessam. S&atilde;o v&aacute;rias as doen&ccedil;as de pele que surgem nas pessoas em contato com a &aacute;gua e animais que est&atilde;o morrendo por estarem consumindo o recurso h&iacute;drico.</p>
+<p>Ap&oacute;s nove meses do crime em Mariana, cidades atingidas pela Samarco no Vale do A&ccedil;o mineiro est&atilde;o sofrendo com a contamina&ccedil;&atilde;o do Rio Doce. Em algumas cidades a popula&ccedil;&atilde;o est&aacute; consumindo a &aacute;gua com metais pesados. As den&uacute;ncias n&atilde;o cessam. S&atilde;o v&aacute;rias as doen&ccedil;as de pele que surgem nas pessoas em contato com a &aacute;gua e animais que est&atilde;o morrendo por estarem consumindo o recurso h&iacute;drico.</p>
 
 <p>Atingidos do distrito de Cachoeira Escura, na cidade de Belo Oriente (MG), continuam dragando a &aacute;gua do Rio Doce para retirar areia, sem nenhuma instru&ccedil;&atilde;o da empresa ou equipamentos de prote&ccedil;&atilde;o. Como se n&atilde;o bastasse, pedreiros de cidades vizinhas, que usam dessa areia para trabalho, apresentam manchas e feridas na pele.</p>
 
