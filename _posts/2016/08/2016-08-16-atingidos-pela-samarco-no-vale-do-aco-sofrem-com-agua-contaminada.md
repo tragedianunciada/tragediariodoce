@@ -8,7 +8,7 @@ tipo: noticia
 editoria: atingido
 micro-regiao: valadares
 autoria-local: Belo Oriente-MG
-title: Atingidos pela Samarco no Vale do Aço sofrem com água contaminada
+title: Atingidos pela Samarco no Vale do Aço sofrem com descaso da empresa
 support_line: "Doenças, morte de animais e a lentidão para recebimento de direitos são denunciadas durante Mutirão de Trabalho de Base "
 images_hd: //farm9.staticflickr.com/8051/28403119064_a610c9afc8_b.jpg
 layout: post
