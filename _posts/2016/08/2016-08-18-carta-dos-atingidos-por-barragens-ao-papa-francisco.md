@@ -8,8 +8,8 @@ tipo: noticia
 editoria: atingido
 micro-regiao: mariana
 autoria-local: Barra Longa-MG
-title: "\"Carta dos atingidos por barragens ao Papa Francisco\""
-support_line: .
+title: Carta dos atingidos por barragens ao Papa Francisco
+support_line: "O Movimento dos Atingidos por Barragens – MAB, um desses movimentos populares, está presente em 18 Estados brasileiros, lutando pela garantia dos direitos das famílias atingidas por barragens."
 images_hd: //farm9.staticflickr.com/8278/29066085145_da54bf2832_b.jpg
 layout: post
 files:
