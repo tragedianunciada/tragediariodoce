@@ -9,7 +9,7 @@ tipo: noticia
 editoria: atingido
 micro-regiao: mariana
 autoria-local: "Letícia Oliveira, Mariana-MG"
-title: MAB é homenageado ao receber comenda Dom Luciano Mendes
+title: "MAB é homenageado ao receber comenda Dom Luciano "
 support_line: "Dom Luciano foi presente na construção e fortalecimento do MAB em Minas Gerais e continua presente nos momentos atuais com ensinamentos de justiça social, amor ao povo e à vida. "
 images_hd: //farm9.staticflickr.com/8873/28696844473_aac1733b53_b.jpg
 layout: post
