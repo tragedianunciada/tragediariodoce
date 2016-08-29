@@ -27,7 +27,7 @@ files:
     title: WhatsApp Image 2016-08-29 at 12.13.56.jpeg
     $$hashKey: 02L
 created_date: "2016-08-29T13:11:24-03:00"
-published: false
+published: true
 releated_posts: []
 
 ---
@@ -35,10 +35,14 @@ releated_posts: []
 
 <p>&nbsp;&ldquo;Este evento &eacute; uma valoriza&ccedil;&atilde;o e reconhecimento p&uacute;blico daqueles que contribuem com a Igreja e a sociedade. Essa homenagem &eacute; promovida por ocasi&atilde;o do 10&ordm; anivers&aacute;rio do falecimento de dom Luciano Mendes de Almeida&rdquo;, de acordo com a divulga&ccedil;&atilde;o da arquidiocese de Mariana.</p>
 
+<p>Receberam a homenagem os representantes do MAB em Mariana, Let&iacute;cia Oliveira, da coordena&ccedil;&atilde;o estadual do movimento e o atingido pela barragem de Fund&atilde;o, Marino Dangelo, morador do distrito de Paracatu. &ldquo;&Eacute; importante vermos o reconhecimento do trabalho do MAB em defesa dos atingidos. N&oacute;s&nbsp;do MAB&nbsp;sa&iacute;mos deste importante evento fortalecidos na luta pelos direitos dos atingidos&rdquo;, disse Marino.</p>
+
 <p>A hist&oacute;ria do MAB em Minas Gerais &eacute; marcada pela contribui&ccedil;&atilde;o de Dom Luciano Mendes de Almeida, que sempre contribuiu no sentido de defender a necessidade e legitimidade da organiza&ccedil;&atilde;o dos atingidos por barragens.</p>
 
 <p>&nbsp;Nesse sentido Dom Luciano foi presente na constru&ccedil;&atilde;o e fortalecimento do MAB no estado e continua presente nos momentos atuais do movimento, com os ensinamentos de justi&ccedil;a social, amor ao povo e &agrave; vida. A parceria entre MAB e Arquidiocese de Mariana segue fortalecida com Dom Geraldo Lyrio Rocha, na busca pelos direitos das fam&iacute;lias atingidas por barragens na regi&atilde;o.</p>
 
 <p>Demais institui&ccedil;&otilde;es nas quais Dom Luciano esteve presente tamb&eacute;m foram homenageadas: a Confer&ecirc;ncia Nacional dos Bispos do Brasil (CNBB), a Arquidiocese de S&atilde;o Paulo, a Funda&ccedil;&atilde;o Marianense de Educa&ccedil;&atilde;o e o Tribunal que se ocupa da Causa de Beatifica&ccedil;&atilde;o e Canoniza&ccedil;&atilde;o do Servo de Deus Dom Luciano Pedro Mendes de Almeida.</p>
+
+<p>&nbsp;</p>
 
 <p><img alt="WhatsApp Image 2016-08-29 at 12.13.56.jpeg" src="//farm9.staticflickr.com/8156/29209531332_28267fac80_b.jpg" /></p>
