@@ -9,7 +9,7 @@ editoria: atingido
 micro-regiao: mariana
 autoria-local: Mariana-MG
 title: "Dez meses após crime da Samarco, MAB realiza encontro com 500 atingidos em Mariana"
-support_line: O encontro tem por objetivo fortalecer a união dos atingidos em torno de um debate comum e de uma organização forte e unificada com o intuito de garantir os direitos.
+support_line: O encontro acontece no distrito de Paracatu com o objetivo fortalecer a união dos atingidos em torno de um debate comum e de uma organização forte e unificada com o intuito de garantir os direitos.
 images_hd: //farm9.staticflickr.com/8115/29429326945_ac84524f0e_b.jpg
 layout: post
 files:
