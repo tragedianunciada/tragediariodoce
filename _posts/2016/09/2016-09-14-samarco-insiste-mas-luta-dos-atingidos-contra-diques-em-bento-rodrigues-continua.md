@@ -11,7 +11,7 @@ micro-regiao: mariana
 autoria-local: Belo Horizonte
 title: "Samarco insiste, mas luta dos atingidos contra diques em Bento Rodrigues continua"
 support_line: "Durante primeira audiência de conciliação com MPF, Samarco, Vale e BHP ignoram pauta dos atingidos e cobraram agilidade na liberação do dique que pode alagar comunidade"
-images_hd: //farm9.staticflickr.com/8153/29042784203_7f326fc3b4_b.jpg
+images_hd: //farm9.staticflickr.com/8306/29047452904_c779c72a7b_b.jpg
 layout: post
 files:
   - link: //farm9.staticflickr.com/8153/29042784203_7f326fc3b4_b.jpg
@@ -20,6 +20,12 @@ files:
     small: //farm9.staticflickr.com/8153/29042784203_7f326fc3b4_n.jpg
     title: WhatsApp Image 2016-09-13 at 14.14.55.jpeg
     $$hashKey: 02D
+  - link: //farm9.staticflickr.com/8306/29047452904_c779c72a7b_b.jpg
+    thumbnail: //farm9.staticflickr.com/8306/29047452904_c779c72a7b_t.jpg
+    medium: //farm9.staticflickr.com/8306/29047452904_c779c72a7b_z.jpg
+    small: //farm9.staticflickr.com/8306/29047452904_c779c72a7b_n.jpg
+    title: IMG_0254.JPG
+    $$hashKey: "030"
 created_date: "2016-09-13T23:53:48-03:00"
 published: true
 releated_posts:
