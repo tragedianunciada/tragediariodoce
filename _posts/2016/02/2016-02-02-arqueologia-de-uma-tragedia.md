@@ -12,7 +12,7 @@ tags:
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
-autoria-local: "Guilherme Weimann, de Mariana"
+autoria-local: Mariana
 title: Arqueologia de uma tragédia
 support_line: "Um mês após o rompimento da barragem da Samarco, ex-moradores voltam às ruas do distrito de Mariana (MG) que foram encobertas pela lama."
 images_hd: //farm2.staticflickr.com/1472/24777280405_e82a17275a_b.jpg
