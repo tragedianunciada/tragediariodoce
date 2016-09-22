@@ -9,7 +9,7 @@ tags:
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
-autoria-local: "Elisa Estronioli, de Mariana (MG)"
+autoria-local: Mariana (MG)
 title: A lama da Samarco (Vale/BHP) atinge a vida das mulheres
 support_line: "Perda da moradia, da privacidade, do trabalho, da comunidade e outras violações de direitos sofridas pelas mulheres atingidas pelo rompimento da barragem da Samarco (Vale/BHP-Billiton)."
 images_hd: //farm2.staticflickr.com/1569/24409510119_99f1589bd6_b.jpg
