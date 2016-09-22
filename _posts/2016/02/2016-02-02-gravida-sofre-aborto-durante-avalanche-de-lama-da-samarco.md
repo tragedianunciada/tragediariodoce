@@ -8,7 +8,7 @@ tags:
   - tag: samarco
 tipo: noticia
 micro-regiao: mariana
-autoria-local: "Joka Madruga, de Mariana (MG)"
+autoria-local: Mariana (MG)
 title: "Grávida sofre aborto durante avalanche de lama da Samarco "
 support_line: "Ouvir o desabafo de uma mulher que perdeu o filho durante o crime ambiental da Samarco/Vale/BHP-Billiton, em Mariana (MG), num aborto involuntário, não é das tarefas mais fáceis. "
 editoria: saude
