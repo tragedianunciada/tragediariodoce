@@ -10,7 +10,7 @@ tags:
 tipo: noticia
 editoria: atingido
 micro-regiao: valadares
-autoria-local: "Neudicléia de Oliveira, de Governador Valadares (MG)"
+autoria-local: Governador Valadares (MG)
 title: "Guerra pela água: moradores enfrentam consequências da contaminação do Rio Doce"
 support_line: "Desde o rompimento da barragem da Samarco, os 280 mil habitantes do município mineiro de Governador Valadares encaram diariamente a luta pela água potável."
 images_hd: //farm2.staticflickr.com/1456/24658914272_e12f1ebf5c_b.jpg
