@@ -11,7 +11,7 @@ tags:
 tipo: noticia
 micro-regiao: valadares
 editoria: atingido
-autoria-local: "Neudicléia de Oliveira, de Resplendor (MG)"
+autoria-local: " Resplendor (MG)"
 title: Indígenas da aldeia Krenak lamentam a morte do Rio Doce
 support_line: "Descendente dos primeiros habitantes da cidade de Resplendor, em Minas Gerais, a tribo indígena Krenak reúne uma das populações mais afetadas pelo lamaçal que invadiu as águas do Rio Doce, desde o rompimento da barragem da Samarco."
 images_hd: //farm2.staticflickr.com/1620/24150170913_4cc071de93_b.jpg
