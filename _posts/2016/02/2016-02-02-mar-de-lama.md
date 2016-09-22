@@ -9,7 +9,7 @@ tags:
 tipo: noticia
 editoria: meio-ambiente
 micro-regiao: colatina
-autoria-local: "Neudicléia de Oliveira, de Linhares"
+autoria-local: " Linhares"
 title: Mar de lama
 support_line: "A lama tóxica que invadiu o Rio Doce com o rompimento da barragem da Samarco (Vale/BHP Billiton) no dia 5 de novembro, atualmente rodeia uma extensa faixa litorânea do Espírito Santo e tem gerado uma onda de indignação nos capixabas."
 images_hd: //farm2.staticflickr.com/1580/24750371126_bf36ceae65_b.jpg
