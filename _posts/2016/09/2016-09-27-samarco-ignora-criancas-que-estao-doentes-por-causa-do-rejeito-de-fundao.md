@@ -11,7 +11,7 @@ micro-regiao: mariana
 autoria-local: Barra Longa -MG
 title: Samarco ignora crianças que estão doentes por causa do rejeito de Fundão
 support_line: "Em Barra Longa, mãe relata peregrinação por médicos. Pai trabalha em dois empregos e gasta o que ganha com remédio. Um das vacinas custa 300,00."
-images_hd: //farm9.staticflickr.com/8538/29669610830_44320aa80a_b.jpg
+images_hd: //farm9.staticflickr.com/8267/29964341365_5869ec6218_b.jpg
 layout: post
 files:
   - link: //farm9.staticflickr.com/8538/29669610830_44320aa80a_b.jpg
@@ -20,6 +20,12 @@ files:
     small: //farm9.staticflickr.com/8538/29669610830_44320aa80a_n.jpg
     title: DSCN4480.JPG
     $$hashKey: 02J
+  - link: //farm9.staticflickr.com/8267/29964341365_5869ec6218_b.jpg
+    thumbnail: //farm9.staticflickr.com/8267/29964341365_5869ec6218_t.jpg
+    medium: //farm9.staticflickr.com/8267/29964341365_5869ec6218_z.jpg
+    small: //farm9.staticflickr.com/8267/29964341365_5869ec6218_n.jpg
+    title: IMG-20160825-WA0053.jpg
+    $$hashKey: "066"
 created_date: "2016-09-27T09:42:59-03:00"
 published: true
 releated_posts:
@@ -67,3 +73,5 @@ releated_posts:
 <p>O MAB considera que o direito &agrave; sa&uacute;de &eacute; um dos mais violados por este crime da Samarco, Vale e BHP. E as mineradoras ignoram este assunto, mentem nas reuni&otilde;es ao apresentar informa&ccedil;&otilde;es contradit&oacute;rias sobre o uso do rejeito para cal&ccedil;amento e apresentando respostas evasivas sem considerar os problemas complexos e de longo prazo que criaram.</p>
 
 <p>&ldquo;N&oacute;s vamos organizar todas as fam&iacute;lias que enfrentam este problema para ampliar o conceito de atingido e pressionar as empresas para que respeitem as popula&ccedil;&otilde;es ap&oacute;s um crime t&atilde;o devastador, a come&ccedil;ar por seus membros mais fr&aacute;geis, as crian&ccedil;as e os idosos,&rdquo; conclui Thiago Alves.</p>
+
+<p><img alt="DSCN4480.JPG" src="//farm9.staticflickr.com/8538/29669610830_44320aa80a_b.jpg" /></p>
