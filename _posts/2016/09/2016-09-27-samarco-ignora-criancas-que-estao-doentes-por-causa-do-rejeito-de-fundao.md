@@ -11,7 +11,7 @@ micro-regiao: mariana
 autoria-local: Barra Longa -MG
 title: Samarco ignora crianças que estão doentes por causa do rejeito de Fundão
 support_line: "Em Barra Longa, mãe relata peregrinação por médicos. Pai trabalha em dois empregos e gasta o que ganha com remédio. Um das vacinas custa 300,00."
-images_hd: //farm9.staticflickr.com/8267/29964341365_5869ec6218_b.jpg
+images_hd: //farm6.staticflickr.com/5767/29881482691_5fe1caf14c_b.jpg
 layout: post
 files:
   - link: //farm9.staticflickr.com/8538/29669610830_44320aa80a_b.jpg
@@ -20,12 +20,12 @@ files:
     small: //farm9.staticflickr.com/8538/29669610830_44320aa80a_n.jpg
     title: DSCN4480.JPG
     $$hashKey: 02J
-  - link: //farm9.staticflickr.com/8267/29964341365_5869ec6218_b.jpg
-    thumbnail: //farm9.staticflickr.com/8267/29964341365_5869ec6218_t.jpg
-    medium: //farm9.staticflickr.com/8267/29964341365_5869ec6218_z.jpg
-    small: //farm9.staticflickr.com/8267/29964341365_5869ec6218_n.jpg
+  - link: //farm6.staticflickr.com/5767/29881482691_5fe1caf14c_b.jpg
+    thumbnail: //farm6.staticflickr.com/5767/29881482691_5fe1caf14c_t.jpg
+    medium: //farm6.staticflickr.com/5767/29881482691_5fe1caf14c_z.jpg
+    small: //farm6.staticflickr.com/5767/29881482691_5fe1caf14c_n.jpg
     title: IMG-20160825-WA0053.jpg
-    $$hashKey: "066"
+    $$hashKey: 098
 created_date: "2016-09-27T09:42:59-03:00"
 published: true
 releated_posts:
