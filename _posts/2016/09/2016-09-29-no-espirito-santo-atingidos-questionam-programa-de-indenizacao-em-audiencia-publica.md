@@ -10,7 +10,7 @@ micro-regiao: colatina
 support_line: "Atingidos de Mascarenhas, distrito de Baixo Guandú (ES) sofrem com o desemprego, água contaminada e perda dos laços culturais com a morte do rio Doce"
 autoria-local: Baixo Guandú-ES
 title: "No Espírito Santo, atingidos questionam programa de indenização em audiência pública"
-images_hd: //farm9.staticflickr.com/8407/29385682893_29ace8d48b_b.jpg
+images_hd: //farm9.staticflickr.com/8404/29940020441_44245f3f79_b.jpg
 layout: post
 files:
   - link: //farm9.staticflickr.com/8407/29385682893_29ace8d48b_b.jpg
@@ -19,6 +19,24 @@ files:
     small: //farm9.staticflickr.com/8407/29385682893_29ace8d48b_n.jpg
     title: DSCN5827.JPG
     $$hashKey: 01S
+  - link: //farm9.staticflickr.com/8404/29940020441_44245f3f79_b.jpg
+    thumbnail: //farm9.staticflickr.com/8404/29940020441_44245f3f79_t.jpg
+    medium: //farm9.staticflickr.com/8404/29940020441_44245f3f79_z.jpg
+    small: //farm9.staticflickr.com/8404/29940020441_44245f3f79_n.jpg
+    title: WhatsApp Image 2016-09-29 at 09.13.14.jpeg
+    $$hashKey: 02H
+  - link: //farm9.staticflickr.com/8187/29395512904_1eaea28ced_b.jpg
+    thumbnail: //farm9.staticflickr.com/8187/29395512904_1eaea28ced_t.jpg
+    medium: //farm9.staticflickr.com/8187/29395512904_1eaea28ced_z.jpg
+    small: //farm9.staticflickr.com/8187/29395512904_1eaea28ced_n.jpg
+    title: WhatsApp Image 2016-09-29 at 09.13.59.jpeg
+    $$hashKey: 02K
+  - link: //farm6.staticflickr.com/5350/29940811771_b8827b6178_b.jpg
+    thumbnail: //farm6.staticflickr.com/5350/29940811771_b8827b6178_t.jpg
+    medium: //farm6.staticflickr.com/5350/29940811771_b8827b6178_z.jpg
+    small: //farm6.staticflickr.com/5350/29940811771_b8827b6178_n.jpg
+    title: WhatsApp Image 2016-09-30 at 11.14.45.jpeg
+    $$hashKey: 02N
 created_date: "2016-09-29T18:58:11-03:00"
 published: true
 releated_posts: []
@@ -33,3 +51,9 @@ releated_posts: []
 <p>&ldquo;Esse programa de indeniza&ccedil;&atilde;o s&oacute; confunde os atingidos. Primeiro, eles fazem in&uacute;meros cadastros. O n&uacute;mero do telefone para o tal cadastro definitivo quase n&atilde;o conseguimos falar. E ficam as perguntas: A empresa que definir&aacute; o quanto valia o bem perdido ou o valor do que eu ganhava na pesca? Tem coisas que s&atilde;o irrepar&aacute;veis. O que faremos daqui 20, 30 anos, o rio ainda estar&aacute; contaminado e nossos peixes n&atilde;o voltar&atilde;o. Teremos indeniza&ccedil;&atilde;o pro resto da vida? N&atilde;o d&aacute; pra entender e confiar na empresa&rdquo; relata uma pescadora atingida de Mascarenhas.</p>
 
 <p>Para o MAB, os questionamentos da popula&ccedil;&atilde;o s&atilde;o comuns em toda a Bacia do Rio Doce, mas a pr&aacute;tica das empresas &eacute; protelar as respostas para outras reuni&otilde;es e encontros. &ldquo;N&atilde;o adianta fazermos perguntas. As respostas j&aacute; est&atilde;o contidas no acordo. Um acordo que foi realizado sem a participa&ccedil;&atilde;o dos atingidos. Para o MAB um acordo sem a participa&ccedil;&atilde;o dos atingidos, tem o objetivo de retirar direitos, ele foi estrat&eacute;gico para que a Samarco, a Vale e a BHP Billiton lucrem e saiam impunes desse crime&rdquo;, afirmou um militante do MAB.</p>
+
+<p>&nbsp;</p>
+
+<p><img alt="WhatsApp Image 2016-09-30 at 11.14.45.jpeg" src="//farm6.staticflickr.com/5350/29940811771_b8827b6178_b.jpg" /></p>
+
+<p>&nbsp;</p>
