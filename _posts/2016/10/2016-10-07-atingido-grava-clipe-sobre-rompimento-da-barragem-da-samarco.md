@@ -40,3 +40,4 @@ releated_posts:
   - 2016/06/2016-06-23-atingidos-em-barra-longa-exigem-da-samarco-asfaltamento-de-estrada-para-ponte-nova.md
 
 ---
+<p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/R7VL2Ap9uEA" width="640"></iframe></p>
