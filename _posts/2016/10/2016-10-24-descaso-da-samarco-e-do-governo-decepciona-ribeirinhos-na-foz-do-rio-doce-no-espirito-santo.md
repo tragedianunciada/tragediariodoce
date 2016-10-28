@@ -9,7 +9,7 @@ editoria: atingido
 micro-regiao: colatina
 autoria-local: "Joka Madruga\nTerra Sem Males - Regência-ES"
 support_line: "“Ficamos na expectativa, não de perder a esperança, mas de buscar fortalecer as pessoas da comunidade para que não desistam dela”, explica Alessandro Pescador, morador de Regência"
-title: Descaso Da Samarco E Do Governo Decepciona Ribeirinhos Na Foz Do Rio Doce No Espírito Santo
+title: Descaso da Samarco e do Governo decepciona ribeirinhos na foz do rio Doce no Espírito Santo
 images_hd: //farm6.staticflickr.com/5586/30423893992_9931a42d84_b.jpg
 layout: post
 files:
