@@ -36,7 +36,7 @@ releated_posts: []
 
 <p>&nbsp;</p>
 
-<p style="margin-left:106.2pt;"><strong>Carta dos atingidos pela Samarco pelo direito &agrave; sa&uacute;de</strong></p>
+<p style="margin-left: 106.2pt; text-align: center;"><strong>Carta dos atingidos pela Samarco pelo direito &agrave; sa&uacute;de</strong></p>
 
 <p style="margin-left:106.2pt;">&nbsp;</p>
 
