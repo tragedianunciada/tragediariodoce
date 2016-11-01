@@ -14,7 +14,7 @@ editoria: atingido
 micro-regiao: colatina
 autoria-local: Comunicação MAB
 title: Um rio morto que assombra a cidade
-support_line: "Resplendor (MG) já havia sido atingido pela Vale com a hidrelétrica de Aimorés, e agora sua população é obrigada a conviver com a morte do Rio Doce bem no meio da cidade"
+support_line: "Resplendor (MG) já havia sido atingida pela Vale com a hidrelétrica de Aimorés, e agora sua população é obrigada a conviver com a morte do Rio Doce bem no meio da cidade"
 images_hd: //farm6.staticflickr.com/5515/30076644543_723a0188ae_b.jpg
 layout: post
 files:
