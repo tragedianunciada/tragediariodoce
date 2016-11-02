@@ -16,7 +16,7 @@ editoria: atingido
 micro-regiao: valadares
 autoria-local: "\"1 Ano de Lama e Luta\""
 title: Samarco matou Uatu
-support_line: "Geovani Krenak fala da morte do rio Doce, decorrente do rompimento da barragem de Fundão, ocorrida no dia 5 de novembro de 2015"
+support_line: "Geovani Krenak fala da morte do rio Doce, decorrente do rompimento da barragem de Fundão, ocorrido no dia 5 de novembro de 2015"
 images_hd: //farm6.staticflickr.com/5503/30612424682_21b854bdbc_b.jpg
 layout: post
 files:
