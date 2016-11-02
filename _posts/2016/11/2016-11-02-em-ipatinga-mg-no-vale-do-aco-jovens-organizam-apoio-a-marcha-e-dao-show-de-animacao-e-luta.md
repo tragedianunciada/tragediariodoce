@@ -7,7 +7,7 @@ tipo: noticia
 editoria: atingido
 micro-regiao: valadares
 autoria-local: Ipatinga-MG
-title: "Em Ipatinga(MG), no Vale do Aço, jovens organizam apoio à Marcha e dão show de animação e luta"
+title: "Em Ipatinga (MG), no Vale do Aço, jovens organizam apoio à Marcha e dão show de animação e luta"
 support_line: "“A partir das atividades do MAB estamos vendo que os jovens estão se posicionando, querendo se mobilizar e entrar na luta\", afirma militante do Levante Popular da Juventude"
 images_hd: //farm6.staticflickr.com/5553/30423132970_866ecdf42e_b.jpg
 layout: post
