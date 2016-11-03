@@ -48,6 +48,8 @@ releated_posts:
   - 2016/03/2016-03-23-projeto-de-lei-propoe-protecao-a-atingidos-por-barragens-em-mg.md
 
 ---
+<p><em>Fotos: Maxwell Vilela</em></p>
+
 <p>No segundo dia da Marcha &ldquo;1 Ano de Lama e Luta&rdquo;, o grupo de atingidos chega a Governador Valadares (MG), maior cidade atingida pela lama com rejeitos da Samarco (Vale/BHP) , e regi&atilde;o onde tamb&eacute;m foram impactadas tribos ind&iacute;genas, como a Krenak. &nbsp;O representante da aldeia, Geovani Krenak, fala sobre a influ&ecirc;ncia que o rompimento da barragem do Fund&atilde;o, em Mariana (MG), teve sobre o cotidiano da aldeia e sobre a morte do Uatu, nome utilizado pela tribo para o Rio Doce.</p>
 
 <p>&ldquo;Nosso povo n&atilde;o sabia o que tava acontecendo, a gente via notici&aacute;rios e a gente n&atilde;o sabia que a lama chegaria muito longe, do local do rompimento at&eacute; nossa aldeia. Os peixes foram ficando tontos, muito peixe, e eles come&ccedil;aram a morrer. N&oacute;s elaboramos um documento exigindo da empresa uma provid&ecirc;ncia, e tamb&eacute;m &aacute;gua&rdquo;, narrou Giovane. Estas medidas n&atilde;o foram tomadas pela empresa, deixando a tribo, j&aacute; criminalizada na sua luta pela manuten&ccedil;&atilde;o do meio ambiente, desamparada. Geovani comenta tamb&eacute;m sobre a n&atilde;o aceita&ccedil;&atilde;o da luta dos Krenak, e como a falta do recurso h&iacute;drico para diversos munic&iacute;pios mudaram esta vis&atilde;o.</p>
