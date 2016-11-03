@@ -25,6 +25,12 @@ files:
     small: //farm6.staticflickr.com/5574/30116575773_383d28d89b_n.jpg
     title: danilo candombe1.jpg
     $$hashKey: 07B
+  - link: //farm6.staticflickr.com/5655/30635588452_3f8bc71a3b_b.jpg
+    thumbnail: //farm6.staticflickr.com/5655/30635588452_3f8bc71a3b_t.jpg
+    medium: //farm6.staticflickr.com/5655/30635588452_3f8bc71a3b_z.jpg
+    small: //farm6.staticflickr.com/5655/30635588452_3f8bc71a3b_n.jpg
+    title: IMG_7804.jpg
+    $$hashKey: 0AB
 created_date: "2016-11-03T10:36:58-02:00"
 published: true
 releated_posts:
@@ -44,6 +50,8 @@ releated_posts:
 <p>Entre os dias 3 e 5 de novembro, aproximadamente 800 pessoas do Esp&iacute;rito Santo e Minas Gerais se encontram em Mariana (MG) para debater o futuro da bacia do rio Doce. Os participantes s&atilde;o atingidos pelo rompimento da barragem de rejeitos da Samarco (Vale/BHP Billiton), ocorrido no dia 5 de novembro de 2015.</p>
 
 <p>A atividade, que ocorrer&aacute; na Arena Mariana, localizada no centro da cidade, tamb&eacute;m contar&aacute; com a presen&ccedil;a de integrantes da Arquidiocese de Mariana, da Plataforma Oper&aacute;ria e Camponesa para Energia, Rede de M&eacute;dicos e M&eacute;dicas Populares, Conselho Nacional de Direitos Humanos, Minist&eacute;rio P&uacute;blico Federal e Minist&eacute;rio P&uacute;blico Estado de Minas Gerais, al&eacute;m de sindicatos e movimentos sociais.</p>
+
+<p><img alt="IMG_7804.jpg" src="//farm6.staticflickr.com/5655/30635588452_3f8bc71a3b_b.jpg" /></p>
 
 <p>Na noite do dia 3 de novembro, ocorrer&atilde;o apresenta&ccedil;&otilde;es da banda Falamansa e do cantor Fl&aacute;vio Renegado. Tamb&eacute;m est&aacute; prevista a an&aacute;lise de integrantes do Movimento Humanos Direitos, grupo formado por artistas e intelectuais do Rio de Janeiro.</p>
 
