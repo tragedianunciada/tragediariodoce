@@ -4,7 +4,7 @@ tags: []
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
-autoria-local: Em Barra Longa
+autoria-local: "Em Barra Longa. Foto: Maxwell Vilela"
 title: Samarco usa táticas de manipulação para desmobilizar organização dos atingidos
 support_line: "Samarco (Vale/BHP Billiton) usa a cidade de Barra Longa para reparar não os danos causados, mas sua imagem pública"
 images_hd: //farm6.staticflickr.com/5570/30640578632_a2f15af597_b.jpg
