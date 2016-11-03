@@ -4,7 +4,7 @@ tags: []
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
-autoria-local: "Em Barra Longa. Foto: Maxwell Vilela"
+autoria-local: "Em Barra Longa. "
 title: Samarco usa táticas de manipulação para desmobilizar organização dos atingidos
 support_line: "Samarco (Vale/BHP Billiton) usa a cidade de Barra Longa para reparar não os danos causados, mas sua imagem pública"
 images_hd: //farm6.staticflickr.com/5570/30640578632_a2f15af597_b.jpg
@@ -21,7 +21,7 @@ published: true
 releated_posts: []
 
 ---
-<p><em>Foto: Ninja</em></p>
+<p><em>Foto: M&iacute;dia Ninja</em></p>
 
 <p>A marcha &ldquo;1 Ano de Lama e Luta&rdquo;, em den&uacute;ncia ao crime da Samarco (Vale/BHP Billiton) passou pelo munic&iacute;pio de Barra Longa (MG), no dia 02 de novembro. Antes cart&atilde;o postal do crime de derramamento de lama t&oacute;xica por toda a bacia do Rio Doce, o munic&iacute;pio agora &eacute; exemplo de como &eacute; poss&iacute;vel disfar&ccedil;ar um crime, literalmente jogando a lama &ldquo;por baixo do tapete&rdquo;.</p>
 
