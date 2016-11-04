@@ -7,7 +7,7 @@ micro-regiao: mariana
 autoria-local: Comunicação MAB
 title: "Insuficiência do judiciário exige organização e luta dos atingidos "
 support_line: "Representantes do Ministério Público, parlamentares, procuradoria federal e especialistas em direitos humanos participam da mesa de debates desta manhã no Encontro dos Atingidos em Mariana (MG)"
-images_hd: //farm6.staticflickr.com/5770/30776161445_67c628d84a_b.jpg
+images_hd: //farm6.staticflickr.com/5746/30776205335_b1efef381a_b.jpg
 layout: post
 files:
   - link: //farm6.staticflickr.com/5770/30776161445_67c628d84a_b.jpg
@@ -16,6 +16,12 @@ files:
     small: //farm6.staticflickr.com/5770/30776161445_67c628d84a_n.jpg
     title: photo859027733495261267.jpg
     $$hashKey: 01Y
+  - link: //farm6.staticflickr.com/5746/30776205335_b1efef381a_b.jpg
+    thumbnail: //farm6.staticflickr.com/5746/30776205335_b1efef381a_t.jpg
+    medium: //farm6.staticflickr.com/5746/30776205335_b1efef381a_z.jpg
+    small: //farm6.staticflickr.com/5746/30776205335_b1efef381a_n.jpg
+    title: photo498830331280993240.jpg
+    $$hashKey: 04E
 created_date: "2016-11-04T15:17:18-02:00"
 published: true
 releated_posts: []
