@@ -41,6 +41,8 @@ releated_posts:
   - 2016/05/2016-05-19-atingidos-pressionam-samarco-e-ampliam-direitos-em-barra-longa.md
 
 ---
+<p><em>Foto: Guilherme Weimann</em></p>
+
 <p>Faf&aacute; da Barra &eacute; atingido pela rompimento da Barragem de Fund&atilde;o da Samarco (Vale/BHP Billiton), que se rompeu no dia 5 de novembro de 2015. Morador de Barra Longa, Faf&aacute; viu sua cidade ser tomada pela lama vinda pelo Rio Doce, que beira o munic&iacute;pio. M&uacute;sico, com quatro discos autorais lan&ccedil;ados ao longo dos muitos anos de sua carreira, o filho da Barra traduziu em acordes o sentimento que vive desde a trag&eacute;dia na m&uacute;sica &ldquo;Desumano&rdquo;. Faf&aacute; fala sobre a chegada da lama, sua rela&ccedil;&atilde;o com a cidade e com o Movimento dos Atingidos por Barragens (MAB).</p>
 
 <p><iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/R7VL2Ap9uEA" width="640"></iframe></p>
