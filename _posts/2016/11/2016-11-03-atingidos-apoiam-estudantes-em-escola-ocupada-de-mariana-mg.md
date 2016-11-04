@@ -63,6 +63,8 @@ releated_posts:
 
 <p><em>Foto: Lidyane Ponciano</em></p>
 
+<p>&ldquo;N&oacute;s somos juventude, mas temos que estar junto das mulheres, da negritude e de todos os oprimidos, devemos no entender enquanto povo&rdquo;, afirma Iara C&aacute;ssia, militante do Levante Popular da Juventude. O movimento est&aacute; acompanhando a ocupa&ccedil;&atilde;o no Dom Silv&eacute;rio, buscando apoiar e levar a experi&ecirc;ncia do Levante para somar aos estudantes, j&aacute; que o grupo tem acompanhando ocupa&ccedil;&otilde;es em todo o pa&iacute;s desde o in&iacute;cio das mobiliza&ccedil;&otilde;es. Em Minas Gerais, o movimento comp&otilde;e a mobiliza&ccedil;&atilde;o contra a PEC 241 em escolas nos munic&iacute;pios de Uberl&acirc;ncia e S&atilde;o Jo&atilde;o Del Rey e na universidade de Lavras.</p>
+
 <p><strong>Solidariedade</strong></p>
 
 <p>Professora de l&iacute;ngua portuguesa Cl&aacute;udia de Oliveira est&aacute; surpresa com a experi&ecirc;ncia da ocupa&ccedil;&atilde;o e com o apoio do corpo de trabalhadores da escola. &ldquo;Isso aqui &eacute; muito bom. Muitos alunos ficavam ap&aacute;ticos durante as aulas. Agora, voc&ecirc; v&ecirc; os estudantes coordenando toda uma estrutura de ocupa&ccedil;&atilde;o da escola e percebe como n&atilde;o conhecemos nossos alunos. A gente percebe como eles se envolvem quando eles acreditam em uma coisa&rdquo;, reflete.</p>
