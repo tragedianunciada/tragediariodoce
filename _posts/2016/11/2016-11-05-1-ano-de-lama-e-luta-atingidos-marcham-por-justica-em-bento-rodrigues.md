@@ -14,7 +14,7 @@ micro-regiao: mariana
 autoria-local: Comunicação MAB
 title: "1 Ano de Lama e Luta: atingidos marcham por justiça em Bento Rodrigues"
 support_line: "No aniversário de um ano do crime da Samarco (Vale/BHP Billiton), aproximadamente mil pessoas realizaram ato político no distrito de Mariana (MG)"
-images_hd: //farm6.staticflickr.com/5739/30161025343_b38916006c_b.jpg
+images_hd: //farm6.staticflickr.com/5807/30497719150_8fc63e05cc_b.jpg
 layout: post
 files:
   - link: //farm6.staticflickr.com/5739/30161025343_b38916006c_b.jpg
@@ -35,6 +35,12 @@ files:
     small: //farm6.staticflickr.com/5781/30495316940_923afa4929_n.jpg
     title: LT_2016_11_05_Marcha 1 Ano-Acidente Samarco Mariana_1747_Foto_Leandro Taques.jpg
     $$hashKey: 02P
+  - link: //farm6.staticflickr.com/5807/30497719150_8fc63e05cc_b.jpg
+    thumbnail: //farm6.staticflickr.com/5807/30497719150_8fc63e05cc_t.jpg
+    medium: //farm6.staticflickr.com/5807/30497719150_8fc63e05cc_z.jpg
+    small: //farm6.staticflickr.com/5807/30497719150_8fc63e05cc_n.jpg
+    title: Imagem - Ato Mariana - Greenpeace - Alta (3 de 4)_BB.jpg
+    $$hashKey: 0AS
 created_date: "2016-11-05T15:47:34-02:00"
 published: true
 releated_posts:
@@ -56,6 +62,8 @@ releated_posts:
   - 2016/07/2016-07-01-a-lama-da-samarco-sobe-o-morro.md
 
 ---
+<p><em>Foto de capa: Yuri Barichivich/Greenpeace​&nbsp;</em></p>
+
 <p><em>Fotos: Leandro Taques</em></p>
 
 <p>Neste&nbsp;s&aacute;bado, 5 de novembro, data que marca o primeiro ano do rompimento da barragem de rejeitos de Fund&atilde;o, aproximadamente mil atingidos e apoiadores marcharam pelas ruas de Bento Rodrigues, distrito de Mariana (MG), em mem&oacute;ria das v&iacute;timas, pela repara&ccedil;&atilde;o dos danos causados &agrave; popula&ccedil;&atilde;o e pela puni&ccedil;&atilde;o dos respons&aacute;veis pelo crime.</p>
@@ -79,5 +87,7 @@ releated_posts:
 <p><strong>Justi&ccedil;a </strong></p>
 
 <p>O Greenpeace realizou, em parceria com o MAB, uma interven&ccedil;&atilde;o para cobrar a responsabiliza&ccedil;&atilde;o dos culpados por este que &eacute; considerado o maior desastre socioambiental da hist&oacute;ria do Brasil.</p>
+
+<p>&nbsp;</p>
 
 <p>Foi colocada a palavra &ldquo;Justi&ccedil;a&rdquo;, em cima da Escola Municipal Bento Rodrigues, completamente destru&iacute;da com o rompimento de Fund&atilde;o. Nos seus escombros, os atingidos entoaram o grito de ordem &ldquo;&Aacute;guas para a vida, n&atilde;o para a morte&rdquo;.&nbsp;</p>
