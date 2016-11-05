@@ -58,7 +58,7 @@ releated_posts:
 ---
 <p><em>Fotos: Leandro Taques</em></p>
 
-<p>Nesta s&aacute;bado, 5 de novembro, data que marca o primeiro ano do rompimento da barragem de rejeitos de Fund&atilde;o, aproximadamente mil atingidos e apoiadores marcharam pelas ruas de Bento Rodrigues, distrito de Mariana (MG), em mem&oacute;ria das v&iacute;timas, pela repara&ccedil;&atilde;o dos danos causados &agrave; popula&ccedil;&atilde;o e pela puni&ccedil;&atilde;o dos respons&aacute;veis pelo crime.</p>
+<p>Neste&nbsp;s&aacute;bado, 5 de novembro, data que marca o primeiro ano do rompimento da barragem de rejeitos de Fund&atilde;o, aproximadamente mil atingidos e apoiadores marcharam pelas ruas de Bento Rodrigues, distrito de Mariana (MG), em mem&oacute;ria das v&iacute;timas, pela repara&ccedil;&atilde;o dos danos causados &agrave; popula&ccedil;&atilde;o e pela puni&ccedil;&atilde;o dos respons&aacute;veis pelo crime.</p>
 
 <p>Organizado pelo Movimento dos Atingidos por Barragens (MAB), em parceria com a Arquidiocese de Mariana, a atividade fez parte da Jornada &ldquo;1 Ano de Lama e Luta&rdquo;, que percorreu todo o rastro dos rejeitos da Samarco (Vale/BHP Billiton), de Reg&ecirc;ncia (ES) a Mariana, desde o dia 31 de outubro.</p>
 
