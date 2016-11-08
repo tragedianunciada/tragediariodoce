@@ -9,7 +9,7 @@ tags:
   - tag: samarco
   - tag: vale
   - tag: bhp-billiton
-autoria-local: Flor Poznanski
+autoria-local: Florence Poznanski
 title: "Memória viva através da arte "
 support_line: "Wélidas Monteiro, mais conhecido como Preto, expõe suas recordações de 17 anos em que viveu em Bento Rodrigues por meio de instalação artística"
 micro-regiao: mariana
@@ -58,7 +58,7 @@ releated_posts:
 
 <p><img alt="instalação.jpg" src="//farm6.staticflickr.com/5775/30227174464_34f11214ae_b.jpg" /></p>
 
-<p><em>Foto: Flor&nbsp;Poznanski</em></p>
+<p><em>Foto: Florence Poznanski</em></p>
 
 <p>&ldquo;Morei em Bento Rodrigues durante 17 anos e lembro-me de cada detalhe e de cada esquina. Depois da trag&eacute;dia entendi que o mais importante &eacute; sempre preservar a mem&oacute;ria para que as pessoas enxerguem tudo que a Samarco destruiu. &Eacute; preciso que saibam que aqui tinha uma casa e que era assim, que aqui tinha um mercadinho e agora n&atilde;o tem mais&rdquo;, diz o artista. Das 600 casas de Bento Rodrigues ele j&aacute; retratou 60 casas e se empenha a entregar para cada morador o retrato do seu lar do jeito que era antes do crime da mineradora.</p>
 
