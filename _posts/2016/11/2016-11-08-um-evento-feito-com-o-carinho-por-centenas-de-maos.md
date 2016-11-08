@@ -14,7 +14,7 @@ tipo: noticia
 editoria: atingido
 micro-regiao: mariana
 autoria-local: Florence Poznanski
-title: "Um evento feito com o carinho por centenas de mãos "
+title: "Um evento feito com carinho por centenas de mãos "
 support_line: "Por meio do seu olhar, a jornalista Florence Poznanski mostra como se organizam os atingidos para a realização do Encontro dos Atingidos em Mariana (MG)"
 images_hd: //farm6.staticflickr.com/5678/30231032564_cb33e41d4f_b.jpg
 layout: post
