@@ -7,7 +7,7 @@ micro-regiao: valadares
 autoria-local: "Texto: Larissa Gould - Fotos: Leandro Taques/Jornalistas Livres"
 title: "Cachoeira Escura: no mapa da tragédia"
 support_line: "Em Cachoeira Escura éramos cerca de 300. Em cada parada um ato simbólico representava a luta e a esperança de todos. Lá, plantaríamos mudas de árvore às margens do Rio Doce."
-images_hd: //farm6.staticflickr.com/5450/30246080173_60e0882d29_b.jpg
+images_hd: //farm6.staticflickr.com/5673/30765350682_442b5caedf_b.jpg
 layout: post
 files:
   - link: //farm6.staticflickr.com/5476/30765349632_4e0ab3588e_b.jpg
@@ -95,6 +95,8 @@ releated_posts: []
 
 <p>Passamos por ela no caminho da marcha. E a marcha seguiu. No caminho, outros atingidos relataram problemas de sa&uacute;de e nos mostram manchas na pele. De acordo com a prefeitura, a &aacute;gua n&atilde;o apresenta riscos.</p>
 
+<p><img alt="lama.jpg" src="//farm6.staticflickr.com/5450/30246080173_60e0882d29_b.jpg" /></p>
+
 <p>De cidade a cidade a marcha dos atingidos cresce. Em Cachoeira Escura &eacute;ramos cerca de 300. Em cada parada um ato simb&oacute;lico representava a luta e a esperan&ccedil;a de todos. L&aacute;, plantar&iacute;amos mudas de &aacute;rvore &agrave;s margens do Rio Doce.</p>
 
 <p>L&aacute; tamb&eacute;m fica uma esta&ccedil;&atilde;o da Vale, uma das propriet&aacute;rias da Samarco, patrocinadora do crime da lama t&oacute;xica. Acontece que a Vale e o Estado n&atilde;o gostam de luta.</p>
@@ -107,6 +109,6 @@ releated_posts: []
 
 <p>Munidos de cassetetes, escudo e c&atilde;es. Tentaram parar a marcha.</p>
 
-<p><img alt="lama6.jpg" src="//farm6.staticflickr.com/5673/30765350682_442b5caedf_b.jpg" /></p>
+<p><img alt="Lama6 (1).jpg" src="//farm6.staticflickr.com/5476/30765349632_4e0ab3588e_b.jpg" /></p>
 
 <p>Coitados. Como se depois de caminhar centenas de quil&ocirc;metros alguns vag&otilde;es e militares fossem parar aquele povo de luta. Deram a volta. Plantaram as mudas, plantaram a esperan&ccedil;a, plantaram a resist&ecirc;ncia.&nbsp; &nbsp; &nbsp;</p>
