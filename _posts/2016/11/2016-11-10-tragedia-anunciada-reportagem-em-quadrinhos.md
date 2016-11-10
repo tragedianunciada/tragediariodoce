@@ -16,7 +16,7 @@ tags:
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
-autoria-local: "Guilherme Weimann, Rafaela Dotta, Vitor Teixeira"
+autoria-local: "Guilherme Weimann, Rafaella Dotta, Vitor Teixeira"
 title: Tragédia Anunciada - Reportagem em Quadrinhos
 support_line: "O tempo parou em Bento Rodrigues: um estrondo e nada mais se movia no tempo que dava ritmo à vida dos moradores"
 images_hd: //farm6.staticflickr.com/5521/30785930532_1cd5ff8187_b.jpg
