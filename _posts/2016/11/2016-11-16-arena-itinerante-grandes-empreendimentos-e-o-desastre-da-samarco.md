@@ -16,8 +16,9 @@ files:
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
   - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
+  - "\"Authentication failed : 'https://api.flickr.com/services/upload/' - Filetype was not recognised\""
 created_date: "2016-11-16T16:11:24-02:00"
-published: true
+published: false
 releated_posts: []
 
 ---
