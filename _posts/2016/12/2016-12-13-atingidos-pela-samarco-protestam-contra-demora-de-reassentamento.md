@@ -10,15 +10,15 @@ micro-regiao: mariana
 autoria-local: Barra Longa- MG
 title: Atingidos pela Samarco protestam contra demora de reassentamento
 support_line: "Em Gesteira, Samarco realizou votação para a escolha do terreno em junho, mas nada avançou 13 meses depois do rompimento"
-images_hd: //farm1.staticflickr.com/533/31502293211_d934c79030_b.jpg
+images_hd: //farm6.staticflickr.com/5654/30776586264_d5e780a407_b.jpg
 layout: post
 files:
-  - link: //farm1.staticflickr.com/533/31502293211_d934c79030_b.jpg
-    thumbnail: //farm1.staticflickr.com/533/31502293211_d934c79030_t.jpg
-    medium: //farm1.staticflickr.com/533/31502293211_d934c79030_z.jpg
-    small: //farm1.staticflickr.com/533/31502293211_d934c79030_n.jpg
-    title: WhatsApp Image 2016-08-25 at 11.51.02.jpeg
-    $$hashKey: 01N
+  - link: //farm6.staticflickr.com/5654/30776586264_d5e780a407_b.jpg
+    thumbnail: //farm6.staticflickr.com/5654/30776586264_d5e780a407_t.jpg
+    medium: //farm6.staticflickr.com/5654/30776586264_d5e780a407_z.jpg
+    small: //farm6.staticflickr.com/5654/30776586264_d5e780a407_n.jpg
+    title: IMG-20160825-WA0038.jpg
+    $$hashKey: 02B
 created_date: "2016-12-13T09:50:31-02:00"
 published: true
 releated_posts: []
