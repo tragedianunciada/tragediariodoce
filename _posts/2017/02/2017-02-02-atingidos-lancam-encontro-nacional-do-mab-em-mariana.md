@@ -9,7 +9,7 @@ editoria: atingido
 micro-regiao: mariana
 autoria-local: Mariana-MG
 support_line: Local do lançamento foi usado como cadeia e pelourinho para os escravos que trabalhavam na mineração
-title: "Atingidos lançam Encontro Nacional do MAB em Mariana\n"
+title: "Atingidos lançam 8° Encontro Nacional do MAB em Mariana\n"
 images_hd: //farm1.staticflickr.com/649/31857485023_10a1b4433b_b.jpg
 layout: post
 files:
@@ -41,7 +41,7 @@ releated_posts: []
 ---
 <p>Atingidos por Barragens de diferentes lugares da Zona da Mata e da regi&atilde;o central de Minas Gerais realizaram na tarde da &uacute;ltima ter&ccedil;a-feira (31) um ato pol&iacute;tico de lan&ccedil;amento do <strong><em>8&ordm; Encontro Nacional do Movimento dos Atingidos por Barragens (MAB) </em></strong>que ser&aacute; realizado na cidade do Rio de Janeiro entre os dias 1&ordm; e 5 de outubro de 2017.</p>
 
-<p>O lan&ccedil;amento foi feito na Pra&ccedil;a Minas Gerais, diante das igrejas hist&oacute;ricas de S&atilde;o Francisco de Assis e Nossa Senhora do Carmo, da C&acirc;mara Municipal e antiga cadeia de Mariana e do pelourinho instalado no centro da pra&ccedil;a. &ldquo;Este &eacute; um lugar muito importante para a hist&oacute;ria porque ele denuncia o poder e a viol&ecirc;ncia da minera&ccedil;&atilde;o ao longo dos s&eacute;culos. S&iacute;mbolo da explora&ccedil;&atilde;o contra os negros e dos desmandos dos poderosos. Estamos ocupando esta pra&ccedil;a para indicar que outra hist&oacute;ria &eacute; poss&iacute;vel.&rdquo;, afirmou Luiza Silva, militante da MAB.</p>
+<p>O lan&ccedil;amento foi feito na Pra&ccedil;a Minas Gerais, diante das igrejas hist&oacute;ricas de S&atilde;o Francisco de Assis e Nossa Senhora do Carmo, da C&acirc;mara Municipal e antiga cadeia de Mariana e do pelourinho instalado no centro da pra&ccedil;a. &ldquo;Este &eacute; um lugar muito importante para a hist&oacute;ria porque ele denuncia o poder e a viol&ecirc;ncia da minera&ccedil;&atilde;o ao longo dos s&eacute;culos. S&iacute;mbolo da explora&ccedil;&atilde;o contra os negros e dos desmandos dos poderosos. Estamos ocupando esta pra&ccedil;a para indicar que outra hist&oacute;ria &eacute; poss&iacute;vel.&rdquo;, afirmou Lu&iacute;za Silva, militante da MAB.</p>
 
 <p><img alt="7afcc132-3902-498d-b5be-a531a5cc4384.jpg" src="//farm1.staticflickr.com/540/32290765900_4330457800_b.jpg" /></p>
 
