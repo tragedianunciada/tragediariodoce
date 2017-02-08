@@ -1,6 +1,8 @@
 ---
 date: "2017-02-08T09:18:13-02:00"
-tags: []
+tags:
+  - tag: gesteira
+  - tag: indenização
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
