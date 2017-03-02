@@ -4,7 +4,7 @@ tags: []
 tipo: noticia
 editoria: atingido
 micro-regiao: mariana
-autoria-local: "Eloá Magalhães, Barra Longa-MG "
+autoria-local: " Barra Longa-MG "
 support_line: "Mesmo em meio à confusão de informações, MAB entrega pauta de reinvindicações para alta chefia da Samarco. Ela se nega asfaltar a estrada para Ponte Nova. Moradores consideram Plano de Emergência nulo."
 title: "Em Barra Longa, atingidos reagem a tentativa da Samarco de desmobilizar comunidade"
 images_hd: //farm8.staticflickr.com/7354/27586504430_1b8e1f3d35_b.jpg
