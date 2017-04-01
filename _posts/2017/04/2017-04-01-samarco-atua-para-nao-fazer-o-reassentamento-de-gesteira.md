@@ -80,10 +80,10 @@ releated_posts:
 
 <p>Grupo de Estudos e Pesquisas Socioambientais&nbsp;-GEPSA/UFOP</p>
 
-<p>Grupo Pol&iacute;tica, Economia, Minera&ccedil;&atilde;o, Ambiente e Sociedade- Poemas/ufjf</p>
+<p>Grupo Pol&iacute;tica, Economia, Minera&ccedil;&atilde;o, Ambiente e Sociedade- Poemas/UFJF</p>
 
 <p>N&uacute;cleo de Estudo, Pesquisa e Extens&atilde;o em Mobiliza&ccedil;&otilde;es Sociais - Organon/ufes</p>
 
-<p>Projeto Direitos Humanos e Empresas- Homa/ufjf</p>
+<p>Projeto Direitos Humanos e Empresas- Homa/UFJF</p>
 
 <p>&nbsp;</p>
