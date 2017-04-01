@@ -9,9 +9,9 @@ tipo: noticia
 editoria: atingido
 micro-regiao: colatina
 autoria-local: Belo Horizonte-MG
-title: "Após protesto do MAB, Samarco reconhece atingidos na foz do Rio Doce"
+title: "Após protesto do MAB, Comitê Interfederativo reconhece atingidos na foz do Rio Doce"
 support_line: "A vitória veio um dia depois da intervenção do MAB na reunião do Comitê Interfederativo da Fundação Renova, em Belo Horizonte."
-images_hd: //farm3.staticflickr.com/2842/33645590531_957f9a2e28_b.jpg
+images_hd: //farm3.staticflickr.com/2828/32963676203_c61678ef06_b.jpg
 layout: post
 files:
   - link: //farm3.staticflickr.com/2842/33645590531_957f9a2e28_b.jpg
@@ -21,6 +21,13 @@ files:
     small: //farm3.staticflickr.com/2842/33645590531_957f9a2e28_n.jpg
     title: 4fe21623-c2b8-4411-8954-b978ad9413a6 (1).jpg
     $$hashKey: 04J
+  - link: //farm3.staticflickr.com/2828/32963676203_c61678ef06_b.jpg
+    original: //farm3.staticflickr.com/2828/32963676203_d599708478_o.jpg
+    thumbnail: //farm3.staticflickr.com/2828/32963676203_c61678ef06_t.jpg
+    medium: //farm3.staticflickr.com/2828/32963676203_c61678ef06_z.jpg
+    small: //farm3.staticflickr.com/2828/32963676203_c61678ef06_n.jpg
+    title: WhatsApp Image 2017-03-30 at 16.21.53.jpeg
+    $$hashKey: 02M
 created_date: "2017-04-01T12:31:15-03:00"
 published: true
 releated_posts:
