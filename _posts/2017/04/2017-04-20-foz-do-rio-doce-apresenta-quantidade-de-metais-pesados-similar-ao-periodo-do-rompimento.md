@@ -6,7 +6,7 @@ tags:
   - tag: saúde
 tipo: noticia
 editoria: meio-ambiente
-micro-regiao: mariana
+micro-regiao: colatina
 autoria-local: "*com informações do G1"
 title: Foz do Rio Doce apresenta quantidade de metais pesados similar ao período do rompimento
 support_line: "Coletas feitas por pesquisadores da Ufes em dezembro de 2016 mostram quantidade de metais pesados semelhante a de dezembro de 2015, logo após o rompimento da barragem de Fundão"
