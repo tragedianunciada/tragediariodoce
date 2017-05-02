@@ -5,7 +5,7 @@ tipo: noticia
 editoria: atingido
 micro-regiao: valadares
 autoria-local: Naque-MG
-title: "Fundação Renova anunciou que cortará cartão auxílio financeiro em cidades atingidas pela Samarco, no Vale do Aço mineiro"
+title: "Fundação Renova anuncia que cortará cartão auxílio financeiro em cidades atingidas pela Samarco, no Vale do Aço mineiro"
 support_line: "Na cidade de Naque produtores rurais e pescadores ainda continuam sem ser reconhecidos como atingidos "
 images_hd: //farm3.staticflickr.com/2824/34264476236_37af48f08b_b.jpg
 layout: post
