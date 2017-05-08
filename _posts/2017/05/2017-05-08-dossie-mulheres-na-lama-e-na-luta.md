@@ -115,7 +115,7 @@ Desde a trag&eacute;dia provocada pela Samarco e da consequente mobiliza&ccedil;
 
 <div>&nbsp;</div>
 
-<div>Porque as mulheres s&atilde;o as mais afetadas?</div>
+<div><strong>Porque as mulheres s&atilde;o as mais afetadas?</strong></div>
 
 <div>&nbsp;</div>
 
@@ -178,7 +178,7 @@ Desde a trag&eacute;dia provocada pela Samarco e da consequente mobiliza&ccedil;
 
 <div>&nbsp;</div>
 
-<div>Listamos algumas das principais viola&ccedil;&otilde;es ocorridas:</div>
+<div><strong>Listamos algumas das principais viola&ccedil;&otilde;es ocorridas:</strong></div>
 
 <div>&nbsp;</div>
 
@@ -234,7 +234,7 @@ Desde a trag&eacute;dia provocada pela Samarco e da consequente mobiliza&ccedil;
 
 <div>&nbsp;</div>
 
-<div>Quest&atilde;o econ&ocirc;mica: indeniza&ccedil;&otilde;es somente para os homens</div>
+<div><strong>Quest&atilde;o econ&ocirc;mica: indeniza&ccedil;&otilde;es somente para os homens</strong></div>
 
 <div>&nbsp;</div>
 
