@@ -10,7 +10,7 @@ editoria: atingido
 micro-regiao: valadares
 autoria-local: Periquito-MG
 support_line: Atingidos questionam conduta da Fundação Renova na cidade
-title: "Em Periquito (MG), Atingidos ocupam linha de trem "
+title: "Em Periquito (MG), atingidos pela Samarco ocupam linha de trem "
 images_hd: //farm5.staticflickr.com/4261/34886123152_a841896e8d_b.jpg
 layout: post
 files:
