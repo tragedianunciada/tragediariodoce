@@ -6,7 +6,7 @@ editoria: atingido
 micro-regiao: null
 autoria-local: Programa Sexta Valente
 title: Debate sobre 1 ano do rompimento da Barragem de Fundão
-support_line: "Joceli Andrioli, da Coordenação Nacional do MAB, fala no debate sobre 1 ano do crime da Samarco e 6 meses do Golpe, no Programa Sexta Valente em novembro de 2016"
+support_line: "Joceli Andrioli, da Coordenação Nacional do MAB, debate sobre 1 ano do crime da Samarco e 6 meses do Golpe, no Programa Sexta Valente em novembro de 2016"
 video: "https://www.youtube.com/watch?v=BWwEuUCUrmU&list=FL3UDbLgGfCfxiHDc7m8faQQ"
 images_hd: //farm5.staticflickr.com/4229/34337182294_ee054ec5d6_b.jpg
 layout: post
