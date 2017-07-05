@@ -10,7 +10,7 @@ micro-regiao: mariana
 autoria-local: Barra Longa-MG
 title: "A tragédia 20 meses depois:                                                                nenhum tijolo no reassentamento de Gesteira"
 support_line: Samarco e Fundação Renova atuam dividindo e negando direitos.                                                                  Atingidos buscam se organizar e construir protagonismo.
-images_hd: //farm5.staticflickr.com/4141/34912572573_bdd135511b_b.jpg
+images_hd: //farm5.staticflickr.com/4218/35565981142_3afbe4a027_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4141/34912572573_bdd135511b_b.jpg
@@ -20,6 +20,13 @@ files:
     small: //farm5.staticflickr.com/4141/34912572573_bdd135511b_n.jpg
     title: familiadobarulho_fabio_tito-g1-51.jpg
     $$hashKey: 01N
+  - link: //farm5.staticflickr.com/4218/35565981142_3afbe4a027_b.jpg
+    original: //farm5.staticflickr.com/4218/35565981142_0bd4742a7a_o.jpg
+    thumbnail: //farm5.staticflickr.com/4218/35565981142_3afbe4a027_t.jpg
+    medium: //farm5.staticflickr.com/4218/35565981142_3afbe4a027_z.jpg
+    small: //farm5.staticflickr.com/4218/35565981142_3afbe4a027_n.jpg
+    title: 24062162954_3ceeeeac79_k.jpg
+    $$hashKey: 02J
 created_date: "2017-07-04T17:51:08-03:00"
 published: true
 releated_posts:
@@ -29,7 +36,7 @@ releated_posts:
   - 2017/06/2017-06-23-com-cartao-sem-cartao-as-fragmentacoes-como-estrategia-de-controle-do-territorio-pela-samarco-vale-bhp.md
 
 ---
-<p>Foto: Portal G1</p>
+<p>Foto: Leandro Taques</p>
 
 <p>Os escombros n&atilde;o deixam a mem&oacute;ria descansar. Andar por onde um dia foi a comunidade de Gesteira, povoado da cidade de Barra Longa, traz &agrave; tona toda a experi&ecirc;ncia traum&aacute;tica da noite de 5 para o dia 6 de novembro de 2015. A avalanche de lama que desceu do complexo da Samarco Minera&ccedil;&atilde;o S.A (Vale e BHP Billinton) avan&ccedil;ou mais de 50km ap&oacute;s o rompimento de Fund&atilde;o, mas chegou com imenso volume provocando destrui&ccedil;&atilde;o inimagin&aacute;vel.</p>
 
