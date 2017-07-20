@@ -11,7 +11,7 @@ micro-regiao: valadares
 autoria-local: Periquito-MG
 title: "Indignados com a Fundação Renova, atingidos paralisam linha de trem no Vale do Aço mineiro "
 support_line: "Entidade utiliza de plantão de atendimento para enrolar atingidos e negar os direitos a população  "
-images_hd: //farm5.staticflickr.com/4246/34353740094_3d21af61e9_b.jpg
+images_hd: //farm5.staticflickr.com/4199/34811741320_3ab677ab8f_b.jpg
 layout: post
 files:
   - link: //farm5.staticflickr.com/4246/34353740094_3d21af61e9_b.jpg
