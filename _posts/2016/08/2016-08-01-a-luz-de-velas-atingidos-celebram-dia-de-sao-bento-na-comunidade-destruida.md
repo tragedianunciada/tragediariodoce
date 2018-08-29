@@ -49,7 +49,7 @@ releated_posts: []
 
 <p>Foi um momento de, a partir da tristeza, renovar a esperan&ccedil;a, a uni&atilde;o, a f&eacute;, a possibilidade de constru&ccedil;&atilde;o do futuro e demonstrar que, mesmo tendo entrada restrita em um territ&oacute;rio de sua propriedade, a comunidade n&atilde;o vai permitir que tentem destruir suas tradi&ccedil;&otilde;es, sua mem&oacute;ria, sua uni&atilde;o e sua for&ccedil;a.</p>
 
-<p>Um m&ecirc;s antes da festa, um atingido disse: &ldquo;No dia 30, pelo menos uns foguetes n&oacute;s vamos soltar l&aacute;&rdquo;. Fizeram muito mais do que isso. Os foguetes iluminaram a escurid&atilde;o em que a Samarco colocou Bento Rodrigues e gritaram: estamos aqui e continuaremos vindo, pois esta terra &eacute; nossa e sempre ser&aacute;!</p>
+<p>Um m&ecirc;s antes da festa, um atingido disse: &ldquo;No dia 30, pelo menos uns foguetes n&oacute;s vamos soltar l&aacute;&rdquo;. Fizeram muito mais do que isso. Os foguetes iluminaram a escurid&atilde;o em que a Samarco colocou Bento Rodrigues e gritaram: estamos aqui e continuaremos vindo, pois esta terra &eacute; nossa e sempre ser&aacute;!!</p>
 
 <p><img alt="IMG-20160801-WA0000.jpg" src="//farm9.staticflickr.com/8303/28590860352_c264e1f32c_b.jpg" /></p>
 
